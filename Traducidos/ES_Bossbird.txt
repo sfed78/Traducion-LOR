@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<BossBirdTextRoot> 
+  <param key="Escape" index="0"> 
+    Habia una vez, tres felices aves que vivian en un frondoso y c·lido bosque. 
+  </param> 
+
+  <param key="BigBirdArrive" index="1"> 
+    Gran Ave, con sus muchos ojos, decidiÛ vigilar el bosque en busca de intrusos.&#13;&#10;Porque los ojos de Gran Ave podÌan ver muy lejos y ver cosas que nosotros no podemos ver. 
+  </param> 
+
+  <param key="LongBirdArrive" index="3"> 
+    Para mantener la paz del bosque, Ave Larga pesÛ los pecados de aquellos que entraron al bosque.&#13;&#10;Porque la balanza del Ave Larga era firme y justa, y podÌa pesar cualquier y todo tipo de pecado. 
+  </param> 
+
+  <param key="SmallBirdArrive" index="2"> 
+    La PequeÒa Ave decidiÛ castigar las malas acciones de las criaturas con su pico. 
+  </param> 
+
+  <param key="BossBirdAppear" index="4"> 
+    Entonces, en medio de todos los gritos caÛticos, alguien gritÛ:&#13;&#10;°Es la bestia! Un monstruo grande y aterrador vive en el bosque negro y oscuro!.‚Äù 
+  </param> 
+
+  <param key="BigBirdBreak" index="5"> 
+    Los ojos lejanos de la Gran Ave estaban cegados, 
+  </param> 
+ 
+  <param key="LongBirdBreak" index="7"> 
+    La cabeza que siempre miraba hacia el cosmos, se agachÛ, 
+  </param> 
+
+  <param key="SmallBirdBreak" index="6"> 
+    La boca de la PequeÒa Ave que podÌa devorar cualquier cosa, estaba cerrada, 
+  </param> 
+
+  <param key="Suppressed" index="8"> 
+    El p·jaro empezÛ a merodear por el bosque, pero no habÌa nada.&#13;&#10;No habÌa criaturas, ni sol ni luna, ni bestia. Todo lo que quedÛ fue solo una ave, y el bosque oscuro. 
+  </param> 
+</BossBirdTextRoot> 
+
+

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <!-- 아갈 뒤틀림 -->
+    <BattleCardDesc ID="707001">
+      <LocalizedName>Resonancia Controlada</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707002">
+      <LocalizedName>Hoz Oscilante</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707003">
+      <LocalizedName>Partir</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707004">
+      <LocalizedName>Corte de Guadaña</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="707011">
+      <LocalizedName>Crescendo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707012">
+      <LocalizedName>Grand Finale</LocalizedName>
+    </BattleCardDesc>
+
+    <!-- 엘레나 뒤틀림 -->
+    <BattleCardDesc ID="707801">
+      <LocalizedName>Sed sin Fin</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707802">
+      <LocalizedName>regurgitación</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707803">
+      <LocalizedName>Uñas Sanguineas</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707804">
+      <LocalizedName>Absorber</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707805">
+      <LocalizedName>Derramamiento de Sangre</LocalizedName>
+    </BattleCardDesc>
+
+    <!-- 플루토 뒤틀림 -->
+    <BattleCardDesc ID="707901">
+      <LocalizedName>Contrato Injusto: Defensa</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707902">
+      <LocalizedName>Contrato Injusto: Ofensa</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707903">
+      <LocalizedName>Contrato Injusto: Luz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707904">
+      <LocalizedName>Magia: Impacto</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707905">
+      <LocalizedName>Magia: Lanza</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707906">
+      <LocalizedName>Diluvio de Quietus Braquiales</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707911">
+      <LocalizedName>Contraparte Injusta: Defensa</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707912">
+      <LocalizedName>Contraparte Injusta: Ofensa</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707913">
+      <LocalizedName>Contraparte Injusta: Luz</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707914">
+      <LocalizedName>Grilletes</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707921">
+      <LocalizedName>Golpe Sombreado</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707922">
+      <LocalizedName>Asalto Sombreado</LocalizedName>
+    </BattleCardDesc>
+
+    <!-- 보상 -->
+    <BattleCardDesc ID="705002">
+      <LocalizedName>Unidad: Reforzar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705003">
+      <LocalizedName>Unidad: Coordinación</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705004">
+      <LocalizedName>Unidad: Baluarte</LocalizedName>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="705011">
+      <LocalizedName>Crescendo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705012">
+      <LocalizedName>Grand Finale</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705013">
+      <LocalizedName>Diluvio de Quietus Braquiales</LocalizedName> <!-- equal to 703918 -->
+    </BattleCardDesc>
+    <BattleCardDesc ID="705014">
+      <LocalizedName>Sed sin Fin</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705015">
+      <LocalizedName>Cuerdas de Tensión</LocalizedName> <!-- equal to 703709 -->
+    </BattleCardDesc>
+    <BattleCardDesc ID="705016">
+      <LocalizedName>Pulverizador de Tono Negro</LocalizedName> <!-- equal to 707607 -->
+    </BattleCardDesc>
+    <BattleCardDesc ID="705017">
+      <LocalizedName>¡¡¡CLÍMAX~!!!!</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705018">
+      <LocalizedName>Montaje de Aparejos</LocalizedName> <!-- equal to 707305 -->
+    </BattleCardDesc>
+    <BattleCardDesc ID="705019">
+      <LocalizedName>Coro en el Climax</LocalizedName> <!-- equal to 703426 -->
+    </BattleCardDesc>
+    <BattleCardDesc ID="705020">
+      <LocalizedName>Equipo de Pensamiento: Adoctrinar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705021">
+      <LocalizedName>Llamas de la Desesperación</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705022">
+      <LocalizedName>Desesperación Abrasadora</LocalizedName> <!-- equal to 703110, 707105 -->
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="705031">
+      <LocalizedName>Prueba de Sabor</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705032">
+      <LocalizedName>Golpe Sombreado</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="705033">
+      <LocalizedName>Ceremonia de Apertura</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

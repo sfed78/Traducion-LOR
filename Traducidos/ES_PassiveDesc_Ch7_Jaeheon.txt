@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1307011">
+    <Name>Shimmering</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307012">
+    <Name>El Titiritero</Name>
+    <Desc>Da 'Hilos de Titeres' a sus titeres durante las primeras cuatro Escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307013">
+    <Name>Hilos Rotos</Name>
+    <Desc>Si un Titere no tiene Hilos de Titeres o está muerto, no usará Paginas para controlar dicho Titere.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307014">
+    <Name>Titeres Protectores</Name>
+    <Desc>Al comienzo de la escena, obtiene Protección y Protección Stagger según el número de titeres que estén vivos más el número de titeres que hayan muerto mientras estaban bajo 'Hilos de Titeres'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307001">
+    <Name>Carne Manipulada</Name>
+    <Desc>No gana dados de Velocidad adicionales de las bonificaciones de Nivel de Emocion. Si es derrotado mientras tiene 'Hilo de Titeres', revivirá después de 2 escenas con la mitad de su Max HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307021">
+    <Name>Gigigigigig</Name>
+    <Desc>Si el personaje tiene 'Hilos de Titeres', inflige +2 de daño adicional Stagger con ataques.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307031">
+    <Name>Creeeeak…</Name>
+    <Desc>Si el personaje tiene 'Hilos de Titeres', gana 1 de Celeridad al comienzo de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307041">
+    <Name>Ghghgh. Ghgh.</Name>
+    <Desc>Si el personaje tiene 'Hilos de Titeres', gana 1 de Fuerza al comienzo de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1307051">
+    <Name>Ghghghghghghghgh…</Name>
+    <Desc>Si el personaje tiene 'Hilos de Titeres', gana 1 de Fuerza, de Resistencia y Celeridad al comienzo de la Escena.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

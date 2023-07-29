@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1304011">
+    <Name>Woof ruff! Doodly-doo? Heehaw~!</Name>
+    <Desc>En un Ataque Contundente exitoso, inflige 1-2 de daño extra al Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304012">
+    <Name>Triarca</Name>
+    <Desc>Los primeros tres dados de Velocidad usan Paginas de Combate que pertenecen a cabezas específicas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304013">
+    <Name>Interpretacion Incontrolable</Name>
+    <Desc>No se puede Aturdir. Comenzando con la segunda Escena, realiza la siguiente acción cada 3 Escenas: usa una página de Ataque Masivo, luego todas las resistencias cambian a "Fatal" en la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304014">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304015">
+    <Name>Desde la Cima</Name>
+    <Desc>Cada escena, una cabeza se activa. Cada cabeza usa diferentes Paginas de Combate.
+En ciertas Escenas, usa Paginas de Combate especiales que infligen al objetivo con 'Marcado', un efecto de estado que les permite obtener una copia de una Pagina de Combate después de ganar un enfrentamiento contra él.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1304016">
+    <Name>Tajadas Cortados</Name>
+    <Desc>Cuando esté Aturdido, el dado de Velocidad que pertenece a la cabeza actualmente activa se romperá y el personaje recuperara el Stagger en la siguiente Escena.
+Cuando se destruyen todas las cabezas, la batalla avanza a la siguiente fase.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀림-->
+
+  <PassiveDesc ID="1404011">
+    <Name>Cancion Marcial del Campo de Batalla</Name>
+    <Desc>Mientras este personaje está vivo, otorga a un aliado un efecto de estado positivo aleatorio. (Fuerza, Resistencia o Celeridad) La cantidad dada es igual a la cantidad de Luz que tiene este personaje.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1404012">
+    <Name>Resolucion de Beklemmt</Name>
+    <Desc>Pierde toda la Luz cuando esta Aturdido.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1404013">
+    <Name>Canto Funebre Erlöschend de una Tumba de Guerra</Name>
+    <Desc>Al morir: todos los enemigos ganan 3 de Fuerza, Resistencia y Celeridad en la siguiente escena.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

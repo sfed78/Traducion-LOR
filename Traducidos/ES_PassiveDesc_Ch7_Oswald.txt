@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1305011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305012">
+    <Name>No hay Tiempo para Asombrarse!</Name>
+    <Desc>Recibe la mitad del daño de Stagger de ataques y desvíos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305013">
+    <Name>En Realidad, nos Vendría Bien una Mano~?</Name>
+    <Desc>En la segunda escena, usa una Pagina de Combate que lo deja Estupefacto al bibliotecario con mayor HP.
+Una vez que un bibliotecario sale del Estupefacción, la página se usará en 2 Escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305014">
+    <Name>Actuación Colaborativa</Name>
+    <Desc>Al comienzo de la Escena: otorga 1 de Fuerza, 1 de Resistencia y 3 de Protección al bibliotecario Estupefacto. Cuando el bibliotecario está Aturdido: recibe 60 de daño Stagger al final de la Escena.
+Después de que los bibliotecarios se liberan del Estupefacto 2 veces, usa una Pagina de Ataque Masivo en la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305021">
+    <Name>Fue un Placer Actuar a tu Lado…!</Name>
+    <Desc>Cuando este personaje es derrotado, Oswald recibe 40 de daño Stagger al final de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305022">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1305031">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

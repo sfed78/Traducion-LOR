@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<PassiveDesc ID="1">
+		<Name>Cortante Potenciado Ⅰ</Name>
+		<Desc>25% de probabilidad de aumentar el daño Cortante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="2">
+		<Name>Perforante Potenciado Ⅰ</Name>
+		<Desc>25% de probabilidad de aumentar el daño Perforante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="3">
+		<Name>Contundente Potenciado Ⅰ</Name>
+		<Desc>25% de probabilidad de aumentar el daño Contundente en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="4">
+		<Name>Cortante Aturdidor Ⅰ</Name>
+		<Desc>25% de probabilidad de aumentar el daño Cortante al Stagger en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="5">
+		<Name>Perforante Aturdidor Ⅰ</Name>
+		<Desc>25% de probabilidad de aumentar el daño Perforante al Stagger en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="6">
+		<Name>Contundente Aturdidor Ⅰ</Name>
+		<Desc>25% de probabilidad de aumentar el daño Contundente al Stagger en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="7">
+		<Name>Maestria del Corte Ⅰ</Name>
+		<Desc>10% de probabilidad de aumentar el poder del dado Cortante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="8">
+		<Name>Maestria de la Perforacion Ⅰ</Name>
+		<Desc>10% de probabilidad de aumentar el poder del dado Perforante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="9">
+		<Name>Maestria de la Contundencia Ⅰ</Name>
+		<Desc>10% de probabilidad de aumentar el poder del dado Contundente en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="10">
+		<Name>Maestria del Bloqueo Ⅰ</Name>
+		<Desc>20% de probabilidad de aumentar el poder del dado de Bloqueo en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="11">
+		<Name>Maestria de la Evasion Ⅰ</Name>
+		<Desc>20% de probabilidad de aumentar el poder del dado de Evasion en +1.</Desc>
+	</PassiveDesc>
+  <PassiveDesc ID="12">
+    <Name>Subyugacion Contundente Ⅰ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Contundente, 35% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="13">
+    <Name>Subyugacion Perforante Ⅰ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Perforante, 35% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="14">
+    <Name>Subyugacion Cortante Ⅰ</Name>
+    <Desc>>Después de ganar un enfrentamiento usando un dado Perforante, 35% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+
+
+
+  <PassiveDesc ID="1001">
+		<Name>Cortante Potenciado Ⅱ</Name>
+		<Desc>30% de probabilidad de aumentar el daño Cortante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1002">
+		<Name>Perforante Potenciado Ⅱ</Name>
+		<Desc>30% de probabilidad de aumentar el daño Perforante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1003">
+		<Name>Contundente Potenciado Ⅱ</Name>
+		<Desc>30% de probabilidad de aumentar el daño Contundente en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1004">
+		<Name>Cortante Aturdidor Ⅱ</Name>
+		<Desc>30% de probabilidad de aumentar el daño Cortante al Stagger en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1005">
+		<Name>Perforante Aturdidor Ⅱ</Name>
+		<Desc>30% de probabilidad de aumentar el daño Perforante al Stagger en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1006">
+		<Name>Contundente Aturdidor Ⅱ</Name>
+		<Desc>30% de probabilidad de aumentar el daño Contundente al Stagger en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1007">
+		<Name>Maestria del Corte Ⅱ</Name>
+		<Desc>12% de probabilidad de aumentar el poder del dado Cortante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1008">
+		<Name>Maestria de la Perforacion Ⅱ</Name>
+		<Desc>12% de probabilidad de aumentar el poder del dado Perforante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1009">
+		<Name>Maestria de la Contundencia Ⅱ</Name>
+		<Desc>12% de probabilidad de aumentar el poder del dado Contundente en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1010">
+		<Name>Maestria del Bloqueo Ⅱ</Name>
+		<Desc>24% de probabilidad de aumentar el poder del dado de Bloqueo en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="1011">
+		<Name>Maestria de la Evasion Ⅱ</Name>
+		<Desc>24% de probabilidad de aumentar el poder del dado de Evasion en +1.</Desc>
+	</PassiveDesc>
+   <PassiveDesc ID="1012">
+    <Name>Subyugacion Contundente Ⅱ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Contundente, 45% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1013">
+    <Name>Subyugacion Cortante Ⅱ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Cortante, 45% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1014">
+    <Name>Subyugacion Perforante Ⅱ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Perforante, 45% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="2001">
+    <Name>Cortante Potenciado Ⅲ</Name>
+    <Desc>35% de probabilidad de aumentar el daño Cortante en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2002">
+    <Name>Perforante Potenciado Ⅲ</Name>
+    <Desc>35% de probabilidad de aumentar el daño Perforante en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2003">
+    <Name>Contundente Potenciado Ⅲ</Name>
+    <Desc>35% de probabilidad de aumentar el daño Contundente en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2004">
+    <Name>Cortante Aturdidor Ⅲ</Name>
+    <Desc>35% de probabilidad de aumentar el daño Cortante al Stagger en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2005">
+    <Name>Perforante Aturdidor Ⅲ</Name>
+    <Desc>35% de probabilidad de aumentar el daño Cortante al Stagger en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2006">
+    <Name>Contundente Aturdidor Ⅲ</Name>
+    <Desc>35% de probabilidad de aumentar el daño Contundente al Stagger en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2007">
+    <Name>Maestria del Corte Ⅲ</Name>
+    <Desc>14% de probabilidad de aumentar el poder del dado Cortante en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2008">
+    <Name>Maestria de la Perforacion Ⅲ</Name>
+    <Desc>14% de probabilidad de aumentar el poder del dado Perforante en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2009">
+    <Name>Maestria de la Contundencia Ⅲ</Name>
+    <Desc>14% de probabilidad de aumentar el poder del dado Contundente en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2010">
+    <Name>Maestria del Bloqueo Ⅲ</Name>
+    <Desc>28% de probabilidad de aumentar el poder del dado de Bloqueo en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2011">
+    <Name>Maestria de la Evasion Ⅲ</Name>
+    <Desc>28% de probabilidad de aumentar el poder del dado de Evasion en +1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2012">
+    <Name>Subyugacion Contundente Ⅲ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Contundente, 60% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2013">
+    <Name>Subyugacion Cortante Ⅲ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Cortante, 60% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="2014">
+    <Name>Subyugacion Perforante Ⅲ</Name>
+    <Desc>Después de ganar un enfrentamiento usando un dado Perforante, 60% de probabilidad de infligir 1 daño adicional.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="3007">
+    <Name>Maestria del Corte</Name>
+    <Desc>Poder +1 a dados Cortantes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="3008">
+    <Name>Maestria de la Perforacion</Name>
+    <Desc>Poder +1 a dados Perforantes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="3009">
+    <Name>Maestria de la Contundencia</Name>
+    <Desc>Poder +1 a dados Contundentes.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="10001">
+    <Name>Velocidad</Name>
+    <Desc>+1 de Ranura de Dado de Velocidad (No Se Puede Sobreponer)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10002">
+    <Name>Solo a Distancia</Name>
+    <Desc>Solo se pueden usar Páginas de Combate a Distancia</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10003">
+    <Name>A Distancia</Name>
+    <Desc>Páginas de Combate a Distancia</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10004">
+    <Name>Velocidad Ⅱ</Name>
+    <Desc>+2 de Ranura de Dado de Velocidad (No Se Puede Sobreponer)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10005">
+    <Name>La Niebla Roja</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10006">
+    <Name>???</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10007">
+    <Name>???</Name>
+    <Desc>???</Desc>
+  </PassiveDesc>
+	<PassiveDesc ID="10008">
+		<Name>Velocidad Ⅲ</Name>
+		<Desc>+1 de Ranura de Dado de Velocidad. Gana un dado de Velocidad adicional en el Nivel 3 de Emoción. (No se Puede Sobreponer)</Desc>
+	</PassiveDesc>
+  
+	<PassiveDesc ID="200004">
+		<Name>Coraje a Medias</Name>
+		<Desc>Cuando un aliado muere, gana 1 de Fuerza en la siguiente Escena.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200006">
+		<Name>La Corazonada de Yun</Name>
+    <Desc>Aumenta el valor máximo de los dados de Evasión en +3 con un 50% de probabilidad.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200005">
+		<Name>El Arte de la Defensa</Name>
+    <Desc>Aumenta el valor máximo de los dados defensivos en +3 con una probabilidad del 25%.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="201001">
+		<Name>Corte de un Fixer de Grado 9</Name>
+		<Desc>50% de probabilidad de aumentar el daño Cortante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="201002">
+		<Name>Golpe de un Fixer de Grado 9</Name>
+		<Desc>50% de probabilidad de aumentar el daño Cortante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="201003">
+		<Name>Estoque de un Fixer de Grado 9</Name>
+		<Desc>50% de probabilidad de aumentar el daño Perforante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200007">
+		<Name>Choque Eléctrico</Name>
+		<Desc>En un ataque exitoso, inflige 1 de Parálisis con una probabilidad del 25% en la próxima escena (Una vez por objetivo por Escena)</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="200010">
+		<Name>Gancho</Name>
+		<Desc>Al derrotar a un enemigo, gana 1 de fuerza en la siguiente escena.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210002">
+		<Name>Cocción Instantánea</Name>
+		<Desc>Recupera 10% HP al derrotar a un enemigo (Max. 12)</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210001">
+		<Name>Raciones de Emergencias</Name>
+		<Desc>Recupera 2 HP al comienzo de cada Escena.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210003">
+		<Name>Talento</Name>
+		<Desc>Inflige +1 daño Stagger contra enemigos con la Velocidad más lenta.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="210006">
+		<Name>Bat Llameante</Name>
+		<Desc>50% de probabilidad de infligir 1 quemadura en un ataque exitoso.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="211005">
+		<Name>Penetracion</Name>
+		<Desc>50% de probabilidad de aumentar el daño Perforante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="211007">
+		<Name>Corte Descendente</Name>
+		<Desc>50% de probabilidad de aumentar el daño Cortante en +1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="211003">
+		<Name>Herida Abierta</Name>
+		<Desc>Inflige +1 de daño contra enemigos con Sangrado.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221001">
+		<Name>Mantener el Paso</Name>
+		<Desc>Recupera 1 HP al ganar un enfrentamiento.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221002">
+		<Name>Mantener el Paso</Name>
+		<Desc>Recupera 1 HP al ganar un enfrentamiento.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220001">
+		<Name>Calma</Name>
+    <Desc>Al ganar el enfrentamiento, aumenta el valor máximo del siguiente dado en +3 con una probabilidad del 25 %.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220002">
+		<Name>Esgrima Zwei Ⅰ</Name>
+		<Desc>+1 de daño Cortante.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221003">
+		<Name>Esgrima Zwei Ⅱ</Name>
+		<Desc>+1 daño Cortante a Stagger.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220004">
+		<Name>Tu Escudo</Name>
+		<Desc>+1 de Poder de los Dados Defensivos.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220003">
+		<Name>Ofensiva Mínima</Name>
+		<Desc>+1 Daño Cortante a Stagger.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221004">
+		<Name>Esgrima Zwei Ⅲ</Name>
+		<Desc>+2 de Daño Perforante.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220006">
+		<Name>Margen</Name>
+		<Desc>Al final de cada Escena, restaura 1 Luz y dibuja 1 página si la mano está vacía.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220005">
+		<Name>La Mejor Opción</Name>
+		<Desc>Recupera 3 HP cada vez que el personaje descarta una página.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220007">
+		<Name>En Momentos Como Estos!</Name>
+		<Desc>Si hay 3 páginas o menos en la mano al final de la Escena, gana 1 de Fuerza en la próxima Escena.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220008">
+		<Name>Descanso</Name>
+		<Desc>Restaura 1 Luz al final de una Escena si el personaje no usó ninguna página de esa Escena.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220010">
+		<Name>Respiraciones Profundas</Name>
+		<Desc>Al comienzo de cada Escena, restaura 1 luz con una probabilidad del 25%.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="220009">
+		<Name>Doble Patada</Name>
+		<Desc>Inflige 1 daño al oponente al ganar un enfrentamiento.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221005">
+		<Name>Puñetazo al Plexo Solar</Name>
+		<Desc>+2 de Daño Contundente.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221007">
+		<Name>Destreza Cortante de un Fixer de Grado 8</Name>
+		<Desc>+1 Daño Cortante a Stagger.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221009">
+		<Name>Destreza Perforante de un Fixer de Grado 8</Name>
+		<Desc>+1 Daño Perforante a Stagger.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221010">
+		<Name>Destreza Cortante de un Fixer de Grado 7</Name>
+		<Desc>+2 Daño Cortante a Stagger.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221012">
+		<Name>Destreza Perforante de un Fixer de Grado 7</Name>
+		<Desc>+2 Daño Perforante a Stagger.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221013">
+		<Name>Espíritu de Pandilla del Hacha</Name>
+		<Desc>+1 Daño Contundente a Stagger.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221014">
+		<Name>Doble Hacha</Name>
+		<Desc>Daño Cortante +2, Daño Perforante -1.</Desc>
+	</PassiveDesc>
+	<PassiveDesc ID="221006">
+		<Name>Golpear la Debilidad</Name>
+		<Desc>Daño Contundente +3.</Desc>
+	</PassiveDesc>
+  <PassiveDesc ID="230001">
+    <Name>Remembranza</Name>
+    <Desc>Si un aliado ha muerto, gana 2 de Fuerza al final de cada Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="230004">
+    <Name>Concentracion</Name>
+    <Desc>Gana +1 de Poder para la primera Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230005">
+    <Name>Disparo a Ciegas</Name>
+    <Desc>Gana +2 de Poder para la primera Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230006">
+    <Name>Agachadiza</Name>
+    <Desc>Los dados ofensivos ganan +3 de Poder para la primera Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="230007">
+    <Name>Guardian</Name>
+    <Desc>Al comienzo del Acto, tres aliados aleatorios obtienen 2 de Protección.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230107">
+    <Name>Luz del Alba</Name>
+    <Desc>Con un golpe exitoso, inflige +1-2 de daño de Stagger si el objetivo tiene Quemadura.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230207">
+    <Name>Armamento del Taller Stigma</Name>
+    <Desc>Al infligir Quemaduras usando Páginas de Combate, aplica +1 acumulación adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230008">
+    <Name>Fixer Solitario</Name>
+    <Desc>Al final de cada Escena, gana 3 de Fuerza si no hay otros aliados presentes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230009">
+    <Name>Pasion</Name>
+    <Desc>Obtenga Poder al duplicar el Nivel de Emoción actual (Hasta a Nivel 1.).</Desc>
+  </PassiveDesc>
+
+  <!-- Gaze Office-->
+  <PassiveDesc ID="230010">
+    <Name>Bzzz Bzzz</Name>
+    <Desc>Al comienzo del Acto, inflige 1 de Paralisis a tres enemigos aleatorios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230011">
+    <Name>Pzzt Pzzt</Name>
+    <Desc>Con un golpe exitoso, inflige 1-2 de daño adicional si el objetivo tiene Paralisis.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230012">
+    <Name>Carga Inestable</Name>
+    <Desc>Al final de cada escena, gana 1 de Fuerza con un 50% de probabilidad en la siguiente Escena.</Desc>
+  </PassiveDesc>
+
+  <!-- Tomerry -->
+  <PassiveDesc ID="230016">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="231016">
+    <Name>El Poder del Amor</Name>
+    <Desc>Al ganar un Acto, revive a los habitantes muertos con un 50% de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="232016">
+    <Name>Dernier Amour</Name>
+    <Desc>Si HP baja al 50% o menos…</Desc>
+  </PassiveDesc>
+
+  <!-- Kurokumo -->
+  <PassiveDesc ID="230018">
+    <Name>Listo para la Batalla</Name> <!-- sayo -->
+    <Desc>Sacar de 2 páginas más al inicio del Acto.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230118">
+    <Name>Hoja de la Nube Oscura</Name> <!-- sayo2 -->
+    <Desc>Poder +1 a Dados Cortantes</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230019">
+    <Name>Mango Extraido</Name> <!-- yang -->
+    <Desc>Al infligir sangrado usando Paginas de combate, aplica +1 acumulación adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230020">
+    <Name>Herida Profunda</Name>
+    <Desc>Al ganar un enfrentamiento con dados Ofensivos, inflige 1 de Sangrado en la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="231001">
+    <Name>Golpe de Hoja</Name>
+    <Desc>Tras un ataque Cortante exitoso, inflige 1 de Sangrado en la siguiente Escena.</Desc>
+  </PassiveDesc>
+  
+  <!-- Bremen -->
+  <PassiveDesc ID="230021">
+    <Name>Meow Meow~</Name> <!-- 미야오 -->
+    <Desc>Al comienzo del Acto, otorga 1 de Fuerza a dos aliados aleatorios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230121">
+    <Name>Tambores de Improvisación</Name>  <!-- 브레멘 전원 -->
+    <Desc>Después de un ataque Contundente exitoso, inflige 1 de Fragilidad a un enemigo aleatorio en la próxima Escena (Una vez por Escena)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230022">
+    <Name>Squeak… Squeak…?</Name> <!-- 무무 -->
+    <Desc>En un ataque Contundente exitoso, inflige 1-2 de daño adicional al objetivo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230023">
+    <Name>Oinkie!! Oink!!!</Name> <!-- 오잉크 -->
+    <Desc>Al comienzo del Acto, otorga 1 de Debilidad a dos enemigos aleatorios.</Desc>
+  </PassiveDesc>
+  
+  <!-- 쐐기 -->
+  <PassiveDesc ID="230024">
+    <Name>Inexorable</Name> <!-- 오스카 -->
+    <Desc>Al recibir un golpe letal, reduce todo el daño entrante, incluido lo que activó este pasivo en 25 para la Escena (se activa una vez por Acto)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230124">
+    <Name>Wedge</Name> <!-- 쐐기 전원 -->
+    <Desc>+1 de Poder a Dados Perforantes</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230025">
+    <Name>Perforista</Name> <!-- 파멜리 -->
+    <Desc>Daño Perforante +1</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230026">
+    <Name>Sacudida por Punción</Name> <!-- 파멜라 -->
+    <Desc>Daño Perforante al Stagger en +1</Desc>
+  </PassiveDesc>
+
+  <!-- 필립 에고 용-->
+  <PassiveDesc ID="230028">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230128">
+    <Name>Pasión Ardiente</Name>
+    <Desc>Al comienzo de la escena, inflige 3 de Quemadura a todos los enemigos si el personaje no está en Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="230228">
+    <Name>Cascara Inestable del Ego</Name>
+    <Desc>Cambia regularmente entre los modos 'Escudo de Plumas' y 'Espada Abrasadora', infligiendo quemaduras después de recibir golpes y al atacar, respectivamente. Usará 'Golpe Llameante' periódicamente.</Desc>
+  </PassiveDesc>
+  <!--녹슨 사슬-->
+  <PassiveDesc ID="232001">
+    <Name>Sublimado</Name>
+    <Desc>Los dados ganan +1 de Poder por cada 5 acumulaciones de Sangrado en uno mismo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="232002">
+    <Name>Herida Torcida</Name>
+    <Desc>Inflige +1 daño Stagger contra enemigos con Sangrado.</Desc>
+  </PassiveDesc>
+  
+  <!--공방 소속 해결사-->
+  <PassiveDesc ID="233001">
+    <Name>Solidaridad</Name>
+    <Desc>Al final de la Escena, si todos los aliados están vivos, gana 1 de Fuerza en la siguiente Escena; si todos los demás aliados están muertos, se inflige 2 de Debilidad en su lugar.
+Esta habilidad pasiva solo está activa si el acto comenzó con uno o más aliados.</Desc>
+  </PassiveDesc>
+  <!-- 시 협회 -->
+  <PassiveDesc ID="240001">
+    <Name>Respiración excesiva/Extenuación</Name><!-- 유진1 -->
+    <Desc>Restaura 2 de Luz al usar una página cuyo Costo original sea 4 o superior.
+Un dado de Velocidad deja de estar disponible.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240101">
+    <Name>Asalto Desviado</Name><!-- 유진2 -->
+    <Desc>Una vez por Escena, responde a un ataque unilateral con un dado de Bloqueo [Tirada: 2-6]. (No se juega en enfrentamientos donde ambos personajes usan una Página de Combate)
+</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240201">
+    <Name>Extenuación</Name> <!-- 유진3 -->
+      <Desc>Un dado de Velocidad deja de estar disponible.</Desc>
+    </PassiveDesc>
+  <PassiveDesc ID="240301">
+    <Name>Ojo de la Muerte/Enervación</Name> <!-- 유진5 --><!-- 사(죽을 사:死)의 눈 -->
+    <Desc>En un enfrentamiento todos los dados ganan +4 de Poder o todos los dados pierden +3 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240401">
+    <Name>Enervación</Name> <!-- 유진4 -->
+    <Desc>Poder de los dados -3</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240002">
+    <Name>Golpe Singular</Name> <!-- 발렌틴 -->
+    <Desc>Cuando se usa una Pagina de Combate con un dado que no es de Contraataque, el dado gana +2 de poder y produce el doble de puntos de emoción en un enfrentamiento.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240003">
+    <Name>Respiración</Name>  <!-- 텐마 -->
+    <Desc>Al comienzo de la escena, restaura 1 luz si la luz actual es 0.</Desc>
+  </PassiveDesc>
+
+  <!-- 시 협회 공용 -->
+  <PassiveDesc ID="241001">
+    <Name>Kizuna/Fatiga Extrema</Name>  <!-- Japanese '絆(きずな)' = 인연, 유대 -->
+    <Desc>Después de que un aliado muera, gana 1 de Fuerza y 1 de Resistencia en cada Escena por el resto del Acto. (Se acumula hasta dos veces)
+Comienza la batalla con un 75% menos de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241101">
+    <Name>Fatiga Extrema</Name>
+    <Desc>Comienza la batalla con un 75% menos de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241201">
+    <Name>Fatiga Extrema</Name>
+    <Desc>Comienza la batalla con un 75% menos de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241301">
+    <Name>Kizuna/Fatiga Extrema</Name> <!-- Japanese '絆(きずな)' = 인연, 유대 --> 
+    <Desc>Después de que un aliado muera, gana 1 de Fuerza y 1 de Resistencia en cada Escena por el resto del Acto. (Se acumula hasta dos veces)
+Comienza la batalla con un 25% menos de HP.</Desc>
+  </PassiveDesc>
+
+
+  <!-- puppet -->
+  <PassiveDesc ID="240004">
+    <Name>Aceleracion</Name> <!-- 빠른 인형 -->
+    <Desc>Cuando la velocidad es 5 o superior, inflige +1 daño de Stagger con ataques.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240005">
+    <Name>Concusión</Name> <!-- 무거운 인형 -->
+    <Desc>En un ataque Contundente exitoso, inflige 2 daños adicionales de Stagger</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240006">
+    <Name>Marioneta Esqueletica</Name> <!-- 인형 공용-->
+    <Desc>+1 de Poder a Dados Contundentes</Desc>
+  </PassiveDesc>
+  
+  <!-- enemy only -->
+  <PassiveDesc ID="240008">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240108">
+    <Name>Funambulismo</Name>
+    <Desc>Cuando Emma y Noah están juntos, no pueden ser aturdidos y ganan un dado de Velocidad adicional. Si su Resistencia Stagger cae a 0, Emma y Noah se separan al final de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240208">
+    <Name>Actuación Solitaria</Name>
+    <Desc>Cuando Noah está muerto, todas las resistencias cambian a "Fatal".</Desc>
+  </PassiveDesc>
+  <!-- 에마 (유저가 얻는 핵심 책장에서도 사용) -->
+  <PassiveDesc ID="240308">
+    <Name>Acrobacias de Alto Nivel</Name>
+    <Desc>Al usar una página cuyo Costo original es 3 o más, todos los dados en esa página ganan +1 Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240408">
+    <Name>Puño del León</Name>
+    <Desc>+1 de Poder a Dados Contundentes</Desc>
+  </PassiveDesc>
+
+  <!-- 노아 -->
+  <PassiveDesc ID="240508">
+    <Name>Cabalgar</Name>
+    <Desc>Al final de la escena, se reune con Emma.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240015">
+    <Name>Portador Mental</Name> <!-- 안톤, 발레리 -->
+    <Desc>Recupera 2 de Resistencia Stagger en un ataque exitoso</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240016">
+    <Name>Portador de Salud</Name> <!-- 라일라 -->
+    <Desc>Recupera 2 HP en un ataque exitoso</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="241002">
+    <Name>Carne Licuada</Name> <!-- 청소부 공용 -->
+    <Desc>Poder +1 a los Dados Defensivos</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="241102">
+    <Name>Limpieza de Cadáveres</Name> <!-- 청소부 공용 2 -->
+    <Desc>Cuando otro personaje muere, recupera un 5% Max del HP al final de esa Escena (máx. 12)</Desc>
+  </PassiveDesc>
+	<PassiveDesc ID="241202">
+    <Name>Limpieza de Cadáveres</Name> <!-- 청소부 적 -->
+    <Desc>Cuando otro personaje muere, recupera un 20% Max del HP al final de esa Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="240018">
+    <Name>Gracia del Precepto</Name> <!-- 검지 수행자 -->
+    <Desc>Cada escena, aumenta el poder de un tipo aleatorio de dados Ofensivos en +2.</Desc>
+  </PassiveDesc>
+  <!-- Either one of Slash, Pierce, or Blunt Power-Ups is cast, basically -->
+  <PassiveDesc ID="240118">
+    <Name>Vistazo del Precepto</Name> <!-- 검지 수행자 2 -->
+    <Desc>Dibujar una página más al inicio del Acto.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240019"> 
+    <Name>Salto Cuántico</Name> <!-- 로즈 --> 
+    <Desc>Si la Velocidad es 4 o superior, inflige 13 puntos de daño adicional en los golpes exitosos con una probabilidad del 10 %.</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240020"> 
+    <Name>Refracción</Name> <!-- 센 --> 
+    <Desc>Con un golpe exitoso, inflige 13 puntos de daño adicional a Stagger con una probabilidad del 5 %.</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240021"> 
+    <Name>Fuerza de Reacción</Name> <!-- 레스티 --> 
+    <Desc>Si el personaje no usó ninguna página para una Escena, gana 1 de Fuerza y Resistencia en la siguiente Escena.</Desc> 
+  </PassiveDesc>
+  <PassiveDesc ID="240022"> 
+    <Name>Secciones Dimensionales</Name> <!-- 워프 공용 --> 
+    <Desc>Con un golpe exitoso, inflige 10 de daño adicional con una probabilidad del 10%.</Desc> 
+  </PassiveDesc>
+  
+  <PassiveDesc ID="240023">
+    <Name>Golpe de Hollín</Name> <!-- 왕 -->
+    <Desc>Si el personaje tiene 'Humo', aumenta el daño Stagger infligido con ataques en (Humo x 10)%.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240024">
+    <Name>Adicción al Humo</Name> <!-- 진 -->
+    <Desc>En un golpe exitoso, si el objetivo tenía 8 o más acumulaciones de 'Humo', inflige 2 de Paralisis en la siguiente Escena (Una vez por objetivo por escena)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240025">
+    <Name>Vapores Estimulantes</Name> <!-- 미 -->
+    <Desc>Una vez por Escena, si el personaje tiene 'Humo', responde a un ataque unilateral con un dado de Bloqueo [Tirada: 1~(Humo)]. (No se produce en enfrentamientos donde ambos personajes usan una página de combate)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240026">
+    <Name>Bruma Inflado</Name> <!-- 웃는 얼굴들 공용 -->
+    <Desc>El 'Humo' amplifica el daño saliente en lugar del daño entrante en este personaje.</Desc>
+  </PassiveDesc>
+
+  <!-- 불안정한 우는 아이 -->
+  <PassiveDesc ID="240027">
+    <Name>Marca de Llamarada</Name>
+    <Desc>Inflige 1-2 de Quemadura al golpear.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240127">
+    <Name>Escudo Emplumado</Name>
+    <Desc>Cuando sea golpeado, infligir 1-2 de Quemadura a la atacante.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240227">
+    <Name>Pasión Volátil</Name>
+    <Desc>Si el objetivo tiene Quemadura, aumenta el poder de los dados Ofensivos en +1.</Desc>
+  </PassiveDesc>
+  
+  <!-- 우는 아이 -->
+  <PassiveDesc ID="240028">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240128">
+    <Name>Mentes Separadas</Name> <!-- 합체 설명 -->
+    <Desc>Se separa al llegar a 0 HP. Todos los Bibliotecarios restauran 1 Luz y 10 de Resistencia Stagger después.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240228">
+    <Name>Mentes Separadas</Name> <!-- 분리 설명-->
+    <Desc>Se une cuando todos los Niños llegan a 0 HP. Todos los Bibliotecarios restauran 1 Luz y 10 de Resistencia Stagger después.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240328">
+    <Name>Niño Que No Ve</Name>
+    <Desc>No se puede ver una parte de la información de las Paginas de Combate utilizadas por los Ñiños que Lloran. Esta habilidad se anula cuando este personaje es aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240428">
+    <Name>Niño Que No Escucha</Name>
+    <Desc>No se puede ver una parte de la información de las Paginas de Combate utilizadas por los Niños que Lloran. Esta habilidad se anula cuando este personaje es aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240528">
+    <Name>Niño Que No Habla</Name>
+    <Desc>Un Bibliotecario aleatorio queda inmovilizado al comienzo de la Escena. Esta habilidad se anula cuando este personaje esta aturdido.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="240628">
+    <Name>Una Mente Precaria</Name>
+    <Desc>Quedarse Aturdido no cambia temporalmente las resistencias del personaje.
+En cambio, uno de los Niños usa una Pagina con un dado que tiene el siguiente efecto: ‘[Perder el Enfrentamiento] Todas las resistencias de todos los aliados cambian a "Fatal".’</Desc>
+  </PassiveDesc>
+
+  <!--세븐 협회-->
+  <PassiveDesc ID="243001">
+    <Name>Agarrando Vulnerabilidades</Name>
+    <Desc>Al atacar a un objetivo con un tipo de daño para el que es "Debil" o "Fatal", inflige +1 de daño.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="243101">
+    <Name>Valoración de la Información</Name>
+    <Desc>Al final de la escena, la resistencia de un enemigo aleatorio a un tipo de daño aleatorio cambia a "Normal" para la escena. (Elegido de las resistencias que son "Resistente" o "Normal")</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="243201">
+    <Name>Ver a Través de las Debilidades</Name>
+    <Desc>Si el personaje atacó a un enemigo en la última escena con un tipo de daño al que es "débil" y el enemigo tiene 5 o más acumulaciones de Fragilidad al final de la escena, su resistencia contra el tipo se vuelve "fatal" por el resto de el Acto.</Desc>
+  </PassiveDesc>
+
+  <!-- 검계 -->
+  <PassiveDesc ID="243003">
+    <Name>Esgrima de la Tierra Natal</Name>
+    <Desc>+2 de Poder a Dados Cortantes</Desc>
+  </PassiveDesc>
+
+  <!--매우 강한 1급 해결사-->
+  <PassiveDesc ID="243005">
+    <Name>Escultor de Cicatrices</Name>
+    <Desc>Los dados Ofensivos en la primera página de combate que el personaje usa en cada escena obtienen un efecto adicional: ‘[Al golpear] Inflije 2 de Sangrado’</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="243105">
+    <Name>Tenacidad</Name>
+    <Desc>En el Nivel de Emoción 1 o superior, obtiene 1 de Protección y Protección Stagger al comienzo de la Escena. La cantidad aumenta a 2 en el Nivel de Emoción 3 y a 3 en el Nivel de Emoción 5.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="243205">
+    <Name>Herida de Rotura</Name>
+    <Desc>Inflige +3 de daño contra enemigos con Sangrado.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250001">
+    <Name>Fervor</Name>
+    <Desc>Los dados Ofensivos ganan +1 de poder en el Nivel de Emoción 3 o superior.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250002">
+    <Name>Un Luchador que Nunca Retrocede</Name> <!-- 로웰, 臨戰無退 -->
+    <Desc>Cada vez que aumenta el Nivel de Emoción, gana 1 de Fuerza y Resistencia.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250003">
+    <Name>Firme como una Gran Montaña</Name> <!-- 세실, 安如泰山 -->
+    <Desc>Cada vez que aumenta el Nivel de Emoción, recupera el 15% de Max HP(Max. 20)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250004">
+    <Name>Permanece Vigilante en Paz</Name> <!-- 메이, 安不忘危 -->
+    <Desc>Cada vez que aumenta el Nivel de Emoción, recupera un max 25% de la Resistencia Stagger a menos que el personaje sea aturdido.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250005">
+    <Name>Suministro de Munición</Name> <!-- 총 쓰는 엄지들 공용 -->
+    <Desc>Después de cada tres ataques exitosos con las Paginas de Combate cuerpo a cuerpo, agrega una munición aleatoria a la mano.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250006">
+    <Name>Las Ordenes del Jefe</Name> <!-- 칼로 -->
+    <Desc>Al comienzo de la escena, otorga 1 de Protección a 2 aliados aleatorios.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250106">
+    <Name>Tenacidad Triple</Name> <!-- 칼로 -->
+    <Desc>Cada tercer dado Ofensivo gana +1 de Poder. A partir de la cuarta Escena, todos los dados Ofensivos ganan +1 Poder en su lugar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250007">
+    <Name>Firmeza</Name> <!-- 보리스 -->
+    <Desc>Reduce el daño entrante y el daño Stagger en 1 (incluido el daño de los ataques)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250008">
+    <Name>Primer Disparo Potenciado</Name> <!-- 카트리엘 -->
+    <Desc>Al usarse una Pagina de Combate a Distancia, su primer dado Ofensivo gana +1 de poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250009">
+    <Name>Suministros Adicionales</Name> <!-- 데니스 -->
+    <Desc>Cada vez que el personaje agote 3 de Munición, añade una Munición aleatoria a mano al final de la Escena.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250010">
+    <Name>Protocolo de Reanimación de Emergencia</Name>
+    <Desc>Al recibir lo que sería un golpe letal, anula el daño y gasta toda la carga para recuperar 5 HP por acumulación (se activa una vez por acto)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250011">
+    <Name>Campo de Fuerza</Name>
+    <Desc>Después de gastar Carga usando una Pagina de Combate, gana 1 Protección en la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250012">
+    <Name>Forte de Nucleo Pesado</Name>
+    <Desc>Inflige 1-2 daño Stagger al oponente al ganar un enfrentamiento.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250110">
+    <Name>Escudo Cargado</Name> <!-- 지팡이 공용1 -->
+    <Desc>En el Nivel de Emoción 2 o superior, si el personaje ganó Carga usando las Paginas de Combate en la Escena anterior, gana 1 de Resistencia al comienzo de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250210">
+    <Name>Descarga de Energía</Name> <!-- 지팡이 공용2-->
+    <Desc>En el Nivel de Emoción 2 o superior, si el personaje gastó Carga usando Paginas de Combate en la Escena anterior, gana 1 de Fuerza al comienzo de la Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250013">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250113">
+    <Name>La Reverberacion Azul</Name>
+    <Desc>No recibira daño de las Paginas de Combate a Distancia.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250014">
+    <Name>Motor de Combustión Interna</Name>
+    <Desc>Al obtener Humo usando Paginas de Combate, gana +1 acumulación adicional.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250114">
+    <Name>Engranaje de Carne</Name>
+    <Desc>El primer dado Ofensivo de cada Pagina de Combate inflige +2-3 de daño.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250214">
+    <Name>Engranaje de Pensamiento</Name>
+    <Desc>+1 a Dados de Evasion.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="150015">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150115">
+    <Name>Proxy del Índice</Name>
+    <Desc>En la segunda Escena, se ingresa al estado de 'Hoja Desbloqueada' independientemente de la condición.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150016">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150116">
+    <Name>Proxy del Índice</Name>
+    <Desc>En la segunda Escena, se ingresa al estado de 'Hoja Desbloqueada' independientemente de la condición.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150017">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150117">
+    <Name>Proxy del Índice</Name>
+    <Desc>En la segunda Escena, se ingresa al estado de 'Hoja Desbloqueada' independientemente de la condición.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250115">
+    <Name>Potencial Bloqueado</Name> <!-- 解禁 -->
+    <Desc>Después de usar seis Paginas de Combate únicas en un solo acto, ingresa al estado 'Hoja Desbloqueada', que aumenta el poder de todos los dados en 1.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250015"> <!-- 에스더 -->
+    <Name>Torrente Iracundo</Name> <!-- 激流 -->
+    <Desc>Saca una página cada vez que el personaje use 4 Paginas de Combate únicas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250016"> <!-- 휴버트 -->
+    <Name>Rompiendo la Presion</Name> <!-- 強壓 -->
+    <Desc>En un enfrentamiento, los dados Defensivos del oponente pierden 1 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250017"> <!-- 글로리아 -->
+    <Name>Respiracion Indolente</Name> <!-- 熟閑 -->
+    <Desc>En el Nivel de Emoción 2 o superior, cada Escena, el Coste de una Pagina de Combate aleatoria en la mano cuyo Coste sea 1 o superior se reduce en 1 para la Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250018"> <!-- 춘 -->
+    <Name>Fuego Furioso que Desgarra los Cielos</Name> <!-- 火光衝天 -->
+    <Desc>Al comienzo de la Escena, dos Paginas de Combate aleatorias en la mano obtienen el siguiente efecto: 'Mientras se usa esta Pagina, inflige el doble de Quemaduras con las habilidades de la Pagina de Combate'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250020"> <!-- 샤오 -->
+    <Name>Fuerza de un Incendio Forestal</Name> <!-- 燎原之火 -->
+    <Desc>En un golpe cuerpo a cuerpo, inflige 1 de Quemadura y 'Fuerza de un Incendio Forestal', un estado que dura 2 Escenas.
+Si un enemigo con 'Fuerza de un Incendio Forestal' está aturdido, inflige a todos los demás enemigos una Quemadura equivalente a la mitad de la cantidad de Quemadura que tenía ese enemigo. (Redondeado hacia abajo)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250021"> <!-- 미리스 -->
+    <Name>Abrazando Fuego, Sentado en la Maleza</Name> <!-- 抱火臥薪 -->
+    <Desc>Cuando los objetivos golpeados por ataques cuerpo a cuerpo de este personaje reciben daño de quemadura al final de la escena en la que fueron atacados, también reciben daño Stagger equivalente a la mitad del daño de Quemadura.</Desc>
+  </PassiveDesc>
+
+  <!-- Enemy only -->
+  <PassiveDesc ID="250022">
+    <Name>Kali</Name>
+    <Desc>Restaura 1 Luz adicional y dibuja 1 página más en cada Escena.
+Cuando HP cae a 350, recupera completamente Resistencia Stagger y manifiesta el E.G.O; el HP no puede caer por debajo de 350 antes de que esto ocurra. (Una vez por recepción)
+Después de perder el estado 'E.G.O Manifestado', lo recupera en 3 Escenas.
+Si el personaje entra en un nuevo Acto después de haber manifestado el E.G.O esta recepción, manifiéstate en la segunda Escena.</Desc>
+  </PassiveDesc>
+  <!-- For use only -->
+  <PassiveDesc ID="250122">
+    <Name>Legendario</Name>
+    <Desc>Solo Gebura puede equipar esto. El E.G.O único se vuelve accesible.
+En el nivel de emoción 4 o superior, la Pagina de Combate 'Manifiesto E.G.O' se agrega a la mano. (Una vez por acto)</Desc>
+  </PassiveDesc>
+  
+  <!-- For both enemy and ally versions -->
+  <PassiveDesc ID="250222">
+    <Name>Represalia</Name>
+    <Desc>Gana un dado de Contraataque (Cortante, 4-8) al comienzo del combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250322">
+    <Name>El Mas Fuerte</Name>
+    <Desc>Elige el dado de Velocidad con el valor más bajo; los valores de Velocidad de los dados cambian al valor máximo posible.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250422">
+    <Name>La Niebla Roja</Name>
+    <Desc>Todos los dados ganan +2 de Poder.
+Puede usar 'Gran División: Horizontal'.
+En cada Escena, las resistencias contra un tipo aleatorio se vuelven "Normal" mientras que el resto se configuran como "Resistente".
+Por cada enemigo derrotado, gana una acumulación de 'Niebla roja', que aumenta el Poder de todos los dados.
+Si el personaje no logra infligir más de 40 daños con ataques dentro de una Escena, recibe un daño Stagger equivalente al 40 % de la resistencia Max del Stagger.
+Pierde el estado 'E.G.O Manifestado' al estar Aturdido.</Desc>
+  </PassiveDesc>
+
+  <!-- 비나 조율자 -->
+  <PassiveDesc ID="10010">
+    <Name>Binah</Name>
+    <Desc>Tiene una Pagina de claves única y Paginas de Combate que no se pueden reemplazar ni intercambiar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10011">
+    <Name>Inquisidor Incompleto</Name>
+    <Desc>Al comienzo de la Escena, saca cartas hasta que tengas 4 páginas disponibles.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250522">
+    <Name>La Niebla Roja</Name>
+    <Desc>Puede equipar la Pagina Clave de La Niebla Roja.</Desc>
+  </PassiveDesc>
+
+  <!-- R사 -->
+  <PassiveDesc ID="250123">
+    <Name>Traje Triple-R</Name>
+    <Desc>Puede almacenar hasta 20 Cargas a la vez.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251001">
+    <Name>Aumento de Conejo</Name> <!-- 토끼팀 + 묘 -->
+    <Desc>Por cada 30% de Max. HP perdido en este Acto, gana 1 de Celeridad al comienzo de cada Escena. (Hasta 3)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251002">
+    <Name>Procedimiento de Rino</Name> <!-- 코뿔소팀 + 막심 -->
+    <Desc>Por cada 30% de Max. HP perdido en este Acto, gana 1 de Resistencia al comienzo de cada Escena. (Hasta 2)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251003">
+    <Name>Tratamiento de Reno</Name> <!-- 순록팀 + 루돌프 -->
+    <Desc>Por cada 30% de Max. HP perdió este Acto, gana 1 de Fuerza al comienzo de cada Escena. (Hasta 2)</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250023">
+    <Name>El Comandante</Name> <!-- 니콜라이 -->
+    <Desc>Si el personaje tiene 11 o más de Carga al comienzo de la Escena, otorga 1 de Fuerza y Resistencia a todos los aliados.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250223">
+    <Name>Toque Final</Name> <!-- 니콜라이2 -->
+    <Desc>Después de usar una Pagina de Combate en un objetivo, deja una 'marca' en él al final de la Escena. El enemigo marcado recibe un 50% de daño adicional y daño Stagger de los ataques. Solo se puede marcar un enemigo a la vez.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="251101">
+    <Name>Fuerza Muscular Estimulada por Carga Comprimida</Name> <!-- 토끼팀 + 묘 -->
+    <Desc>Si el personaje tiene 11 o más de Carga al comienzo de la Escena, gana 1 de Celeridad.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251102">
+    <Name>Carcasa Sincronizado con Carga Biónica</Name> <!-- 코뿔소팀 + 막심 -->
+    <Desc>Si el personaje tiene 11 o más de Carga al comienzo de la Escena, gana 2 de Protección.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="251103">
+    <Name>Astas de Enfoque de Carga de Ondas Cerebrales</Name> <!-- 순록팀 + 루돌프 -->
+    <Desc>Si el personaje tiene 11 o más Cargas al comienzo de la Escena, inflige +2 de daño Stagger con ataques para la Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250024">
+    <Name>La Destreza de Myo</Name> <!-- 묘 -->
+    <Desc>Al usar una Pagina de Combate, todos los dados de la página ganan poder contra objetivos con velocidad más lenta. (+1 Poder por 2 puntos de diferencia, hasta 5)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250025">
+    <Name>Choque Máximo</Name> <!-- 막심 -->
+    <Desc>Si el personaje tiene 20 o más de Carga al comienzo de la Escena, inflige un 50% más de daño y daño Stagger con los ataques; también recibe un 30% menos de daño y daño a Stagger de los ataques.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250026">
+    <Name>Superviviente</Name> <!-- 루돌프 -->
+    <Desc>Cada vez que el personaje se recupera el Stagger, gana 1 de Fuerza y Resistencia al comienzo de la Escena por el resto del Acto. (Hasta 5)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="251201">
+    <Name>Munición Suficiente</Name>
+    <Desc>Las Paginas de Combate cuyo tipo predeterminado es 'A Distancia' no se agotan con el uso.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="250027">
+    <Name>Manipulador de Probabilidades</Name>
+    <Desc>Cuando un dado del personaje arroja el valor mínimo, vuelve a tirarlo. Se activa una vez por dado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250127">
+    <Name>Cambio de Posturas</Name>
+    <Desc>Puede asumir una de las cuatro posturas: Cortante, Perforante, Contundente y Guardia. Se puede configurar un mazo diferente para cada postura. Al comienzo del Acto, se selecciona una postura al azar; la postura se puede cambiar pagando Luz.</Desc>
+  </PassiveDesc>
+  
+  <!-- enemy only -->
+  <PassiveDesc ID="250227">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250327">
+    <Name>Caminante Dimensional</Name>
+    <Desc>Cuando el HP baje a 350, termina el acto a la fuerza y muévete a otro piso. HP no puede caer por debajo de 350 antes de que esto ocurra. (Una vez por recepción)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250427">
+    <Name>Cambio de Posturas</Name>
+    <Desc>A intervalos regulares, cambia la postura a una de las siguientes: Cortante, Perforante, Contundente y Guardia. Después de cambiar de postura, los dados del tipo que representa la postura actual ganan +1 de Poder para la Escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 샤오 -->
+  <PassiveDesc ID="150036">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150136">
+    <Name>Xiao</Name>
+    <Desc>Queda incapacitado una vez que el HP cae a 100.</Desc>
+  </PassiveDesc>
+  <!-- 미리스 -->
+  <PassiveDesc ID="150037">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  
+  <!-- 샤오 2차 -->
+  <PassiveDesc ID="150038">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150138">
+    <Name>Nueve Hijos del Dragón</Name>
+    <Desc>+1 de Poder a los Dados.
+Al comienzo de la escena, inflige 2 de Quemadura a todos los enemigos.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150238">
+    <Name>Pú Láo</Name>
+    <Desc>Cuando 'Pú Láo' está activo, todos los personajes no se ven afectados por ningún efecto de Poder de la Escena.
+'Pú Láo' se activa en la primera Escena y luego se activa cada 2 Escenas.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150338">
+    <Name>Escala Inversa</Name>
+    <Desc>Cada escena usa una página de combate que inflige daño de Stagger a sí mismo pero otorga Fuerza si pierde en un enfrentamiento.
+Resistencia Stagger no se recupera por completo incluso si el personaje se restaura el Stagger o finaliza un Acto.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250036">
+    <Name>Nueve Hijos del Dragón</Name>
+    <Desc>Si el Nivel de Emoción es 2 o superior al final de la Escena, manifiesta el E.G.O.
+El E.G.O manifestado se mejora si el Nivel de Emoción del personaje es 4 o superior al final de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250136">
+    <Name>Nueve Hijos del Dragón</Name>
+    <Desc>Poder +1 de los dados Ofensivos. Gana la habilidad pasiva 'Bā Xià'.
+El E.G.O. se mejora si el Nivel de Emoción del personaje es 4 o superior al final de la Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250236">
+    <Name>Nueve Hijos del Dragón</Name>
+    <Desc>+1 de Poder a los Dados. Gana la habilidad pasiva 'Bā Xià'.
+Al comienzo de la escena, inflige 2 de Quemadura a todos los enemigos.
+Tiene acceso al E.G.O.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250336">
+    <Name>Bā Xià</Name>
+    <Desc>No recibe daño de Quemadura. Cuando se inflige una estado alterado que no es Quemadura, reduce la cantidad a la mitad. (Redondeado hacia abajo, no va por debajo de 1)</Desc>
+  </PassiveDesc>
+
+  <!-- Left and Right Hands -->
+  <PassiveDesc ID="150039">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="150139">
+    <Name>Manus</Name>
+    <Desc>No se puede Aturdirse; no puede ser derrotado agotando HP. No se puede actuar si HP está en 30 o menos al comienzo de la Escena. Cuando 얀샋ㄷ요무 es destruido ya no está presente.</Desc>
+  </PassiveDesc>
+
+  <!-- Yan (enemy) -->
+  <PassiveDesc ID="150051">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150151">
+    <Name>얀샋ㄷ요무</Name>
+    <Desc>Si el HP de este personaje es de 301 o más y el HP de todas las Manos es de 30 o menos, fusiona con las Manos.
+Si el HP de este personaje cae a 300 o menos mientras está fusionado con las Manos, se separa de las Manos al final de la Escena; al separarse, purga todos los estados alterados y recupere completamente la Resistencia Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="150251">
+    <Name>Hoja Distorsionada</Name>
+    <Desc>Si el personaje se fusiona con las manos o si el HP del personaje es de 300 o menos, usa un ataque masivo a intervalos regulares.
+El Ataque Masivo también se usa si el Acto se prolonga durante un gran número de Escenas.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="250051">
+    <Name>얀샋ㄷ요무</Name>
+    <Desc>Si el personaje tiene más Paginas (Rojas) de Anormalídades de Ruptura que Paginas (Azules) de Despertar, todos los dados ganan +1 de Poder. Si las Paginas de Ruptura superan en número a las Paginas de Despertar en 2 o más, aumenta el daño y el daño Stagger de los dados Ofensivos en +1 además.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="250151">
+    <Name>El Mensajero</Name> <!-- 傳令 -->
+    <Desc>Cada escena, gana una Pagina de Combate especial que se puede usar en los aliados.
+El tipo de Pagina de Combate se determina aleatoriamente en cada Escena. En el Nivel de Emoción 3 o superior, el propietario puede elegir una de dos opciones aleatorias.
+(Hay cuatro tipos de Paginas de Combate especiales con diferentes funciones: 'Dar Fuerza', 'Dar Protección y Protección Stagger', 'Sacar Pagina', y 'Restauracion de Luz'.)</Desc>
+  </PassiveDesc>
+
+  <!-- 사도 -->
+  <PassiveDesc ID="300001">
+    <Name>Apóstol</Name>
+    <Desc>Incontrolable. Este personaje no puede morir, pero una vez que su HP cae a 1, no puede actuar hasta que se desactive la Sincronización con la NocheBlanca.
+El personaje volverá a transformarse en bibliotecario si ningún aliado se sincroniza con la NocheBlanca.</Desc>
+  </PassiveDesc>
+
+
+  <!-- hana -->
+  <PassiveDesc ID="260001">
+    <Name>Cuatro Trigramas</Name>
+    <Desc>Obtiene cuatro Paginas de Combate especiales que benefician al usuario para la Escena en la que se utilizan. Solo se puede reproducir una de las Paginas de los Cuatro Trigramas por escena, y una vez que se usa una página de los Cuatro Trigramas, no se puede reutilizar hasta que se hayan utilizado los cuatro.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260002">
+    <Name>Todo para Hana</Name>
+    <!-- 미리내 -->
+    <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
+    <Desc>Al obtener Fuerza, Resistencia, Protección o Protección Stagger a través de las Paginas de Combate: otorga el mismo efecto de estado a otro aliado al azar también.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260003">
+    <Name>Todo por Hana</Name>
+    <!-- 해롤드 -->
+    <!-- Please translate '하나' as 'Hana' rather than 'One'. -->
+    <Desc>Si el personaje recibió daño de los ataques en la Escena anterior, cambie las resistencias de este personaje contra el tipo que infligió el mayor daño a "Resistente" para la Escena. (Se aplica por separado para daño físico y Stagger)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="260004">
+    <Name>Los Doce Fixers</Name>
+    <!-- 올리비에 -->
+    <!-- Epic 'The Twelve Peers' reference. -->
+    <Desc>Aumenta el valor de la tirada *mínimo* de todos los dados en +2. En el Nivel de Emoción 3 o superior, también aumenta el valor de lanzamiento *máximo* de todos los dados en +1.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="160004">
+    <Name>Duelo</Name>
+    <Desc>Inmune a la Inmovilización. El oponente obtiene una bonificación de Max HP y Max Resistencia Stagger.</Desc>
+  </PassiveDesc>
+
+  <!-- 검은 침묵 -->
+  <PassiveDesc ID="10012">
+    <Name>Orlando</Name>
+    <Desc>Tiene una Pagina Clave única y Paginas de Combate que no se pueden reemplazar ni intercambiar.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="10013">
+    <Name>El Silencio Negro</Name>
+    <Desc>Saca 2 Paginas adicionales al inicio del Acto. Todos los dados de cada tercer Pagina de Combate ganan +2 de Poder.</Desc>
+  </PassiveDesc>
+
+  <!-- 잔향악단 -->
+  <PassiveDesc ID="260005">
+    <Name>Resonancia</Name>
+    <Desc>Al usar una Pagina de Combate cuerpo a cuerpo, si la diferencia entre la Velocidad de este personaje y la vibración del objetivo es 1 o menos, todos los dados en la Pagina obtienen +2 de Poder.
+Al inicio del Acto, dibujar 2 Paginas.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260006">
+    <Name>Sobrecalentamiento</Name>
+    <Desc>Mientras el personaje tiene Quemadura, los dados Ofensivos ganan +1 Poder.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260007">
+    <Name>Fumador Magistral</Name>
+    <Desc>Cuando se usa una Pagina de Combate con un efecto que involucra 'Humo', todos los dados en la Pagina ganan +1 de Poder.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260008">
+    <Name>Prepara el Plato Principal</Name>
+    <Desc>Cuando se usa una Pagina de Combate cuerpo a cuerpo, si el objetivo tiene Sangrado, los dados Ofensivos en la Pagina ganan +1~2 de Poder.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="260009">
+    <Name>Neigh~! Woof-woof! Bawk!</Name> 
+    <Desc>Al golpear con una Pagina de Combate cuerpo a cuerpo, active uno de los siguientes efectos (cada efecto se activa una vez por escena):
+- Inflige 1 de Debilidad siguiente escena
+- Inflige 1 de Paralisis siguiente escena
+- Inflige 2 daño Stagger al objetivo
+- Recupera 2 de Resistencia Stagger</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260010">
+    <Name>Espléndido Interpretación</Name>
+    <Desc>Cuando se usa una Pagina de Combate con 3 o más tipos diferentes de dados que no son de Contraataque, todos los dados de la Pagina ganan +1 de Poder e infligen +1 de daño.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260011">
+    <Name>Agallas</Name>
+    <Desc>Al recibir lo que sería un golpe letal, anula el daño y recupera 100 HP; al final de la Escena, esto sucede, restaura completamente Resistencia Stagger. (Una vez por recepción)</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="260012">
+    <Name>Hilos de Titeres</Name>
+    <Desc>Al comienzo del Acto, agrega una Pagina de Combate especial que puede dar 'Hilos del Titiritero' a otro aliado disponible.
+El personaje con 'Hilos del Titiritero' gana 1 de Fuerza o Resistencia al comienzo de cada escena, y su HP no bajará de 1.
+Si el HP del personaje con 'Hilos del Titiritero' llega a 1 o si el personaje con esta habilidad pasiva ya no está presente, 'Hilos del Titiritero' se pierde al final de la Escena.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="260013">
+    <Name>Sangre Demoniaco</Name>
+    <Desc>Al golpear, recupera 2 HP.
+Si el personaje recuperó 3 o más HP en una sola escena, gana 1 Fuerza en la siguiente Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="260014">
+    <Name>Contratos</Name>
+    <Desc>Al comienzo de la Acto, agregue Contratos sin firmar a las manos de todos los aliados.
+Si un personaje cumple la condición establecida por el Contrato sin firmar en su mano, se otorgará su efecto y el Contrato se agotará. Es posible intercambiar Contratos sin firmar con otro aliado.</Desc>
+  </PassiveDesc>
+<!-- '계약 효과' is equal to '계약' used in Pluto's battle-->
+
+  <!--뒤틀린 잔향악단 하층 일렁임-->
+  <PassiveDesc ID="1400001">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+
+   <!-- The Black Silence, phase 1 -->
+  <PassiveDesc ID="170001">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170002">
+    <Name>Represalia</Name>
+    <Desc>Gana 2 dados (Cortante, 4-8) al comienzo del combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170003">
+    <Name>Rencor Represivo</Name>
+    <Desc>Recupera 5 de Resistencia Stagger al golpear; pierde 8 de Resistencia Stagger en enfrentamientos al perder.</Desc> <!-- Leave the "unimplemented" text in for now, they plan to choose one of the two after testing. -->
+  </PassiveDesc>
+  <PassiveDesc ID="170004">
+    <Name>El Silencio Negro</Name>
+    <Desc>Todos los dados en la Pagina Seleccionada en la tercera ranura de dado de Velocidad ganan +2 de Poder.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170005">
+    <Name>Velocidad Ⅲ</Name>
+    <Desc>Ranura +1 de Dado de Velocidad. Gana un dado de Velocidad adicional en el Nivel de Emoción 3.</Desc>
+  </PassiveDesc>
+
+<!--검은침묵 2페이즈 패시브-->
+  <PassiveDesc ID="170101">
+    <Name>Los Muertos Eclosionados</Name>
+    <Desc>Cuando se derrota un Subproducto Humeante, genera uno para reemplazarlo en la próxima escena y pierde 50 HP. (Una vez por unidad) No se generarán Subproductos Humeantes si el personaje tiene 300 HP o menos.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170102">
+    <Name>Manipulador de Neblina Sofocante</Name>
+    <Desc>Al atacar, si el objetivo tiene Neblina Sofocante, inflige +2 de daño.
+Cuando es golpeado, si el atacante tiene Neblina Sofocante, recibe 2 menos de daño.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170103">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+
+<!-- The Black Silence, phase 3 -->
+  <PassiveDesc ID="170201">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170202">
+    <Name>Almas Gemelas</Name>
+    <Desc>+2 de Ranura de Dado de Velocidad. Obtiene el Alma Vinculado durante 3 escenas, con un intervalo de 2 escenas. Mientras el Alma Vinculado está activado, gana 3 dados de Velocidad adicionales. 
+Si tanto Roland como Angelica están aturdidos, Alma Vinculado se retrasa 1 escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170200">
+    <Name>Almas Vinculados</Name>
+    <Desc>Si el Alma Vinculado se reduce a 0 antes de que caduque, la resistencia al daño del personaje cambia a "Normal" y la resistencia al daño Stagger a "Fatal" durante las próximas 2 escenas, y sufre 3 de Paralisis. 
+De lo contrario, recupera HP y Resistencia Stagger cuando el Alma Vinculado expira, y se  establece la cantidad a la del personaje con el HP más alto.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170203">
+    <Name>Solicitar Objetivo</Name>
+    <Desc>Mientras el Alma Vinculado está activado, los primeros tres dados de Velocidad apuntan al bibliotecario con el HP actual más bajo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170204">
+    <Name>Marca Oscura</Name>
+    <Desc>Cuando no tenga Alma Vinculado, priorice apuntar al bibliotecario que tiene una 'Marca Oscura'. Los dados Ofensivos ganan +3 de Poder contra el objetivo marcado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170205">
+    <Name>Despedida Dilecta</Name>
+    <Desc>Cuando Angelica muere, entra en un estado de Enfurecido y usa un conjunto diferente de Paginas de Combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170211">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170212">
+    <Name>Solicitar Objetivo</Name>
+    <Desc>Mientras el Alma Vinculada está activado, los primeros tres dados de Velocidad apuntan al bibliotecario con el HP actual más bajo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170213">
+    <Name>Marca Oscura</Name>
+    <Desc>En la tercera escena del Alma Vinculada que se mantiene, deja una 'Marca Oscura' en el personaje que se enfrentó a este último personaje.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170214">
+    <Name>Despedida Dilecta</Name>
+    <Desc>Cuando Roland muere, se vuelve afligida y usa un conjunto diferente de Paginas de Combate</Desc>
+  </PassiveDesc>
+  
+  <!-- The Black Silence, phase 4 -->
+  <PassiveDesc ID="170301">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0. Recibe la mitad de daño de las dolencias de estado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170302">
+    <Name>Memorias de la Biblioteca</Name>
+    <Desc>Durante la duración de la fase, gana habilidades pasivas únicas en cada Escena. HP no baja del 40%. Si el HP de Roland está al 40 % al final de la Escena, pasa a la siguiente fase. Recupera completamente Resistencia Stagger al avanzar a la siguiente fase.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170303">
+    <Name>Cicatrices</Name>
+    <Desc>Reduce el daño entrante de un tipo específico, que cambia cada escena. Cuando es golpeado por el ataque del tipo, reduce su daño a 0 con un 20% de probabilidad. Este efecto se puede anular destruyendo las armas convocadas por Roland.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170304">
+    <Name>Sangre</Name>
+    <Desc>Los dados Defensivos ganan 1-2 de Poder en esta Escena. Si un dado Defensivo pierde en un enfrentamiento, recibe 3-6 daños Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170305">
+    <Name>Mirada Maliciosa</Name>
+    <Desc>Gana 1 de Fuerza en esta Escena. La ganancia de Fuerza aumenta en 1 cada vez que se activa este efecto. Si un dado Ofensivo no inflige daño, recibe de 3 a 6 daño Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170306">
+    <Name>Curiosidad</Name>
+    <Desc>Para esta Escena, al golpear, baraja dos Paginas aleatorias en la mano del objetivo de vuelta a su mazo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170307">
+    <Name>Beso</Name>
+    <Desc>Da prioridad a los bibliotecarios afligidos por Atado. Para esta escena, al ganar el enfrentamiento, inflige Astilla de Hielo al oponente. Al final de la escena, los personajes con 3 o más Astillas de hielo quedan inmovilizados para la siguiente escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170311">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170312">
+    <Name>Dispersión de Fragmentos del Recuerdo</Name>
+    <Desc>Al comienzo de la fase, invoca cuatro imágenes del pasado, cada una con diferentes habilidades.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170320">
+    <Name>Despecho Grabado</Name>
+    <Desc>Si este permanece al final de la Escena, se clava al suelo. El último dado de la Pagina de Combate utilizado en la quinta Escena se recicla una vez por cada arma en el suelo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170330">
+    <Name>Imagen del Pasado</Name>
+    <Desc>+1 de Ranura de Dado de Velocidad. No obtiene dados de Velocidad de las bonificaciones de Nivel de Emoción. Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añadir nuevas Paginas a mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170331">
+    <Name>Pulsación</Name>
+    <Desc>-1 de Ranura de Dado de Velocidad. Al impactar, otorga 1 de Fuerza a todos los aliados en la próxima Escena. Si el personaje no pudo causar ningún daño usando los dados Ofensivos al final de la Escena, recibe daño Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170332">
+    <Name>Aspiración</Name>
+    <Desc>Max HP se incrementa en un 15%. Gana 1-2 de velocidad.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170333">
+    <Name>Pasos Fervientes</Name>
+    <Desc>Este personaje muere al final de la tercera Escena después de la cual fue invocado. Gana 2 de Fuerza y Resistencia, 3 de Celeridad y 4 de Protección en cada escena hasta la muerte. Todas las resistencias al daño Stagger cambian a "Inefectivo". Max HP se reduce en un 50%.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170334">
+    <Name>Aprender</Name>
+    <Desc>Utiliza la Pagina de Combate 'Aprender' para todos los dados de velocidad. Si el ataque de este personaje impacta, inflige un estado de 'Mentiras' que cambia los Costos de las Paginas al azar en la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="170335">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+
+
+  <!--뒤틀린 잔향악단 중층 공용-->
+  <PassiveDesc ID="1405000">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0. No obtiene dados de Velocidad de las bonificaciones de Nivel de Emoción.</Desc>
+  </PassiveDesc>
+ 
+  <!--뒤틀린 잔향악단 중층 Oswald-->
+  <PassiveDesc ID="1405011">
+    <Name>Hora del Espectáculo~</Name>
+    <Desc>Al final de la Escena, todos los bibliotecarios reciben de 2 a 4 daños Stagger. Prioriza apuntar al bibliotecario con la menor resistencia actual al Resistencia Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405012">
+    <Name>Puedo Encogerme de Hombros!</Name>
+    <Desc>No se puede perder más del 50% de Max HP en una sola Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405013">
+    <Name>Hasta Luego…!</Name>
+    <Desc>Cada vez que un aliado muere, recibe 50 de daño Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405014">
+    <Name>El Final del Espectáculo</Name>
+    <Desc>Al morir, todos los bibliotecarios restauran por completo Resistencia Stagger, y todas las dolencias de estado en ellos se reducen a la mitad.</Desc>
+  </PassiveDesc>
+  <!--뒤틀린 잔향악단 중층 오스왈드 인어씨-->
+  <PassiveDesc ID="1405021">
+    <Name>Fue un Placer Actuar a tu Lado…!</Name>
+    <Desc>Al morir, Oswald recibe 70 daños Stagger. (Oswald todavía recibe daño incluso si está fuera de combate)</Desc>
+  </PassiveDesc>
+  <!--뒤틀린 잔향악단 중층 오스왈드 칼날씨-->
+  <PassiveDesc ID="1405031">
+    <Name>Fue un Placer Actuar a tu Lado…!</Name>
+    <Desc>Al morir, Oswald recibe 70 daños Stagger. (Oswald todavía recibe daño incluso si está fuera de combate)</Desc>
+  </PassiveDesc>
+  <!--뒤틀린 잔향악단 중층 오스왈드 토끼씨-->
+  <PassiveDesc ID="1405041">
+    <Name>Fue un Placer Actuar a tu Lado…!</Name>
+    <Desc>Al morir, Oswald recibe 70 daños Stagger. (Oswald todavía recibe daño incluso si está fuera de combate)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1405042">
+    <Name>Amalgamación</Name>
+    <Desc>Si se genera por los efectos de los 'Hilos Rojos', Max HP aumenta en 20 por personaje que se unió y gana las habilidades pasivas de los bibliotecarios unidos.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀린 잔향악단 중층 Jae-heon-->
+  <PassiveDesc ID="1407011">
+    <Name>Hilos Enredados</Name>
+    <Desc>Cuando un dado que juega cada aliado arroja el valor mínimo, vuelve a tirarlo. Se activa una vez por dado. Al comienzo de la escena, un bibliotecario aleatorio recibe 2 de Atadura. Al comienzo de la Escena, cuando se usan 'Hilos de Tensión', se eliminan todas las 'Hilo de Títeres'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1407012">
+    <Name>Carne Desatada</Name>
+    <Desc>Después de la muerte, todos los bibliotecarios obtienen de 1 a 3 de Celeridad al comienzo de cada Escena y todos sus dados obtienen +1 de Poder durante el resto del Acto.</Desc>
+  </PassiveDesc>
+
+  <!--뒤틀린 잔향악단 중층 Tanya-->
+  <PassiveDesc ID="1406011">
+    <Name>Tormenta de Arena Feroz</Name>
+    <Desc>Al final de la Escena, todos los bibliotecarios reciben 3-5 daños. Los dados Ofensivos de Jae-heon ganan '[Al golpear] Infligir 1 de Sangrado'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1406012">
+    <Name>Tormenta de Arena Violenta</Name>
+    <Desc>Después de la muerte, todos los bibliotecarios infligen +3 de daño con ataques durante el resto del Acto.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1406013">
+    <Name>Resolución Ardiente para Seguir Luchando</Name>
+    <Desc>Si no hay otros aliados presentes al final de la Escena, gana 1 de Fuerza y Resistencia, y gana 2 dados de Velocidad por el resto del Acto.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="170006">
+    <Name>Máscara de Bloqueo de Percepción</Name>
+    <Desc>Un dado de Velocidad con la Velocidad más baja se vuelve imposible de seleccionar.</Desc>
+  </PassiveDesc>
+  
+  
+  <!-- 최종전 머눈발 -->
+  <PassiveDesc ID="180001">
+    <Name>Una Inquisidora</Name>
+    <Desc></Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="180002">
+    <Name>Una Garra</Name>
+    <Desc></Desc>
+  </PassiveDesc>
+  
+  <!-- special geburah -->
+  <PassiveDesc ID="180104">
+    <Name>La destreza de Gebura</Name> <!-- equal to 묘의 기량 -->
+    <Desc>Al usar una Pagina de Combate, todos los dados de la página ganan poder contra objetivos con la Velocidad más lenta. (+1 Poder por 2 puntos de diferencia, hasta 5)</Desc>
+  </PassiveDesc>
+  
+  <!-- special binah -->
+  <PassiveDesc ID="180005">
+    <Name>Una Inquisidora</Name>
+    <Desc>Al comienzo de la Escena, saca hasta que tengas 5 Paginas disponibles.</Desc>
+  </PassiveDesc>
+  
+
+  <!-- special black silence -->
+  <PassiveDesc ID="10112">
+    <Name>Cansancio</Name>
+    <Desc>Comienza la batalla con un 25% menos de HP</Desc>
+  </PassiveDesc>
+
+  
+<!-- 밤의 송곳 (Night Awls) -->
+  <PassiveDesc ID="252001">
+    <Name>Piedad</Name>
+    <Desc>Los dados Ofensivos ganan +1 de Poder contra objetivos con menos del 10% de HP.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="252002">
+    <Name>Stiletto</Name>
+    <Desc>+2 de Poder a Dados Perforantes, -2 de Poder a Dados Cortantes y Contundentes.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="252003">
+    <Name>Grieta en la Armadura de Uno</Name>
+    <Desc>Al usar una Pagina de Combate cuerpo a cuerpo, si la Velocidad de este personaje es mayor que la del objetivo en 3 o más, destruye un dado de Bloqueo que tenga el objetivo.</Desc>
+  </PassiveDesc>
+
+  <!-- 정사무소 (Jeong's Office) -->
+  <PassiveDesc ID="234001">
+    <Name>Oferta Inferior</Name>
+    <Desc>Si el personaje descarta una pagina, dibuja 1 página al comienzo de la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="234002">
+    <Name>Apilar la Baraja</Name>
+    <Desc>Si el personaje descarta una página, restaura 1 Luz al final de la Escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 우제트 (Udjat) -->
+  <PassiveDesc ID="253001">
+    <Name>Espejismo</Name>
+    <Desc>Al final de la Escena, recupera la mitad del daño Stagger recibido durante la Escena. (Mínimo de 1; no se activa mientras está Aturdido)</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="253002">
+    <Name>Ojo de Halcón</Name>
+    <Desc>Al final de la Escena, otorga 2 de Protección al aliado que sufrió más daño.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="253003">
+    <Name>Haboob</Name>
+    <Desc>Una vez por escena, después de sufrir un ataque unilateral, obtiene 1 de Protección y Protección Stagger en la siguiente Escena.</Desc>
+  </PassiveDesc>
+
+  <!-- 미래생명 (Mirae Life Insurance) -->
+  <PassiveDesc ID="254001">
+    <Name>Beneficios del Seguro</Name>
+    <Desc>Si el personaje sufrió 1 o más ataques unilaterales en una Escena, restaura 1 de  Luz.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="254002">
+    <Name>Formulario de Poliza</Name>
+    <Desc>Al final de la Escena, elimina todas las acumulaciones de una estado alterado aleatoria (Debilidad, Desarme o Atadura) que se infligiría al personaje en la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="254003">
+    <Name>Seguro de Vida</Name>
+    <Desc>Intransferible. Al final de la Escena, si el personaje tiene 30% o menos de HP, agrega una copia del 'Seguro de Vida' a mano.</Desc>
+  </PassiveDesc>
+  
+
+  <!--공방소속 (Leaflet Workshop) -->
+  <PassiveDesc ID="255001">
+    <Name>Exceso de Humo</Name>
+    <Desc>Al final de la Escena, si el personaje tiene 8 o más de Humo, gana 1 de Fuerza en la siguiente Escena.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="255002">
+    <Name>Exceso de Provisión</Name>
+    <Desc>Si el personaje tiene 10 o más Humo, inflige +3 de daño con los ataques.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="255003">
+    <Name>Reparaciones Inmediatas</Name>
+    <Desc>Cuando está Aturdido, se recupera el Stagger y recupera completamente la Resistencia Stagger (una vez por Acto).</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="255004">
+    <Name>Locura</Name>
+    <Desc>Al comienzo de la escena, gana uno de los siguientes efectos:
+- 2 de Fuerza
+- 2 de Celeridad
+- 2 de Resistencia
+- 5 de Fragilidad</Desc>
+  </PassiveDesc>
+  
+  <!-- 베이야드 (Bayard) -->
+  <PassiveDesc ID="256001">
+    <Name>Posición Ofensiva</Name>
+    <Desc>Al comienzo de la Escena, inflige 3 de Fragilidad y gana 1 de Fuerza.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256002">
+    <Name>Mentalidad Alta</Name>
+    <Desc>Restaura 1 de Luz y dibuja 1 pagina al final de la Escena si el personaje no usó ninguna pagina.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256003">
+    <Name>Posición Preparada</Name>
+    <Desc>Si el personaje sufrió 'Inmovilización' en la Escena anterior, gana 1 de fuerza, 2 de Protección y 2 de Protección Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="256004">
+    <Name>Listo para un Gran Avance</Name>
+    <Desc>Cada 3 Escenas, usa la Pagina de Combate 'Ruptura Preciso'.</Desc>
+  </PassiveDesc>
+
+
+  <PassiveDesc ID="240010">
+    <Name>Acrobatico</Name>
+    <Desc>Daño de Ataque a Distancia +1</Desc>
+  </PassiveDesc>
+  
+</PassiveDescRoot>

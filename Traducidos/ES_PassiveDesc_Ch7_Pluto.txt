@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1309011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309012">
+    <Name>La Promesa del Ayer</Name>
+    <Desc>En la segunda escena, genera 4 Sombras que copian la apariencia, las estadísticas y las Paginas de Combate de los bibliotecarios asistentes. Una vez que todas las Sombras hayan sido derrotadas, se procede a la siguiente fase.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309013">
+    <Name>Barrera Magica</Name>
+    <Desc>Inmune a los estados alterados. No recibe daño de los desvíos. (Solo activo durante la primera fase)</Desc>
+  </PassiveDesc>
+  
+  <!--2페이즈에 나옴-->
+  <PassiveDesc ID="1309014">
+    <Name>Esto se esta Poniendo Interesante</Name>
+    <Desc>Cambio de resistencias Stagger. Utiliza una Pagina de Ataque Masivo cada 5 escenas. Recibe daño Stagger proporcional a la cantidad de veces que los dados en el Ataque masivo fallaron en dañar a sus objetivos.</Desc>
+  </PassiveDesc>
+  
+  <PassiveDesc ID="1309021">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309022">
+    <Name>Sombra</Name>
+    <Desc>Tiene el mismo HP, Resistencia Stagger, resistencias y habilidades pasivas que el bibliotecario que copió. Utiliza sus Paginas de Combate.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1309023">
+    <Name>YO SOY EL REAL!!!</Name>
+    <Desc>Utiliza una poderosa Pagina de Combate cada 2 Escenas.</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

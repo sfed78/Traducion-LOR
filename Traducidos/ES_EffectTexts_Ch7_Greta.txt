@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="Resistance">
+      <Name>Resiliencia</Name>
+      <Desc>Puede evitar que se apliquen {0} instancias de estados alterados. Una acumulación de este estado se pierde cada vez que esto bloquea un estado alterado. La Resiliencia se puede reducir aún más al ganar enfrentamientos contra ciertas Páginas de Combate.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Greta_Meat">
+      <Name>Serás Mi Ingrediente Principal!</Name>
+      <Desc>En la mira de Greta. Greta recupera 8 HP cada vez que su ataque golpea a este personaje.</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="Greta_Meat_Librarian">
+      <Name>Bibliotecario Capturado</Name>
+      <Desc>Si el HP de este personaje llega a 0, el bibliotecario muere. Solo recibe daño de Stagger de los bibliotecarios. Cuando es aturdido, el bibliotecario se libera en la siguiente escena, perdiendo algo de HP y Resistencia Stagger.</Desc>
+    </BattleEffectText>
+    
+    <BattleEffectText ID="Resistance_simple">
+      <Name>Resiliencia</Name>
+      <Desc>Puede evitar que se apliquen {0} instancias de estados alterados. Una acumulación de este estado se pierde cada vez que esto bloquea un estado alterado.</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>

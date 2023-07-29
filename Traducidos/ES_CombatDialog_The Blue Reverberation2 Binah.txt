@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Binah</GroupName>
+  <Character ID="B_E_Elena">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Veamos... ¿Me quedara unas venas por probar...?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Tolerar el dolor de esta sed... no es algo que me guste.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No fue mi comida más agradable.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Esta sed... No tiene…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Era sólo una cáscara vacía. No quedaba ni una gota de sangre en su interior...…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">La muerte es justa... Porque baila con todos nosotros.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">El destino de la depravación, brilla sobre nosotros sin discriminación.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Es una pena... No era el sabor que buscaba.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Tanto tú como yo nos limitamos a vaciar el vaso que tenemos en las manos para saciar nuestros deseos, ¿no es así?.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Ah... ¿Enserio crees que puedas detenerme con eso?.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Orange">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">…</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">…</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Binah">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Deshace tu miedo. Te aconsejo que le prestes atención al presente.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Parece que hemos termino con nuestros trabajo.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Simplemente carecías de la capacidad para seguir luchando.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Te las arreglaste para aguantar un buen rato.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Estoy seguro que los dado todo para estár vivo. Bien hecho.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Nadie te culpará.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Que descanse en paz, por ligero que haya sido su cuerpo.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Deseo que esta vez tengas un descanso eterno.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Aparte que nos quieren... Son nuestros invitados, así que debemos hacer todo lo posible para darles una bienvenida.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Buen trabajo a todos. ... Me pregunto cómo estaran los demas pisos y si estaran bien.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¡No podemos detenernos así...!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡Aguantare hasta el final...!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No hemos terminado hasta que uno de nosotros estemos vivos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No te pongas nervioso, no te pongas nervioso...</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Esto deberia facilitar un poco las cosas...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Ese Bloodfiend... ¿Se ha convertido en un libro?.</BattleDialog> <!-- Refer to line 19 in Binah versus Elena, Binah versus Elena, everybody wants to see this happen (TM) -->
+    </Type>
+  </Character>
+  <Character ID="B_E_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ella tiene un Color bajo su control... ¿Eso no significa problemas más para nosotros...?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Estais todos bien? Digamen si algo va mal.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lo siento… No puedo seguir.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">El resto de nosotros debe de tener mas precaución.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No podemos dejar que el fruto de todo nuestro enfuerzo desaparezca…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Todavía estoy bien...</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Podría haber salido mal si hubiera sido un poco más lento...…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">¿Él Bloodfiends... Es así de fuerte?</BattleDialog> <!-- Same as above -->
+    </Type>
+  </Character>
+  <Character ID="B_E_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Un Vermilion... Cross. Tiene que ser él. La cruz gigante que tiene...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">...No me siento realmente bien con esto.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Aun puedo seguir... Puedo...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">... Bajamos mucho la guardia.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No hagamos algo imprudente.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No podemos dejar que nos detengan.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Aunque sólo sea una cáscara de su antiguo yo, el poder sigue ahí...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Me siento algo mareado.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="B_E_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">... ¿Quién es el que esta al lado tuyo?</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Estoy algo cansado... Deberíamos ordenar esto y seguir adelante.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ellos... Me atraparon...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Hay otra alternativa...?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Le debi dar importancia a estas dos personas...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Deberíamos pensar en una forma de ganarles terreno.</BattleDialog>
+    </Type>
+    <Type ID="SPECIAL_EVENT">
+      <BattleDialog ID="SPECIAL_EVENT_0">Y pensar que acabamos con un color del que sólo habíamos oído hablar...</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Seguro... Ese no es un poder que cualquier persona podria tener.</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

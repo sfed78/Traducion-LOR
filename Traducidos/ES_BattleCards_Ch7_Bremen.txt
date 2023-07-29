@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703411">
+      <LocalizedName>¡¡Rarf RARF RARF!!</LocalizedName>
+      <Ability>[Inicio de Combate] Inflige 2 de Débil en esta Escena</Ability>
+      <Behaviour ID="2">[Al Ganar Clash] Inflige 1 de Débil a un enemigo aleatorio en la próxima Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703412">
+      <LocalizedName>¡¡¡Barkruff! BARK~!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 2 de Ataduras y Desarma la siguiente Escena</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 2 de Ataduras y Desarma la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703413">
+      <LocalizedName>¡¡¡BAWKBAWKBAWK!!!</LocalizedName>
+      <Ability>[Puede Apuntar a Aliado;] [Inicio de Combate] Si el objetivo es un aliado, otorga 2 de Fuerza a esta Escena</Ability>
+      <Behaviour ID="0">[Al Ganar Clash] Otorga 1 de Fuerza a un aliado aleatorio en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703414">
+      <LocalizedName>¡¡¡¡Cockadoodledoo~!!!!</LocalizedName>
+      <Ability>[Inicio de Combate] Otorga 1 de Fuerza a todos los aliados</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703415">
+      <LocalizedName>¡¡¡NEIIIGHHIHIHH!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Dar 'Etiquetado' siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703416">
+      <LocalizedName>¡¡¡Neiiigh~!!!</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 1 de Parálisis en la siguiente Escena</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 1 de Parálisis en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703421">
+      <LocalizedName>Acordes Tendinosos Poderosos</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703422">
+      <LocalizedName>Melodía Eterna</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703423">
+      <LocalizedName>Santuario Oscuro a la Música</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703424">
+      <LocalizedName>Tempo Explosivo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703425">
+      <LocalizedName>Trío</LocalizedName>
+      <Ability>[Inicio de Combate] Otorga 2 de Fuerza, Aguante, Celeridad y Protección a un aliado aleatorio; inflige 2 de Débil, Desarmar, Atadura y Frágil al objetivo</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703426">
+      <LocalizedName>Coro en el Climax</LocalizedName>
+      <Ability>[Inicio de Combate] Inflige 10 de Fragilidad y 5 de Parálisis para establecer manualmente el objetivo en la siguiente Escena</Ability>
+    </BattleCardDesc>
+
+    <!--브레멘 2차-->
+    <BattleCardDesc ID="707401">
+      <LocalizedName>Ruido Amenazante</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707402">
+      <LocalizedName>Concierto</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707403">
+      <LocalizedName>Melodía Fantasiosa</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707404">
+      <LocalizedName>Terapia Musical</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707405">
+      <LocalizedName>Wohlklang</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <text id="dropbook_something">Libro de Algo</text>
+  <text id="dropbook_rat">Libro de las Ratas</text>
+  <text id="dropbook_9fixer">Libro de Fixer de Grado 9</text>
+  <text id="dropbook_novicefixer">Libro de Fixer Novato</text>
+  <text id="dropbook_finn">Libro de Finn</text>
+  <text id="dropbook_yunoffice">Libro de la Oficina de Yun</text>
+  <text id="dropbook_eri">Libro de Eri</text>
+  <text id="dropbook_yun">Libro de Yun</text>
+  <text id="dropbook_iron">Libro de la Hermandad de Hierro</text>
+  <text id="dropbook_mo">Libro de Mo</text>
+  <text id="dropbook_consta">Libro de Consta</text>
+  <text id="dropbook_arnold">Libro de Arnold</text>
+  <text id="dropbook_hook1">Oficina de Garfio, Vol. Ⅰ</text>
+  <text id="dropbook_hook2">Oficina de Garfio, Vol. ⅠⅠ</text>
+  <text id="dropbook_taein">Libro de Taein</text>
+  <text id="dropbook_naoki">Libro de Naoki</text>
+  <text id="dropbook_mccullin">Libro de McCullin</text>
+  <text id="dropbook_district23">Una Guía para el Distrito 23</text>
+  <text id="dropbook_pierre">Libro de Pierre</text>
+  <text id="dropbook_jack">Libro de Jack</text>
+  <text id="dropbook_darkbackstreet1">Callejones Oscuros de las Callejuelas, Vol. Ⅰ</text>
+  <text id="dropbook_backstreet1">Fixer de las Callejuelas, Vol. Ⅰ</text>
+  <text id="dropbook_mars">Libro de Mars</text>
+  <text id="dropbook_lulu">Libro de Lulu</text>
+  <text id="dropbook_backstreet2">Fixer de las Callejuelas, Vol. Ⅱ</text>
+  <text id="dropbook_zwei1">Zwei de la Sección 6 Sur</text>
+  <text id="dropbook_streetlight1">Oficina de la Farola</text>
+  <text id="dropbook_streetlight2">Oficina de la Farola, Vol. Ⅱ</text>
+  <text id="dropbook_san">Libro de San</text>
+  <text id="dropbook_julia">Libro de Julia</text>
+  <text id="dropbook_zwei2">Zwei de la Sección 6 Sur, Vol. Ⅱ</text>
+  <text id="dropbook_isadora">Libro de Isadora</text>
+  <text id="dropbook_walter">Libro de Walter</text>
+  <text id="dropbook_molar">Libro de la Oficina Molar</text>
+  <text id="dropbook_olga">Libro de Olga</text>
+  <text id="dropbook_rain">Libro de Rain</text>
+  <text id="dropbook_mika">Libro de Mika</text>
+  <text id="dropbook_straydogs">Libro de los Perros Errantes</text>
+  <text id="dropbook_gyeongmi">Libro de Gyeong-mi</text>
+  <text id="dropbook_dino">Libro de Dino</text>
+  <text id="dropbook_zulu">Libro de Zulu</text>
+  <text id="dropbook_darkbackstreet2">Callejones Oscuros de las Callejuelas, Vol. ⅠⅠ</text>
+  <text id="dropbook_backstreet3">Fixer de las Callejuelas, Vol. Ⅲ</text>
+  <text id="dropbook_backstreet4">Fixer de las Callejuelas, vol. Ⅳ</text>
+  <text id="dropbook_8fixer">Libro de un Fixer de Grado 8</text>
+  <text id="dropbook_7fixer">Libro de un Fixer de grado 7</text>
+  <text id="dropbook_axegang">Libro de Pandilla Hacha</text>
+  <text id="dropbook_distortion">Libro de una Distorsión</text>
+  <text id="dropbook_lobotomycorp">Libro de la Lobotomy Corp.</text>
+  <text id="dropbook_carnival">Libro del Carnaval</text>
+
+  <text id="dropbook_fullstop">Libro de la Oficina del Punto Final</text>
+  <text id="dropbook_liwei">Libro de Liwei</text>
+  <text id="dropbook_stephan">Libro de Stephan</text>
+  <text id="dropbook_tamaki">Libro de Tamaki</text>
+
+  <text id="dropbook_dawn">Libro de la Oficina del Amanecer</text>
+  <text id="dropbook_salvador">Libro de Salvador</text>
+  <text id="dropbook_yuna">Libro de Yuna</text>
+
+  <text id="dropbook_gaze">Libro de la Oficina de la Mirada</text>
+  <text id="dropbook_alloc">Libro de Alloc</text>
+  <text id="dropbook_dalloc">Libro de Dalloc</text>
+  <text id="dropbook_bono">Libro de Bono</text>
+
+  <text id="dropbook_tomerry">Libro de Tomerry</text>
+
+  <text id="dropbook_sayo">Libro de Sayo</text>
+  <text id="dropbook_yang">Libro de Yang</text>
+  <text id="dropbook_gin">Libro de Gin</text>
+  <text id="dropbook_kurokumo">Libro del Clan Kurokumo</text>
+
+  <text id="dropbook_bremen">Libro de los Músicos de Bremen</text>
+  <text id="dropbook_meow">Libro de Meow</text>
+  <text id="dropbook_mumu">Libro de MuMu</text>
+  <text id="dropbook_oink">Libro de Oink</text>
+
+  <text id="dropbook_wedge">Libro de Oficina de Cuña</text>
+  <text id="dropbook_oscar">Libro de Oscar</text>
+  <text id="dropbook_pameli">Libro de Pameli</text>
+  <text id="dropbook_pamela">Libro de Pamela</text>
+
+  <text id="dropbook_shi">Libro de la Asociación Shi</text>
+  <text id="dropbook_yujin">Libro de Yujin</text>
+  <text id="dropbook_valentin">Libro de Valentin</text>
+  <text id="dropbook_tenma">Libro de Tenma</text>
+
+  <text id="dropbook_puppeteer">Libro de un Títere</text>
+  <text id="dropbook_puppet1">Libro de un Títere Pesado</text>
+
+  <text id="dropbook_emma">Libro de Emma</text>
+  <text id="dropbook_noah">Libro de Noah</text>
+
+  <text id="dropbook_sweeper">Libro de Barrendero</text>
+  <text id="dropbook_anton">Libro de Anton</text>
+  <text id="dropbook_lyla">Libro de Lyla</text>
+  <text id="dropbook_valerie">Libro de Valerie</text>
+
+  <text id="dropbook_index">Libro de Prosélito del Indice</text>
+
+  <text id="dropbook_warpcrew">Libro del Equipo de Limpieza WARP</text>
+  <text id="dropbook_rose">Libro de Rose</text>
+  <text id="dropbook_sen">Libro de Sen</text>
+  <text id="dropbook_lesti">Libro de Lesti</text>
+
+  <text id="dropbook_wang">Libro de Wang</text>
+  <text id="dropbook_jin">Libro de Jin</text>
+  <text id="dropbook_mi">Libro de Mi</text>
+  <text id="dropbook_smilingfaces">Libro de las Caras Sonrientes</text>
+
+  <text id="dropbook_philip">Libro Inestable de los Niños que Lloran</text>
+
+  <text id="dropbook_liu1">Asociación Liu, Vol. Ⅰ</text>
+  <text id="dropbook_liu2">Asociación Liu, Vol. ⅠⅠ</text>
+  <text id="dropbook_lowel">Libro de Lowell</text>
+  <text id="dropbook_cecil">Libro de Cecil</text>
+  <text id="dropbook_mei">Libro de Mei</text>
+
+  <text id="dropbook_thumb">Libro del Pulgar</text>
+  <text id="dropbook_kalo">Libro de Kalo</text>
+  <text id="dropbook_katriel">Libro de Katriel</text>
+  <text id="dropbook_boris">Libro de Boris</text>
+  <text id="dropbook_dennis">Libro de Denis</text>
+
+  <text id="dropbook_cane">Libro de la Oficina de Baston</text>
+  <text id="dropbook_nemo">Libro de Nemo</text>
+  <text id="dropbook_martina">Libro de Martina</text>
+  <text id="dropbook_bada">Libro de Bada</text>
+
+  <text id="dropbook_gears">Libro de Devoto a la Iglesia de los Engranajes</text>
+
+  <text id="dropbook_index2">Libro del Índice</text>
+  <text id="dropbook_esther">Libro de Esther</text>
+  <text id="dropbook_hubert">Libro de Hubert</text>
+  <text id="dropbook_gloria">Libro de Gloria</text>
+
+  <text id="dropbook_liuAssociation2_1">Asociación Liu Sección 2, vol. Ⅰ</text>
+  <text id="dropbook_liuAssociation2_2">Asociación Liu Sección 2, vol. ⅠⅠ</text>
+
+  <text id="dropbook_liuAssociation1">Libro de la Asociación Liu Sección 1</text>
+  <text id="dropbook_chun">Libro de Chun</text>
+
+  <text id="dropbook_redMist">Libro de la Niebla Roja</text>
+
+  <text id="dropbook_rabbit">Libro del Equipo Conejo</text>
+  <text id="dropbook_rhino">Libro del Equipo Rinoceronte</text>
+  <text id="dropbook_reindeer">Libro del Equipo de Renos</text>
+
+  <text id="dropbook_nikolai">Libro de Nikolai</text>
+  <text id="dropbook_myo">Libro de Myo</text>
+  <text id="dropbook_maxim">Libro de Maxim</text>
+  <text id="dropbook_rudolph">Libro de Rudolph</text>
+
+  <text id="dropbook_nikolai2">Libro completo de Nikolai</text>
+  <text id="dropbook_myo2">Libro completo de Myo</text>
+  <text id="dropbook_maxim2">Libro completo de Maxim</text>
+  <text id="dropbook_rudolph2">Libro completo de Rudolph</text>
+
+  <text id="dropbook_purpletear">Libro de la Lágrima Púrpura</text>
+
+  <text id="dropbook_xiao">Libro de Xiao</text>
+  <text id="dropbook_miris">Libro de Miris</text>
+
+  <text id="dropbook_yan">Libro de 얀샋ㄷ요무</text>
+
+  <text id="dropbook_jikan">Libro de Jikan</text>
+  <text id="dropbook_rustychain">Libro de un Eslabón de Cadena Oxidado</text>
+  <text id="dropbook_workshopsolver">Libro de Fixer Afiliado a Taller</text>
+  <text id="dropbook_dante">Libro de Dante</text>
+  <text id="dropbook_sevenfixers">Libro de Fixer de la Asociación Seven</text>
+  <text id="dropbook_kimsatgat">Libro de Kim el Sombrero de Bambú</text>
+  <text id="dropbook_sword">Libro del Linaje de Espadas Cortagargantas</text>
+  <text id="dropbook_classonefixer">Libro de Dong-hwan el Fixer de Grado 1</text>
+
+
+  <text id="dropbook_hanaAssociation">Libro de la Asociación Hana</text>
+  <text id="dropbook_mirinae">Libro de Mirinae</text>
+  <text id="dropbook_harold">Libro de Harold</text>
+  <text id="dropbook_olivier">Libro de Olivier</text>
+
+  <text id="dropbook_hanahuda">Libro de Hanafuda</text>
+  <text id="dropbook_J_Cop">Libro de Fixer de la Oficina de Jeong</text>
+  <text id="dropbook_awlofnight">Libro de Punzón Nocturno</text>
+  <text id="dropbook_awlofnightnamed">Libro de Allen</text>
+  <text id="dropbook_usett">Libro de Udjat</text>
+  <text id="dropbook_miraenamed">Libro de Irina</text>
+  <text id="dropbook_mirae">Libro de Asegurador de Mirae</text>
+  <text id="dropbook_cornamed">Libro de Yae</text>
+  <text id="dropbook_cor">Libro de Fixer del Taller de Hojuelas</text>
+  <text id="dropbook_bayyardnamed">Libro de Bayard</text>
+  <text id="dropbook_bayyard">Libro de Fixer de la Oficina de Bayard</text>
+
+
+</localize>

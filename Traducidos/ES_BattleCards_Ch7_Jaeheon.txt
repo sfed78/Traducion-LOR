@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703701">
+      <LocalizedName>Tiradores de Asalto</LocalizedName>
+      <Ability>[Inicio de Combate] Da 'Marca Roja' al bibliotecario con el HP más bajo en la siguiente Escena</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703702">
+      <LocalizedName>De Ninguna Manera</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Ganar Choque] Inflige 1 de Débil en esta Escena</Behaviour>
+      <Behaviour ID="1">[Al Ganar Choque] Infligir 1 de Desarmar esta Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703703">
+      <LocalizedName>Pala</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703704">
+      <LocalizedName>Lisiado</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703705">
+      <LocalizedName>Tirando de Cuerdas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[En Perdida de Choque] Títere pierde 1 de Cuerda de Títere en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703706">
+      <LocalizedName>Cuerdas Finas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[En Perdida de Choque] Títere ágil pierde 1 de Cuerda de Títere en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703707">
+      <LocalizedName>Cuerdas Duraderas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[En Perdida de Choque] Títere Pesado pierde 1 de Cuerda de Títere en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703708">
+      <LocalizedName>Cuerdas únicas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[En Perdida de Choque] Títere Angelica pierde 1 e Cuerda de Títere en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703709">
+      <LocalizedName>Tensando las Cuerdas</LocalizedName>
+      <Ability>[En uso] Dar 1 de Cuerda de Títere a todos los Títeres en la siguiente Escena</Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 1 de Atadura en la siguiente Escena</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 1 de Atadura en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703710">
+      <LocalizedName>Gigigig</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703711">
+      <LocalizedName>Crujir</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703712">
+      <LocalizedName>Maniquí</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703713">
+      <LocalizedName>Movimiento Automatizado</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703714">
+      <LocalizedName>Bloqueo de Títere</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703715">
+      <LocalizedName>Carne Reprimida</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703716">
+      <LocalizedName>Gesto Forzosado</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703717">
+      <LocalizedName>Grgh..</LocalizedName>
+      <Ability>[En Uso] Restaurar 3 de Luz; sacar 1 página</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703718">
+      <LocalizedName>Gh..Gigi..Gig</LocalizedName>
+      <Ability>[En uso] Restaurar 1 de luz; sacar 1 página</Ability>
+    </BattleCardDesc>
+     <BattleCardDesc ID="703719">
+      <LocalizedName>Uu…Ghghgh…</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[En Choque Ganado] Destruye el próximo dado del oponente</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703720">
+      <LocalizedName>Títeres</LocalizedName>
+      <Ability />
+    </BattleCardDesc>
+    <BattleCardDesc ID="703721">
+      <LocalizedName>Títeres</LocalizedName>
+      <Ability>Si la Velocidad es 5 o superior, todos los dados de esta página ganan +1 de Poder.</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703722">
+      <LocalizedName>Títeres</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703723">
+      <LocalizedName>Títeres</LocalizedName>
+      <Ability>Si la Velocidad es 5 o superior, todos los dados de esta página ganan +2 de Poder.</Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 4 daños de Aturdimiento</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 4 daños de Aturdimiento</Behaviour>
+      <Behaviour ID="2">[Al Golpear] Inflige 4 daños de Aturdimiento</Behaviour>
+    </BattleCardDesc>
+
+  </cardDescList>
+</BattleCardDescRoot>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>Rats</GroupName>
+  <Character ID="Pete">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿Piensas que no podemos vencer a un montón de soquetes?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No lo pongas fácil, nosotros no seremos tan buenos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No les tenemos miedo, debiluchos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Podría aspirar para Sindicatos más grandes que los Perros Errantes si seguimos así!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Esto fue más o menos una victoria gratis para nosotros!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Maldita sea. Mi sueño… aún está muy lejos…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Supongo que era un tonto que soñaba demasiado grande…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Se suponía que pelearíamos juntos hasta el final!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Por qué tenías que ser tan débil? …Maldito seas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Maldición… Esto es muy injusto para nosotros!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Tan débil como pensaba.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ganarle a ustedes tontos va a ser pan comido para un aspirante a Dedo como yo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No soy solo un matón imprudente. También tengo cerebro, ¿ves?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="Lenny">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Suspiro… Tenemos pocas horas. Acabemos con esto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡Ey, apuremos ésto y vengan!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No nos menosprecies porque somos Ratas.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Qué se siente ser aplastado por las Ratas que menosprecias?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Bueno… No voy a mentir, me asustó un poco al inicio, pero eran más débiles de lo que pensaba.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Mierda… Sabía que no debería haber venido…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No raspé en el fondo toda mi vida sólo para morir así…!</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…Tch. No tenía muchas expectativas para ti de todos modos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No seas una molestia.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No me importa si te mueres.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eres demasiado débil para ser guardianes de cosas importantes.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Eso estuvo cerca… Pero gané.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Hmph, tantos puntos débiles. Son un montón de fracasados.</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+  <Character ID="MangChi">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¿De verdad tengo que hacer todo esto para que su sueño se haga realidad?..</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Suspiro… Estaríamos mejor recolectando más tripas…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Quiero entrar en un Sindicato de verdad y ponerme cómodo de una vez.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Podemos lograrlo si lo intentamos. Ahora nuestras vidas deberían arreglarse un poco.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Se siente más fácil comparado a recolectar tripas…? No ha estado nada mal.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…Supongo que eso es todo. No logré disfrutar nada…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No quería tener un final tan incómodo…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Hey… ¿Qué sucede…? No estás muerto de verdad, ¿Verdad?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Te dije que era mala idea entrar aquí…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Creo que sería más rápido y seguro encontrar un nuevo cuerpo…</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Fue un golpe directo!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Nunca he visto a alguien más débil que una Rata en mi vida.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eek… A-Acabo de matar a ese… ¿Verdad…?</BattleDialog>
+    </Type>
+    <Type ID="ENCOUNTERS_OPPONENT" />
+  </Character>
+</BattleDialogRoot>

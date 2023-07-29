@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="1303011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1303012">
+    <Name>Tosco y Listo</Name>
+    <Desc>HP no baja del 30%. Si HP cae al 40% o menos, continúa con la siguiente fase.</Desc>
+  </PassiveDesc>
+  
+  <!--2페이즈에 나옴-->
+  <PassiveDesc ID="1303013">
+    <Name>Festin y Furioso</Name>
+    <Desc>Cuando comience la fase, derrota a todas las Carnes frescas y recupera HP según la cantidad que tenían las Carnes. Además, gana 1 de Fuerza.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1303014">
+    <Name>Células Regenerativas</Name>
+    <Desc>Al comienzo del acto, gana 20 de Resiliencia. Cada 5 escenas, elimina todos los estados alterados y gana 10 de Resiliencia.</Desc>
+  </PassiveDesc>
+   <PassiveDesc ID="1303015">
+    <Name>Piel de Tiburon</Name>
+    <Desc>Gana 3 de Proteccion en cada Escena. Recibe +3 de daño adicional de los ataques mientras estás afectado por Sangrado.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1303016">
+    <Name>Crueldad Imparable</Name>
+    <Desc>No se puede Aturdir. Cuando la Resistencia Stagger cae a 0, pierde 100 HP en su lugar y gana 1 Fuerza en la próxima Escena.</Desc>
+  </PassiveDesc>
+
+   <!--뒤틀림-->
+  <PassiveDesc ID="1403011">
+    <Name>Caballero en Dentículos Brillantes</Name>
+    <Desc>Mientras están vivos, todos los demás aliados obtienen 1 Proteccion y Proteccion Stagger.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403012">
+    <Name>Garde Perdue</Name> <!-- Get it? Like Pain Perdu :) -->
+    <Desc>Al morir, todos los aliados sufren 5 de Fragilidad en la siguiente Escena.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403013">
+    <Name>Añadir Sal a la Herida</Name>
+    <Desc>Si el objetivo tiene 5 o más de Sangrado, el primer dado tirado este personaje en el enfrentamiento inflige 1 de Fragilidad al golpear.</Desc>
+  </PassiveDesc>
+
+  <PassiveDesc ID="1403014">
+    <Name>Regeneración Dérmica</Name>
+    <Desc>Si el personaje no fue golpeado por ningún ataque durante una Escena, recupera 10 HP y gana 1 Fuerza.</Desc>
+  </PassiveDesc>
+
+</PassiveDescRoot>

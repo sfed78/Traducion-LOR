@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CharactersNameRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <Name ID="2">Ratas</Name>
+        <Name ID="3">Fixers de la Oficina de Yun</Name>
+        <Name ID="4">Novato de la Oficina de Yun</Name>
+        <Name ID="5">Oficina de Yun</Name>
+        <Name ID="6">Hermandad de Hierro</Name>
+        <Name ID="7">Oficina de Garfio</Name>
+        <Name ID="10001">El Bistró de Pierre</Name>
+        <Name ID="10002">Oficina de la Farola</Name>
+        <Name ID="10003">Lulú de la Farola</Name>
+        <Name ID="20001">Miembros de Zwei</Name>
+        <Name ID="20002">Asociación Zwei I</Name>
+        <Name ID="20003">Asociación Zwei II</Name>
+        <Name ID="20004">Oficina Molar</Name>
+        <Name ID="20005">Perros Errantes</Name>
+  <Name ID="30001">El Carnaval</Name>
+  <Name ID="30002">Oficina del Punto Final</Name>
+  <Name ID="30003">Oficina del Amanecer</Name>
+  <Name ID="30004">Oficina de la Mirada</Name>
+  <Name ID="30005">Tomerry</Name>
+  <Name ID="30006">Clan Kurokumo</Name>
+  <Name ID="30007">Músicos de Bremen</Name>
+  <Name ID="30008">Oficina de Cuña</Name>
+  <Name ID="40001">Asociación de Shi</Name>
+  <Name ID="40002">Títeres</Name>
+  <Name ID="40003">El Circo de las 8 en Punto</Name>
+  <Name ID="40004">Barrenderos</Name><!---->
+  <Name ID="40005">Prosélitos del Índice</Name>
+  <Name ID="40006">Equipo de Limpieza WARP</Name>
+  <Name ID="40007">Caras Sonrientes</Name>
+  <Name ID="40008">Los Niños que Lloran</Name>
+  <Name ID="50001">Asociación Liu Sección 2</Name>
+        <Name ID="50002">Asociación Liu Sección 2 II</Name>
+  <Name ID="50003">El Pulgar</Name>
+  <Name ID="50004">El Pulgar II</Name>
+  <Name ID="50005">Oficina de Bastón</Name>
+  <Name ID="50006">La Reverberación Azul</Name>
+  <Name ID="50007">Proxies del Índice</Name>
+  <Name ID="50008">Asociación Liu Sección 1</Name>
+  <Name ID="50010">R Corp.</Name>
+  <Name ID="50011">R Corp. Ⅱ</Name>
+  <Name ID="50012">La Lágrima Púrpura</Name>
+  <Name ID="50013">Xiao</Name>
+  <Name ID="50014">얀샋ㄷ요무</Name>
+
+
+  <Name ID="60001">Asociación Hana</Name>
+  <Name ID="60002">Olivier</Name>
+
+
+  <Name ID="100001">Carniceros de la Callejuela</Name>
+        <Name ID="100002">Restos de la Oficina Garfio</Name>
+        <Name ID="100003">Sindicato de clase Mito Urbano</Name>
+        <Name ID="100004">Fixers de Grado 8</Name>
+        <Name ID="100005">Fixers de Grado 7</Name>
+        <Name ID="100006">Oficina de clase Leyenda Urbana</Name>
+        <Name ID="100007">Sindicato de clase Leyenda Urbana</Name>
+        <Name ID="100008">Pandilla Hacha</Name>
+  <Name ID="100009">Cadenas Oxidadas</Name>
+  <Name ID="100010">Fixers Afiliados a Taller</Name>
+  <Name ID="100011">Asociación Seven</Name>
+  <Name ID="100012">Linaje Cortagargantas</Name>
+  <Name ID="100013">Dong-hwan el Fixer de Grado 1</Name>
+
+
+  <Name ID="210001">Baño de Sangre</Name>
+  <Name ID="210002">Corazón de Aspiración</Name>
+  <Name ID="201001">Chica Quemada</Name>
+  <Name ID="201002">Oso de Peluche Feliz</Name>
+  <Name ID="202001">Asesino Abandonado</Name>
+  <Name ID="202002">Ayudante Integral</Name>
+  <Name ID="203001">La Mirada Tímida de Hoy</Name>
+  <Name ID="203002">Los Zapatos Rojos</Name>
+  <Name ID="204001">Fragmento del Universo</Name>
+  <Name ID="204002">Niño de la Galaxia</Name>
+
+
+  <Name ID="201003">Festival de Hadas</Name>
+  <Name ID="203003">Capullo de Araña</Name>
+  <Name ID="204003">Porccubus</Name>
+
+
+  <Name ID="202003">Máquina de Cantar</Name>
+
+
+  <Name ID="210003">Pinocho</Name>
+
+
+  <Name ID="205001">La Reina del Odio</Name>
+
+
+  <Name ID="205002">La Caballera de la Desesperación</Name>
+
+
+  <Name ID="201004">Abeja Reina</Name>
+
+
+  <Name ID="206001">La Mercenaria Caperucita Roja</Name>
+  <Name ID="207001">Espantapájaros en Busca de la Sabiduría</Name>
+
+
+  <Name ID="207002">Leñador de Corazón Cálido</Name>
+
+
+  <Name ID="202004">El Funeral de las Mariposas Muertas</Name>
+
+
+  <Name ID="206002">Grande y será Lobo Malo</Name>
+
+
+  <Name ID="205003">El Rey de la Codicia</Name>
+
+
+  <Name ID="203004">Laetitia</Name>
+
+
+  <Name ID="204004">Alriune</Name>
+
+
+  <Name ID="208001">Gran Ave</Name>
+  <Name ID="209001">El Cielo de las Madrigueras</Name>
+  <Name ID="210004">La Reina de la Nieve</Name>
+
+
+  <Name ID="206003">Montaña de Cuerpos Sonrientes</Name>
+  <Name ID="207003">El Camino a Casa &amp; Gato Asustado</Name>
+
+
+  <Name ID="205004">La Sirvienta de la Ira</Name>
+
+
+  <Name ID="209002">El Precio del Silencio</Name>
+  <Name ID="208002">Ave Castigador</Name>
+
+
+  <Name ID="50009">La Niebla Roja</Name>
+
+
+  <Name ID="208003">Ave del Juicio</Name>
+
+
+  <Name ID="206004">Nosferatu</Name>
+
+
+  <Name ID="207004">Ozma</Name>
+
+
+  <Name ID="209003">Estrella Azul</Name>
+
+
+  <Name ID="70001">Los Niños que Lloran</Name>
+  <Name ID="70002">La Iglesia de los Engranajes</Name>
+  <Name ID="70003">La Octava Cocinera</Name>
+  <Name ID="70004">Los Músicos de Bremen</Name>
+  <Name ID="70005">El Circo de las 8 en Punto</Name>
+  <Name ID="70006">L’heure du Loup</Name>
+  <Name ID="70007">El Titiritero</Name>
+  <Name ID="70008">La Noche Roja-Sangrienta</Name>
+  <Name ID="70009">La Promesa del Ayer</Name>
+  <Name ID="70010">La Reverberación Azul</Name>
+
+
+  <Name ID="610000">El Ensamble de la Reverberación</Name>
+  <Name ID="60003">El Silencio Negro</Name>
+  <Name ID="60004">El Ensamble de la Reverberación Distorsionado</Name>
+
+
+  <Name ID="60007">???</Name>
+
+
+
+
+  <!--케테르 완전개방-->
+  <Name ID="210005">Baño de Sangre</Name>
+  <Name ID="210006">Corazón de Aspiración</Name>
+  <Name ID="210007">Pinocho</Name>
+  <Name ID="210008">La Reina de la Nieve</Name>
+  <Name ID="210009">Chica Silenciosa</Name>
+
+
+   <Name ID="100014">Oficina de Jeong</Name>
+  <Name ID="100015">Punzones Nocturnos</Name>
+  <Name ID="100016">Los Udjat</Name>
+  <Name ID="100017">Seguro de Vida Mirae</Name>
+  <Name ID="100018">Taller de Folletos</Name>
+  <Name ID="100019">Bayard</Name>
+
+
+</CharactersNameRoot>

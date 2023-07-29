@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703501">
+      <LocalizedName>Divirtámonos un Poco~</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703502">
+      <LocalizedName>¡¿Listo para una Sorpresa?!&lt;color="red"&gt;♥&lt;/color&gt;</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Ganar Choque] Recupera 5 HP</Behaviour>
+      <Behaviour ID="1">[Al Ganar Choque] Recupera 5 HP</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703503">
+      <LocalizedName>¡Pow~! ¡¡Kablammo!!♣</LocalizedName>
+      <Ability>[Buen Trabajo~] Si el último dado de esta página pierde en un choque, el oponente gana 1 de Celeridad y Aguante en la siguiente Escena.</Ability>
+      <Behaviour ID="0">[Al Ganar Choque] El último dado gana +1 de Poder</Behaviour>
+      <Behaviour ID="1">[Al Ganar Choque] El último dado gana +1 de Poder</Behaviour>
+      <Behaviour ID="2">[Al Golpear] Sella un dado de Velocidad del objetivo en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703504">
+      <LocalizedName>¡Toma, Atrapa~!♣</LocalizedName>
+      <Ability>[Bien Hecho~] Si el primer dado de esta página pierde en un choque, el oponente gana 1 de Fuerza en la siguiente Escena.</Ability>
+      <Behaviour ID="0">[Al Golpear] Destruye todos los dados en la página del objetivo</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703505">
+      <LocalizedName>¿Deberíamos Dar un Salto Mortal a Estos?◆</LocalizedName>
+      <Ability>[Buen Trabajo~] Si todos los dados de esta página pierden en un choque, el oponente recupera 2 de Luz</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703506">
+      <LocalizedName>Te Necesitamos, ¿Sabes~?</LocalizedName>
+      <Ability>[Cuando Nos Encontremos~] Objetivo Aturdido; El objetivo está Estupefacto en la siguiente Escena</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703507">
+      <LocalizedName>¡¡¡CLIMAX!!!</LocalizedName>
+      <Ability>[TODOS USTEDES;][UNA VEZ QUE COMIENCE] Inflige uno de los siguientes estados a los objetivos al azar: 2 de Frágiles, 2 de Desarmar, 2 de Débil, 2 de Protección, 2 de Fuerza, 2 de Aguanete</Ability>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703511">
+      <LocalizedName>Lanzamiento Casual</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703512">
+      <LocalizedName>Corte Transversal</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703513">
+      <LocalizedName>Guillotina</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Destruye el próximo dado del objetivo</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703514">
+      <LocalizedName>Aluvión de Cuchillos</LocalizedName>
+      <Ability>Si el último dado no inflige daño, se inflige 2 de Débil en la siguiente Escena.</Ability>
+      <Behaviour ID="0">[Al Ganar Choque] El siguiente dado gana +1 de Poder; inflige 1 de Sangrado siguiente Escena</Behaviour>
+      <Behaviour ID="1">[Al Ganar Choque] El siguiente dado gana +1 de Poder; inflige 1 de Sangrado siguiente Escena</Behaviour>
+      <Behaviour ID="2">[Al Ganar Choque] El siguiente dado gana +1 de Poder; inflige 1 de Sangrado siguiente Escena</Behaviour>
+      <Behaviour ID="3">[Al Golpear] Gana 1 de Celeridad y Fuerza en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703521">
+      <LocalizedName>Aria de Animo</LocalizedName>
+      <Ability>[En Uso] Recupera 8 HP para el aliado con el HP actual más bajo</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703522">
+      <LocalizedName>Aria de Auspicio</LocalizedName>
+      <Ability>[En Uso] Otorga 2 de Protección al aliado con el HP actual más bajo</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703523">
+      <LocalizedName>Aria de Coraje</LocalizedName>
+      <Ability>[En Uso] Otorga 1 de Fuerza al aliado con el HP actual más bajo</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703524">
+      <LocalizedName>Tono Horrendo</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 8 daños de Tambaleo</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703525">
+      <LocalizedName>Terror Resonante</LocalizedName>
+      <Behaviour ID="0">[Al Golpear] Inflige 4 daños de Tambaleo</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 4 daños de Tambaleo</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703526">
+      <LocalizedName>Tono Horrendo</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 8 daños de Tambaleo</Behaviour>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

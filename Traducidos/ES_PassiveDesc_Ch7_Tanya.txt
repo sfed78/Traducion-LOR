@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- 타냐 -->
+  <PassiveDesc ID="1306011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1306012">
+    <Name>Hora del Lobo</Name>
+    <Desc>Al comienzo de la escena, si no hay enemigos a los que se pueda apuntar, elimina los efectos 'Inatacable' de todos los enemigos y otorga a los que tenían esos efectos 2 de Protección y Protección Stagger.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1306013">
+    <Name>Hora de la Segunda Ronda</Name>
+    <Desc>Cuando HP cae a 1, recupera completamente HP y Resistencia Stagger, y elimina todos los estados alterados. El HP no puede llegar a 0 antes de que esto ocurra. (Una vez Acto)
+Luego, gana 2 de Fuerza y Resistencia por el resto del Acto.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

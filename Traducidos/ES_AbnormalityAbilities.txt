@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbnormalityAbilityRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Abnormality ID="FairyCarnival_Care">
+    <AbilityList>
+      <Ability>Recuperar {0} HP</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="FairyCarnival_Gluttony">
+    <AbilityList>
+      <Ability>Recuperar {0} HP</Ability>
+      <Ability>Daño</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="BeautyandtheBeast_Curse">
+    <AbilityList>
+      <Ability>Daño Recibido {0}</Ability>
+      <Ability>Maldición</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="BeautyandtheBeast_Hate">
+    <AbilityList>
+      <Ability>Mejorar los Dados</Ability>
+      <Ability>Disminuir {0} HP</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ScorchedGirl_Walk">
+    <AbilityList>
+      <Ability>{0} Daño</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ScorchedGirl_Ashes">
+    <AbilityList>
+      <Ability>Daño Recibido {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="HappyTeddyBear_Hug">
+    <AbilityList>
+      <Ability>Daño de Aturdimiento {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="HappyTeddyBear_Memory">
+    <AbilityList>
+      <Ability>Costo Disminuido</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheDreamingCurrent_Sea">
+    <AbilityList>
+      <Ability>Velocidad {0}</Ability>
+      <Ability>Restaurar {0} Luz</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheDreamingCurrent_Run">
+    <AbilityList>
+      <Ability>Velocidad {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheDreamingCurrent_candy">
+    <AbilityList>
+      <Ability>Obtén 'Dulce'</Ability>
+      <Ability>Daño {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="27thofMarch_Shelter">
+    <AbilityList>
+      <Ability>Borroso; No puede actuar; Recuperar {0} HP</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="1.76 MHz_MHz">
+    <AbilityList>
+      <Ability>Poder {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="1.76MHz_423">
+    <AbilityList>
+      <Ability>Daño {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ForsakenMurderer_Tie">
+    <AbilityList>
+      <Ability>Velocidad {0}</Ability>
+      <Ability>Daño {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ForsakenMurderer_Metal">
+    <AbilityList>
+      <Ability>Mejorar los Dados</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="LittleHelper_Clean">
+    <AbilityList>
+      <Ability>Mejorar los Dados</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="LittleHelper_Pattern">
+    <AbilityList>
+      <Ability>Gana {0} Celeridad y {1} Fuerza</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Schadenfreude_See">
+    <AbilityList>
+      <Ability>Infligir {0} Débil, {0} Desarmar</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Schadenfreude_Eye">
+    <AbilityList>
+      <Ability>Poder {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="YouMustBeHappy_Q">
+    <AbilityList>
+      <Ability>Valor Min.</Ability>
+      <Ability>Valor Max.</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChangeAnything_Energy">
+    <AbilityList>
+      <Ability>Restaurar {0} Luz</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Variant_Dimensional">
+    <AbilityList />
+  </Abnormality>
+  <Abnormality ID="Behavior_Adjustment">
+    <AbilityList>
+      <Ability>Mejorar los Dados</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SpiderBud_Cocoon">
+    <AbilityList>
+      <Ability>Infligir {0} daño de Aturdimiento, Infligir {1} Frágil</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SpiderBud_Dinner">
+    <AbilityList>
+      <Ability>Recuperar {0} HP</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ShyLookToday_Face">
+    <AbilityList>
+      <Ability>Poder {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="OldLady_Lonely">
+    <AbilityList>
+      <Ability>Infligir Soledad</Ability>
+      <Ability>Velocidad {0}, Recibe {1} daño</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="OldLady_Story">
+    <AbilityList>
+      <Ability>Daño {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MeatLantern_Predation">
+    <AbilityList>
+      <Ability>Daño {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MeatLantern_Bait">
+    <AbilityList>
+      <Ability>Poder {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MeatLantern_Ambush">
+    <AbilityList>
+      <Ability>Ganar Borroso</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Porccubus_Thorn">
+    <AbilityList>
+      <Ability>Debilitar el siguiente dado Defensivo</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Porccubus_Happy">
+    <AbilityList>
+      <Ability>Restaurar {0} Luz</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="RedShoes_Kirakira">
+    <AbilityList>
+      <Ability>Infligir Seducción</Ability>
+      <Ability>Daño {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="RedShoes_Desire">
+    <AbilityList>
+      <Ability>Velocidad {0}</Ability>
+      <Ability>Infligir {0} Sangrado</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="UniverseZogak_Echo">
+    <AbilityList>
+      <Ability>Destruye todos los dados de ambos personajes</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="UniverseZogak_Tentacle">
+    <AbilityList>
+      <Ability>Mejorar los Dados</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChildofGalaxy_Friend">
+    <AbilityList>
+      <Ability>Recuperar {0} HP</Ability>
+      <Ability>Recibe {0} daño</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChildofGalaxy_Tear">
+    <AbilityList>
+      <Ability>Pierde {0} HP</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="ChildofGalaxy_Token">
+    <AbilityList>
+      <Ability>Recuperar {0} HP</Ability>
+      <Ability>Pierde {0} HP</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SingingMachine_Music">
+    <AbilityList>
+      <Ability>Mejorar los Dados</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="SingingMachine_Rhythm">
+    <AbilityList>
+      <Ability>Ganar Ritmo</Ability>
+      <Ability>Aplicar Ritmo</Ability>
+      <Ability>Mejorar los Dados</Ability>
+      <Ability>Daño Recibido {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheLittlePrince_Bigbusut">
+    <AbilityList>
+      <Ability>Daño de Aturdimiento {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Alriune_Bush">
+    <AbilityList>
+      <Ability>{0} Daño</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Alriune_flower">
+    <AbilityList>
+      <Ability>Inflige {0} daño a todos los personajes</Ability>
+      <Ability>Ganar Borroso</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Rudolta_Gift">
+    <AbilityList>
+      <Ability>Daño de Aturdimiento {0}, Infligir {1} Atadura</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Theresia_Orgel">
+    <AbilityList>
+      <Ability>Recuperación de Resistencia al Aturdimiento aumentada</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Bloodbath_Blood">
+    <AbilityList>
+      <Ability>Velocidad {0}</Ability>
+      <Ability>Mejorar los Dados</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Bloodbath_Scar">
+    <AbilityList>
+      <Ability>Daño Recibido {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Bloodbath_Hands">
+    <AbilityList>
+      <Ability>Daño de Aturdimiento {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheSnowQueen_Sord">
+    <AbilityList>
+      <Ability>Atar {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheSnowQueen_Chu">
+    <AbilityList>
+      <Ability>Infligir Astilla de Hielo</Ability>
+      <Ability>Inmovilizar</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="TheSnowQueen_Snow">
+    <AbilityList>
+      <Ability>Daño de Aturdimiento {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="Pinocchio_Learn">
+    <AbilityList />
+  </Abnormality>
+  <Abnormality ID="Pinocchio_Lie">
+    <AbilityList>
+      <Ability>Volver a sacar páginas</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="QuietKid_Hammer">
+    <AbilityList>
+      <Ability>Daño de Aturdimiento {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="QuietKid_Eyeshine">
+    <AbilityList>
+      <Ability>Velocidad {0}</Ability>
+      <Ability>Daño {0}</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="MirrorofAdjustment_Mirror">
+    <AbilityList>
+      <Ability>Aleatorizar el Costo</Ability>
+    </AbilityList>
+  </Abnormality>
+  <Abnormality ID="HeartofAspiration_Doki">
+    <AbilityList>
+      <Ability>Velocidad {0}</Ability>
+      <Ability>Pierde {0} HP</Ability>
+    </AbilityList>
+  </Abnormality>
+
+  <!--RustyChainGroup-->
+  <BattleCardAbility ID="selfbleeding1">
+    <Desc>[En Uso] Infligir 1 Sangrado en la siguiente Escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding2">
+    <Desc>[En Uso] Infligir 2 Sangrado a sí mismo siguiente Escena</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding1energy1">
+    <Desc>[En Uso] Infligir 1 Sangrado en la siguiente Escena; restaurar 1 Luz</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding3powerup2">
+    <Desc>[En Uso] Inflinge 3 Sangrados a ti mismo en esta Escena; todos los dados en esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="selfbleeding5powerup3">
+    <Desc>[En Uso] Inflige 5 Sangrados a ti mismo en esta Escena; todos los dados en esta página ganan +3 de Poder</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="alliespower1">
+    <Desc>[En Uso] Dar 1 de Fuerza a los aliados en la siguiente Escena</Desc>
+  </BattleCardAbility>
+
+</AbnormalityAbilityRoot>

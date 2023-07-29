@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Malkuth</GroupName>
+  <Character ID="M_P_Philip">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No tengo nada más que decir.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">…No les guardo rencor a ustedes.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Lo están viendo?. Es como mí yo del pasado.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Yo siempre regreso…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH" />
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">……</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">A diferencia de mí, ustedes no han cambiado.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">No tengas apego por que algún día se irá de tu lado…</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="M_P_Malkuth">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">No te pongas nerviosa y tómate las cosas con calma!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">No fue la victoria más gratificante que he tenido.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">...No se rindan, chicos.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No pasa nada. no te culpes.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Nosotros podemos hacerlo, ¡ten fé en mí!.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Esta es nuestra ultima batalla...¡LUCHAREMOS HASTA EL FINAL!.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Lo estamos haciendo genial!.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Bien... ¡Continuemos así chicos chicos!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Al parecer tenemos una cómoda ventaja no creen ¿no?.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="M_P_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">¡Señorita Malkuth!. ¿Qué hacemos ahora?.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Está hecho... Es hora de devolver.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">No... Tuve que haber sido más fuerte…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Empiezo a asustarme...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Pongamos a trabajar nuestras cabezas un poco mas...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tendremos que luchar cara a cara con él...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Él aun tiene esas estatuas de angel.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Debo de terminar esto rapido...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¿Los demas están bien?.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="M_P_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Ha cambiado mucho. Y nosotros tambien.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto me dejó una sensación amarga.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Maldita seas... Así no se supone que yo debiaria terminar...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esto se pondra mas peligroso... Tengan mucho cuidado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Aun podes detenerlos... ¿Verdad?.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Que le pasa a la asamblea y su gran poder...?.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No hay tiempo que perder.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ya hemos luchado con una vez contra él...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Las cosas están yendo bastante bien, ¿Verdad?.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="M_P_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Supongo que ahora será más difícil enfrentarnos con él que antes...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Agh… No fue una pelea facil para nada...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Ya no quiero yo ser una carga...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">...Debemos enfocarnos de esto de otra manera.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">A este ritmo, nuestro suelo podria…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Que haremos... Que haremos...</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Hasta hora me estoy volviendo muy fuerte!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡Solo tenemos que estár en calma chicos!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Te seguire de inmediato!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="M_P_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Pareces más traquilo desde la ultima vez.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Realmente hemos ganado la pelea...?</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Necesito... resistar...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No te preocupes, aun estoy bien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Lo siento. debi cuidarte las espaldas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">...Déjanos el resto a nosotros.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">No pareces tan diferentes…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Otras vez estás estatuas de angel...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Todos del conjunto son realmente fuertes...</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

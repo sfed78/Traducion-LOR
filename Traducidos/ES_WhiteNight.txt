@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WhiteNightTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- Matthew 16:18 -->
+  <param key="first" index="1">
+    “Y yo también te digo, Que tú eres el primer apóstol, y sobre esta roca edificaré mi iglesia; y las puertas del infierno no prevalecerán contra ella.”
+  </param>
+
+  <!-- Matthew 24:3 -->
+  <param key="second" index="2">
+    “Dinos, ¿cuándo serán estas cosas? ¿Y qué señal habrá de tu venida, y del fin del mundo?”
+  </param>
+
+  <!-- Luke 9:54 -->
+  <param key="third" index="3">
+    “Señor, ¿quieres que mandemos que descienda fuego del cielo y los consuma?”
+  </param>
+
+  <!-- Mark 3:17 -->
+  <param key="fourth" index="4">
+    “Y el tercer y cuarto apóstoles; y los puso por sobrenombre Boanerges, que es, Los hijos del trueno.”
+  </param>
+
+  <!-- John 14:8 -->
+  <param key="fifth" index="5">
+    “El quinto apóstol le dice: Señor, muéstranos el Padre, y nos basta.”
+  </param>
+
+  <!-- Matthew 9:9 -->
+  <param key="sixth" index="6">
+    “Y al pasar de allí, vio a un hombre, el sexto apóstol, y le dijo: Sígueme. Y se levantó, y lo siguió.”
+  </param>
+
+  <!-- Acts 8:9 -->
+  <param key="seventh" index="7">
+    “Pero había un hombre, llamado el séptimo, que antes en la misma ciudad usaba hechicería, y hechizaba al pueblo, dando a entender que él mismo era uno grande.”
+  </param>
+
+  <!-- John 11:16 -->
+  <param key="eighth" index="8">
+    “Entonces dijo el octavo apóstol a sus condiscípulos: Vayamos también nosotros, para que muramos con él.”
+  </param>
+
+  <!-- John 1:49 -->
+  <param key="ninth" index="9">
+    “Respondió el noveno apóstol y le dijo: Tú eres el Hijo de Dios; tú eres el Rey de Tierra Santa.”
+  </param>
+
+  <!-- John 14:22 -->
+  <param key="tenth" index="10">
+    “El décimo apóstol le dice: Señor, ¿cómo es que te manifestarás a nosotros, y no al mundo?”
+  </param>
+
+  <!-- Galatians 6:17 -->
+  <param key="eleventh" index="11">
+    “De ahora en adelante nadie me moleste, porque yo traigo en mi cuerpo las marcas de él.”
+  </param>
+
+  <!-- John 6:70 -->
+  <param key="twelveth" index="12">
+    “¿No os he escogido yo a vosotros doce, y uno de vosotros es diablo?”
+  </param>
+</WhiteNightTextRoot>

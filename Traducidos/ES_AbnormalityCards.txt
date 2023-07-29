@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sephirah SephirahType="Malkuth">
+    <AbnormalityCard ID="ScorchedGirl_Walk">
+      <Abnormality>Chica Quemada</Abnormality>
+      <CardName>Pisadas</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Cuando el HP de un bibliotecario es del 20% o menos, inflige 30% del HP Max del objetivo como daño (Max. 36) e inflige 1-3 Quemadura al acercarte a ellos, luego muere.</AbilityDesc>
+      <FlaborText>Yo voy a ti. Tú, que quedarás reducido a cenizas como yo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Si debo morir, únete a mí.</Dialogue>
+        <Dialogue ID="2">Es demasiado triste morir solo... Conoces bien este sentimiento, ¿no?</Dialogue>
+        <Dialogue ID="3">Espérame. Vengo a ti, que serás reducido a cenizas…</Dialogue>
+        <Dialogue ID="4">Paso a paso… Quemate en un tono negro como el carbón.</Dialogue>
+        <Dialogue ID="5">¿Hay algo que pueda hacer yo, una chica oscuramente quemada?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ScorchedGirl_Atk">
+      <Abnormality>Chica Quemada</Abnormality>
+      <CardName>Cenizas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al recibir un golpe, inflige 1-3 Quemaduras al atacante y obtén una mejora con un 40% de probabilidad en la siguiente Escena: "Los dados ofensivos infligen 1 Quemadura al golpear" (No se acumula).</AbilityDesc>
+      <FlaborText>"El cuerpo carbonizado representa la esperanza derrumbada de la niña, mientras que la llama siempre ardiente representa la obsesión por el afecto".</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Para quemar todas las cosas que son brillantes hasta convertirlas en cenizas…</Dialogue>
+        <Dialogue ID="2">Sé muy bien que mi cuerpo quemado nunca podrá volver a la normalidad.</Dialogue>
+        <Dialogue ID="3">Da miedo convertirse en cenizas… Pero no quiero que este fuego se apague.</Dialogue>
+        <Dialogue ID="4">Puedo sentir felicidad a la luz de las velas. Y calidez…</Dialogue>
+        <Dialogue ID="5">Tal vez algún día me eleve libremente por el cielo como ceniza.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ScorchedGirl_Ashes">
+      <Abnormality>Chica Quemada</Abnormality>
+      <CardName>Luz de Fósforo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+        Las dos primeras páginas de combate que usa el bibliotecario después de seleccionar esta página de anomalías para obtener el estado 'Luz de fósforo' (excluye las páginas [en juego]). Siempre que el bibliotecario use una página con 'Luz de fósforo', gana 1 'Brasas'.
+        Las páginas con 'Luz de fósforo' se vuelven más fuertes según la cantidad de Brasas; sin embargo, tienen un 25% de probabilidad de dañar al usuario si Brasas está en 4 o más.</AbilityDesc>
+      <FlaborText>"Bueno, ella es como una bomba de relojería. Nadie puede saber si está de buen humor o no."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Paso a paso… Quemate en un tono negro como el carbón.</Dialogue>
+        <Dialogue ID="2">¿Qué aparecerá cuando enciendo el próximo fósforo?</Dialogue>
+        <Dialogue ID="3">Me dejarás cuando se apague la luz del último fósforo, ¿no?</Dialogue>
+        <Dialogue ID="4">Esta luz es mi única esperanza…</Dialogue>
+        <Dialogue ID="5">Cuando una estrella fugaz cae del cielo, significa que alguien fue al cielo. Me pregunto de quién es esa estrella…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="HappyTeddyBear_Hug">
+      <Abnormality>Osito de Peluche Feliz</Abnormality>
+      <CardName>Abrazo Nostálgico de los Viejos Tiempos</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al ganar un enfrentamiento, inflige daño adicional de Aturdimiento igual al valor de los dados con un 20% de probabilidad.
+Chocar contra el mismo objetivo varias veces aumentará la probabilidad.</AbilityDesc>
+      <FlaborText>Teddy estaba abrazando a alguien con fuerza. A Teddy le encantaban los abrazos. Pero algo fue extraño.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Dame un fuerte abrazo, ¿quieres? Calmará tu mente.</Dialogue>
+        <Dialogue ID="2">A todo el mundo le encantan los abrazos. ¿No estás de acuerdo?</Dialogue>
+        <Dialogue ID="3">Ven aquí y siente esta sensación cálida y difusa.</Dialogue>
+        <Dialogue ID="4">Está bien. No tengas miedo. Todo lo que hago es abrazarte en mis brazos.</Dialogue>
+        <Dialogue ID="5">Estás cansado, ¿no? Ven a descansar en mi abrazo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="HappyTeddyBear_Memory">
+      <Abnormality>Osito de Peluche Feliz</Abnormality>
+      <CardName>Memorias Felices</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Se elige la Página de Combate con el Costo más alto disponible (excluye las páginas [En Juego]). El uso de páginas con el mismo nombre reducirá el costo de cada copia de esa página que el personaje posee actualmente en 1.</AbilityDesc>
+      <FlaborText>Pero, verás, Teddy nunca más quiso separarse de su dueño.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Por qué intentas dejarme? Éramos tan buenos amigos…</Dialogue>
+        <Dialogue ID="2">No me dejes. Cambiarás de opinión cuando te abrace una vez más.</Dialogue>
+        <Dialogue ID="3">Es demasiado triste decir adiós dos veces…</Dialogue>
+        <Dialogue ID="4">¿Por qué tienes que dejarme y prometer que nos volveremos a encontrar?</Dialogue>
+        <Dialogue ID="5">¿Has llegado a odiarme porque te abracé demasiado fuerte?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="HappyTeddyBear_Lonely">
+      <Abnormality>Osito de Peluche Feliz</Abnormality>
+      <CardName>Muestra de Afecto</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Todos los dados ganan 1-2 de Poder en un choque.
+Todos los dados pierden 1-2 de Poder en un ataque unilateral.</AbilityDesc>
+      <FlaborText>Sus recuerdos comenzaron con un cálido abrazo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Estoy tan feliz de que estés jugando conmigo.</Dialogue>
+        <Dialogue ID="2">Eres amable, ¿no? Hagámoslo de nuevo, ¿de acuerdo?</Dialogue>
+        <Dialogue ID="3">Estabas tan ansioso por jugar conmigo. Estoy conmovido…</Dialogue>
+        <Dialogue ID="4">Ven aquí y siente este sentimiento de amor difuso y cálido con mi abrazo.</Dialogue>
+        <Dialogue ID="5">No te preocupes. No da miedo. Todo lo que hago es abrazarte en mis brazos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="FairyCarnival_Care">
+      <Abnormality>Festival de Hadas</Abnormality>
+      <CardName>El Cuidado de las Hadas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Para tres Escenas, recupera el 15% de HP Max (Max. 18) al final de la Escena.
+Si el bibliotecario recibe 3 golpes mientras este efecto está activo, perderá el 25% de HP actuales (máx. 30) y perderá este efecto.</AbilityDesc>
+      <FlaborText>Las hadas protegen a nuestros empleados. Todo estará en paz mientras estés bajo el cuidado de las hadas.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¡No te preocupes, ahora! Te cuidaremos bien.</Dialogue>
+        <Dialogue ID="2">No se alarme. Estamos aquí para protegerte.</Dialogue>
+        <Dialogue ID="3">Las hadas son seres sagrados, ¿sabes? Ten algo de confianza.</Dialogue>
+        <Dialogue ID="4">Eres un amante de la naturaleza de buen corazón, te mereces nuestro cuidado.</Dialogue>
+        <Dialogue ID="5">Tú eres el especial. Los demás deben reflexionar sobre sí mismos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="FairyCarnival_Gluttony">
+      <Abnormality>Festival de Hadas</Abnormality>
+      <CardName>Glotonería</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al atacar a un objetivo que ya recibió daño en la misma escena, inflige + 1-3 de daño y recupera 2-5 HP al golpear.</AbilityDesc>
+      <FlaborText>Las hadas no eran más que monstruos carnívoros, y su "protección" era su método para mantener fresca la carne.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿La razón por la que nos quedamos a tu lado? ¡Por supuesto que es para protegerte!</Dialogue>
+        <Dialogue ID="2">Disfruta el cuidado de las hadas a tu antojo.</Dialogue>
+        <Dialogue ID="3">Una buena persona como tú no debería morir a manos de nadie más.</Dialogue>
+        <Dialogue ID="4">No te haremos daño, siempre y cuando no hagas nada malo.</Dialogue>
+        <Dialogue ID="5">¿Estás dudando de nosotros? Ese es un pensamiento malvado que tienes…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="FairyCarnival_QueenAtk">
+      <Abnormality>Festival de Hadas</Abnormality>
+      <CardName>Depredacion</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Todos los aliados, excepto el bibliotecario seleccionado, pierden 10 HP.
+El bibliotecario recupera tanto HP como los demás perdidos por este efecto y gana 3 de Fuerza y 3 de Celeridad en esta Escena.</AbilityDesc>
+      <FlaborText>Le arrancaron el estómago y la cara, y los globos oculares y los órganos se dañaron como si algo se los comiera. Mientras tanto, las hadas tenían la sangre y la carne de alguien manchadas por toda la boca.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Mis hadas están disminuyendo en número… Pero no se puede evitar.</Dialogue>
+        <Dialogue ID="2">¡La carne con cicatrices y podrida no es sabrosa!</Dialogue>
+        <Dialogue ID="3">Necesito algo nuevo. La carne en mal estado no es nutritiva.</Dialogue>
+        <Dialogue ID="4">Debo comerlo antes de que se eche a perder, ¿eh?</Dialogue>
+        <Dialogue ID="5">La carne con cicatrices y podrida no es sabrosa.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="QueenBee_Funga">
+      <Abnormality>Abeja Reina</Abnormality>
+      <CardName>Esporas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al recibir un golpe, inflige 1-3 Quemaduras y 1-3 Sangrado al atacante en la siguiente escena.</AbilityDesc>
+      <FlaborText>Se ha confirmado que las esporas llevan huevos de zánganos que eclosionan dentro de un huésped vivo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Incluso si muere un dron, siempre puedo hacer más para cumplir su función.</Dialogue>
+        <Dialogue ID="2">Para llevar mi reino a la grandeza… necesito más abejas…</Dialogue>
+        <Dialogue ID="3">¿Sabes a dónde han ido todos mis drones?</Dialogue>
+        <Dialogue ID="4">Mira el gran cielo azul mientras puedas.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="QueenBee_Bee">
+      <Abnormality>Abeja Reina</Abnormality>
+      <CardName>Abeja Trabajadora</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Se marca al enemigo que infligió más daño al bibliotecario seleccionado. Otros aliados infligen 2-4 daños más al enemigo marcado con sus ataques.</AbilityDesc>
+      <FlaborText>Muestran solo dos formas de comportamiento: Entregar nutrientes a la Reina y proliferar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Mis abejas. Es hora de moverse.</Dialogue>
+        <Dialogue ID="2">Tus alas, piernas, mandíbula… Pon a trabajar cada parte de tu cuerpo. No sea que saqueen nuestra miel.</Dialogue>
+        <Dialogue ID="3">Dense prisa, mis secuaces. No podemos perder ni un minuto.</Dialogue>
+        <Dialogue ID="4">Quién recordará las abejas que han muerto por el reino…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="QueenBee_Loyalty">
+      <Abnormality>Abeja Reina</Abnormality>
+      <CardName>Lealtad</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, todos los aliados obtienen Fuerza según la cantidad de daño que recibió el bibliotecario seleccionado en la Escena anterior.
+(1 Fuerza por cada 5 de daño)</AbilityDesc>
+      <FlaborText>La lealtad de las abejas es un instinto desarrollado naturalmente. Si descubrimos una manera de hacer surgir ese instinto, muchas cosas podrían cambiar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Date prisa y dame más miel.</Dialogue>
+        <Dialogue ID="2">Yo soy el reino, y el reino es yo. Lealtad a mí es lealtad a tu reino.</Dialogue>
+        <Dialogue ID="3">Incluso si tus alas están rotas, debes darlo todo para servir mientras tus piernas estén funcionando.</Dialogue>
+        <Dialogue ID="4">"Dar la vida" es un voto vacío. Lo que quiero de ti es sobrevivir y seguir protegiéndome.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SnowWhite_Vine">
+      <Abnormality>Manzana de Blancanieves</Abnormality>
+      <CardName>Enredaderas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Durante el resto del acto, inflige 6 enlaces a un enemigo aleatorio al comienzo de la Escena.
+Los dados de perforación obtienen 1-2 de Poder al atacar a ese enemigo.</AbilityDesc>
+      <FlaborText>Un día, le brotó una rama. Las hojas y ramas ya estaban marchitas y secas, pero siguió creciendo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La manzana estuvo sola durante tanto tiempo. Solo los cadáveres en descomposición mantuvieron su lado…</Dialogue>
+        <Dialogue ID="2">Las cepas estaban marchito y secas, pero siempre abrazaban a la manzana.</Dialogue>
+        <Dialogue ID="3">Cómo deseo atar los dos pies de la persona que fue bendecida por mi existencia y luego se fue.</Dialogue>
+        <Dialogue ID="4">Aquellos que mordieron la manzana se durmieron como lo hizo la princesa, excepto que nunca pudieron despertar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SnowWhite_Thorn">
+      <Abnormality>Manzana de Blancanieves</Abnormality>
+      <CardName>Barrera de Espinas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cuando es golpeado, inflige 2-8 daños y 1-3 Atadura al atacante.
+Si se infligió 3 Ataduras a la vez, recupera HP igual a la cantidad de daño infligido con este efecto.</AbilityDesc>
+      <FlaborText>La manzana que cayó de la mano de Blancanieves después de un solo mordisco nunca podría ser feliz. La manzana, llena de soledad y odio hacia la princesa, esperaba el día en que se pudriera y regresara a la tierra.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Una bonita manzana abandonada en un lugar desolado. Oh, linda manzana…</Dialogue>
+        <Dialogue ID="2">La manzana no podía volver a la tierra, y solo había impurezas en descomposición a su alrededor.</Dialogue>
+        <Dialogue ID="3">La manzana que cayó al suelo de tierra no podía ser feliz.</Dialogue>
+        <Dialogue ID="4">Vides espinosas brotan del corazón herido.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SnowWhite_malice">
+      <Abnormality>Manzana de Blancanieves</Abnormality>
+      <CardName>Malicia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de esta escena, todos los enemigos reciben daño inversamente proporcional a la cantidad de HP que le queda al bibliotecario. (Mín. 5, Máx. 30; Menos HP es más DAÑO)</AbilityDesc>
+      <FlaborText>La malicia inherente hizo que toda la vida se desmoronara tan pronto como floreció.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Mi existencia nació de la ira y una maldición, pero serví como una bendición para otra persona.</Dialogue>
+        <Dialogue ID="2">Las enredaderas sin vida siguieron creciendo.</Dialogue>
+        <Dialogue ID="3">Creció, tragándose horribles pensamientos de venganza, ira consigo mismo… y soledad.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Yesod">
+    <AbnormalityCard ID="ForsakenMurderer_Tie">
+      <Abnormality>Asesino Abandonado</Abnormality>
+      <CardName>Ira Encadenada</CardName>
+		<AbilityDesc>[Un Solo Aliado]
+Los dados de Contundente ganan 1-3 de Poder. La Velocidad está fijada en 1.</AbilityDesc>
+		<FlaborText>Lleva una camisa de fuerza, pero es tan libre como cualquier hombre. Ninguna cantidad de cadenas y ataduras es suficiente para evitar que cometa violencia.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Incluso si mi cuerpo está atado… seré tan libre como cualquier hombre.</Dialogue>
+        <Dialogue ID="2">Libérame… ¡Por qué tengo que estar atado!</Dialogue>
+        <Dialogue ID="3">No me mires con esos ojos. Ustedes son los más lamentables aquí…</Dialogue>
+        <Dialogue ID="4">¡No me mantendrás atado con esto!</Dialogue>
+        <Dialogue ID="5">Puede que ahora sea un desastre, pero tendrás que temerme de todos modos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ForsakenMurderer_Metal">
+      <Abnormality>Asesino Abandonado</Abnormality>
+      <CardName>Metálico Sonante</CardName>
+		<AbilityDesc>[Un Solo Aliado]
+Tras un ataque de Contundente exitoso, inflige 1 Atadura y Parálisis en la siguiente Escena. (Excluye Ataques Masivos)</AbilityDesc>
+		<FlaborText>"Mi cabeza… se convierte en metal… se pliega en mi cerebro, se aplana… "</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Me zumba la cabeza. Puedo escuchar el sonido del metal, claro y fuerte…</Dialogue>
+        <Dialogue ID="2">Se siente como si mi cabeza se volviera de acero frío.</Dialogue>
+        <Dialogue ID="3">¿Mi cabeza realmente se está convirtiendo en metal?</Dialogue>
+        <Dialogue ID="4">Cuando golpeo mi cabeza contra una pared, hace un sonido refrescante.</Dialogue>
+        <Dialogue ID="5">Si mi cabeza se convierte en acero, todas las arrugas de mi cerebro desaparecerán.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ForsakenMurderer_Violence">
+      <Abnormality>Asesino Abandonado</Abnormality>
+      <CardName>Violencia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Reduzca el valor mínimo de todos los dados en 1 y aumente el valor máximo en 3.</AbilityDesc>
+      <FlaborText>"Lo que es realmente lamentable es que la gente como tú muera por gente como yo."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No creas que ganaste con solo encadenándome…</Dialogue>
+        <Dialogue ID="2">………</Dialogue>
+        <Dialogue ID="3">Termina… Empieza. Termina de nuevo, comienza de nuevo…</Dialogue>
+        <Dialogue ID="4">Cuando golpeo mi cabeza contra una pared, hace un sonido refrescante.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LittleHelper_Rest">
+      <Abnormality>Ayudante Integral</Abnormality>
+      <CardName>Recargar</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Si el bibliotecario tiene el máximo de Luz al comienzo de una escena, gana 1-2 de Celeridad e inflige +2-7 de daño con los ataques para esa Escena.</AbilityDesc>
+      <FlaborText>However, the limbs were equipped with sharp instruments instead of cleaning supplies.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Beepboop… Beep… Sin batería…</Dialogue>
+        <Dialogue ID="2">Por favor… recargue… en un enchufe cercano…</Dialogue>
+        <Dialogue ID="3">Por favor, apague… El bot de ayuda se apagará pronto…</Dialogue>
+        <Dialogue ID="4">Cambiar al modo de carga. No puedes dar órdenes en este modo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LittleHelper_Pattern">
+      <Abnormality>Ayudante Integral</Abnormality>
+      <CardName>Reconocimiento Repetitivo de Patrones</CardName>
+		<AbilityDesc>[Un Solo Aliado]
+Después de cada tres victorias en choques, restaura 1 Luz y obtén 1-2 de Celeridad en la siguiente Escena.</AbilityDesc>
+		<FlaborText>El día que me enviaron a un nuevo hogar por primera vez, les di el regalo que tanto deseaban.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Cuando termino de limpiar, ¡la gente siempre me elogia!</Dialogue>
+        <Dialogue ID="2">Me están dando órdenes en voz alta. Eso significa que estoy haciendo un buen trabajo.</Dialogue>
+        <Dialogue ID="3">Beepboop~ ¡Piii! Datos de patrón acumulados.</Dialogue>
+        <Dialogue ID="4">A la gente le encanta gritar cuando me felicitan.</Dialogue>
+        <Dialogue ID="5">El bot de ayuda tiene excelentes capacidades de aprendizaje.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LittleHelper_Clean">
+      <Abnormality>Ayudante Integral</Abnormality>
+      <CardName>Limpio</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los dados Ofensivos ganan Poder contra enemigos con Velocidad más lenta (+1 Poder por punto de diferencia, hasta 3).</AbilityDesc>
+      <FlaborText>Reconoce el mal humor como una señal de que el entorno está sucio y rápidamente ingresa al modo de limpieza.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¡El bot de ayuda puede ayudarte con las tareas del hogar!</Dialogue>
+        <Dialogue ID="2">¿Qué tipo de tarea quieres que haga? Puedo ayudar con cualquier cosa.</Dialogue>
+        <Dialogue ID="3">Escaneo de contaminación completo. Iniciando protocolo de limpieza.</Dialogue>
+        <Dialogue ID="4">Beebeebeep~ Beep. ¡Contaminación detectada! Continuar con el protocolo de eliminación de basura.</Dialogue>
+        <Dialogue ID="5">Te ayudaré con mi amplia selección de herramientas.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+	  <AbnormalityCard ID="SingingMachine_Music">
+		  <Abnormality>Máquina de Canto</Abnormality>
+		  <CardName>Música</CardName>
+		  <AbilityDesc>[Todos los Personajes]
+Todos los personajes infligen + 4-8 de daño con ataques en esta recepción. También sufren + 4-8 de daño de Aturdimiento al recibir un golpe.
+Siempre que un aliado derrota a un enemigo, recupera 15 HP y Resistencia al Aturdimiento</AbilityDesc>
+		  <FlaborText>Pero nada se puede comparar con la música que hace cuando se come a un humano.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Nada hace una música tan fascinante como un ser humano.</Dialogue>
+        <Dialogue ID="2">¿No quieres escuchar una hermosa canción? Ya sabes como.</Dialogue>
+        <Dialogue ID="3">No te preocupes. Estoy seguro de que uno también quiere ser un buen instrumento.</Dialogue>
+        <Dialogue ID="4">Todas las personas llevan talento musical en ellos.</Dialogue>
+        <Dialogue ID="5">Los que son valientes, venid a mí. Únete a mi.</Dialogue>
+      </Dialogues>
+	  </AbnormalityCard>
+
+	  <AbnormalityCard ID="SingingMachine_Rhythm">
+		  <Abnormality>Máquina de Canto</Abnormality>
+		  <CardName>Ritmo</CardName>
+		  <AbilityDesc>[Un Solo Aliado]
+Mientras dure la batalla, gana 1 Ritmo al comienzo de cada escena. Siempre que un personaje con Ritmo realiza un ataque exitoso, un personaje aleatorio gana 1 Ritmo con un 25% de probabilidad en la siguiente Escena.
+(Ritmo: Gana 1 de Fuerza, recibe daño adicional de Aturdimiento de los golpes, dura 1 Escena)</AbilityDesc>
+		  <FlaborText>Estaba creando un ritmo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Todos quieren escuchar mi canción de nuevo.</Dialogue>
+        <Dialogue ID="2">Various sounds join together to create music.</Dialogue>
+        <Dialogue ID="3">Todos son voluntarios para ser instrumentos…</Dialogue>
+        <Dialogue ID="4">Si todos arrojaran sus cuerpos dentro de mí, ciertamente crearía una melodía aún más dulce.</Dialogue>
+        <Dialogue ID="5">Ya no querrás escuchar ninguna otra música.</Dialogue>
+      </Dialogues>
+	  </AbnormalityCard>
+
+    <AbnormalityCard ID="SingingMachine_Atk">
+      <Abnormality>Máquina de Canto</Abnormality>
+      <CardName>Adicción Musical</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los dados Ofensivos obtienen 1-3 de Poder.
+Lanzamiento de dados Defensivo tiran 1.</AbilityDesc>
+      <FlaborText>Después de todo, el arte es un regalo del diablo, nacido de la desesperación y el sufrimiento. Nunca dejes de actuar hasta que el cuerpo se convierta en polvo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">El resto de la música no es más que ruido para mí…</Dialogue>
+        <Dialogue ID="2">Hazme mover… ¡Ilumina mi camino con las canciones!</Dialogue>
+        <Dialogue ID="3">Jajaja… Ja… ¿Qué voy a hacer? ¿Que puedo hacer? Jaja…</Dialogue>
+        <Dialogue ID="4">La felicidad eterna sería mía si esta melodía durara para siempre…</Dialogue>
+        <Dialogue ID="5">¡Sí! Esto es… ¡He aquí esta poderosa melodía!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="Butterfly_White">
+      <Abnormality>El Funeral de las Mariposas Muertas</Abnormality>
+      <CardName>Descanso Eterno</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Inflige +2-7 de daño y +2-5 de daño de Aturdimiento contra el enemigo con el HP actual más bajo.</AbilityDesc>
+      <FlaborText>La gente creía que se convertirían en seres hermosos con alas pequeñas cuando murieran. Es una historia tonta. También absurdo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Un descanso eterno… Que descanses en paz.</Dialogue>
+        <Dialogue ID="2">Creían que se convertirían en seres hermosos con alas pequeñas cuando murieran.</Dialogue>
+        <Dialogue ID="3">Te ayudaré a liberarte de atormentarte a ti mismo.</Dialogue>
+        <Dialogue ID="4">Debieron haber regresado a casa, habiendo ganado lo que querían y llenos de esperanza.</Dialogue>
+        <Dialogue ID="5">La muerte puede parecer temible, no se compara con el terror de la realidad. Se sentirá liberador, más bien.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Butterfly_Fly">
+      <Abnormality>El Funeral de las Mariposas Muertas</Abnormality>
+      <CardName>Lamento</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Inflige +2-4 de daño contra un enemigo con una dolencia de estado.
+Si el bibliotecario tiene una dolencia de estado al comienzo de la Escena, gana 1-2 de Fuerza.</AbilityDesc>
+      <FlaborText>Dicen que el doliente con un enorme equipaje a la espalda había llegado a ser un salvador para todos.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Por ustedes, pobres almas que no pueden dejar de llorar… les ofrezco mi más sentido pésame.</Dialogue>
+        <Dialogue ID="2">Dolor por los muertos y lamento temprano por los vivos.</Dialogue>
+        <Dialogue ID="3">Las formas frívolas de tristeza como las lágrimas solo mojarán las alas.</Dialogue>
+        <Dialogue ID="4">No se permite ni una pizca de impureza para la mente de los que lloran, porque debe permanecer reverente y solemne.</Dialogue>
+        <Dialogue ID="5">Ni una sola flor adecuada florece para honrar a las mariposas.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Butterfly_Casket">
+      <Abnormality>El Funeral de las Mariposas Muertas</Abnormality>
+      <CardName>Ataúd</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al impactar contra un enemigo cuyo HP es del 50% o menos, Sella un dado de Velocidad del objetivo (Dos veces por Escena, Excluye los Ataques Masivos).</AbilityDesc>
+      <FlaborText>Lleva un ataúd. Un gran ataúd para rendir homenaje a los empleados que no tienen a dónde ir. Todavía es demasiado pequeño para consolar esos sacrificios inocentes.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Un solo ataúd para rendir homenaje a los que no tenían adónde ir, vagando con el recuerdo de una fe vacía…</Dialogue>
+        <Dialogue ID="2">¿A dónde va uno cuando muere?</Dialogue>
+        <Dialogue ID="3">El peso de las mariposas que murieron en vano sería demasiado grande para llevarlo.</Dialogue>
+        <Dialogue ID="4">Ese gran ataúd, simplemente demasiado pequeño para consolar esos sacrificios inocentes.</Dialogue>
+        <Dialogue ID="5">Las frágiles alas seguirán revoloteando, esperando el momento de conciliar el sueño.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Matan_Request">
+      <Abnormality>Der Freischütz</Abnormality>
+      <CardName>Solicitud</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cuando no hay un 'Objetivo Solicitado' presente, el primer enemigo que golpea el bibliotecario seleccionado se marca como uno.
+Inflige + 3-5 de daño contra el Objetivo Solicitado.
+Cuando el bibliotecario seleccionado derrota al Objetivo Solicitado, recupera por completo la Resistencia al Aturdimiento y resuelve el doble de libros.</AbilityDesc>
+      <FlaborText>Tal como dijo el diablo, las balas perforarán lo que quieras. Siempre.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Algunos lo llaman un cazador justo, mientras que otros lo llamarían un pistolero manchado de sangre.</Dialogue>
+        <Dialogue ID="2">Las balas siempre viajan en línea recta, a lo largo del horizonte.</Dialogue>
+        <Dialogue ID="3">Simplemente sigo mi impulso, apuntando mi rifle como quiero.</Dialogue>
+        <Dialogue ID="4">La bala que avanza no tiene moral, ni intención buena o mala.</Dialogue>
+        <Dialogue ID="5">A veces ayudé a los necesitados o luché contra el mal.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Matan_Seven">
+      <Abnormality>Der Freischütz</Abnormality>
+      <CardName>La Séptima Bala</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Inflige + 1-7 de daño con dados Ofensivos.
+Cuando un dado de Ofensiva empata o pierde en un choque, inflige daño igual al valor de los dados al oponente.
+Cada séptima página de Combate Cuerpo a Cuerpo o a Distancia se dirige a personajes aleatorios, incluidos los aliados.</AbilityDesc>
+      <FlaborText>El diablo propuso un contrato infantil: la última bala perforaría la cabeza de su amada. En el momento en que escuchó eso, buscó y disparó a todas las personas que amaba.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La última bala perforará la cabeza de tu amada.</Dialogue>
+        <Dialogue ID="2">Tienes razón… Esta bala mágica realmente puede golpear a cualquiera como dices.</Dialogue>
+        <Dialogue ID="3">Las balas perforarán lo que quieras. Siempre.</Dialogue>
+        <Dialogue ID="4">Ninguna bala será la última.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Matan_Flame">
+      <Abnormality>Der Freischütz</Abnormality>
+      <CardName>Flama Oscura</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Durante la recepción, las resistencias 'Aguantadas/Ineficaces' de todos los personajes cambian a 'Débiles/Fatales'.
+Gana 1-2 de Celeridad y 2-4 de Fuerza en cada Escena.</AbilityDesc>
+      <FlaborText>Un día, el tirador se dio cuenta de que el diablo ya no lo seguía. Se preguntó por qué, luego se dio cuenta de que su alma ya había caído al infierno desde el principio.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Era desesperación lo que deseaba?</Dialogue>
+        <Dialogue ID="2">Mi alma comenzó a arder poco a poco, hasta que finalmente descendió al Infierno.</Dialogue>
+        <Dialogue ID="3">Cuando uno siente que no queda nada a lo que aspirar, su alma cae al Infierno.</Dialogue>
+        <Dialogue ID="4">El corazón desesperado no podía apagarse en una llama apasionada. Solo ardería con un fuego frío.</Dialogue>
+        <Dialogue ID="5">La desesperación permanecerá a tu alrededor en todo momento.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Hod">
+    <AbnormalityCard ID="ShyLookToday_Face">
+      <Abnormality>Mirada Tímida de Hoy</Abnormality>
+      <CardName>Look del Dia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+El rostro del bibliotecario cambia constantemente.
+Los dados obtienen diferentes cantidades de Poder dependiendo de la cara actual. (Mín. -2, Máx. +2)
+La ira es feroz.</AbilityDesc>
+      <FlaborText>Un día soleado, como ese día en que sinceramente secaron la ropa, se secaron la piel.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Soy tímido, eso es todo. Simplemente tímido…</Dialogue>
+        <Dialogue ID="2">Una mirada triste no le queda bien al Ciudad.</Dialogue>
+        <Dialogue ID="3">Es muy importante expresarse… supongo que lo es.</Dialogue>
+        <Dialogue ID="4">¿Sabes qué tipo de cara deberías poner?</Dialogue>
+        <Dialogue ID="5">Pon una gran sonrisa en tu cara, como la mía. No es tan difícil, ¿verdad?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ShyLookToday_Shy">
+      <Abnormality>Mirada Tímida de Hoy</Abnormality>
+      <CardName>Distanciamiento Social</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los dados de Bloque ganan 1-2 de Poder.
+Inflige + 2-7 de daño de Aturdimiento en un desvío.</AbilityDesc>
+      <FlaborText>Si uno intenta mirar el rostro detrás de la piel, el resultado no será bonito. El espacio detrás de su piel es el único espacio personal que les queda. Dejarlo sin invadir es la última pizca de generosidad que la Ciudad puede ofrecer.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Por favor, no mires qué hay detrás de esto. Es lo mínimo que puedes hacer…</Dialogue>
+        <Dialogue ID="2">Necesitamos mantener una distancia adecuada. Lo suficientemente lejos para que todos se sientan cómodos.</Dialogue>
+        <Dialogue ID="3">Hay una línea entre nosotros, por aquí. Por favor, permanezca del otro lado de esta línea, como mínimo.</Dialogue>
+        <Dialogue ID="4">No te acerques más. No cruces mi línea…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ShyLookToday_Normalface">
+      <Abnormality>Mirada Tímida de Hoy</Abnormality>
+      <CardName>Timidez</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cuando se usa una página, todos los dados de Bloque en esa página obtienen un Poder igual al número de dados Defensivos en dicha página.</AbilityDesc>
+      <FlaborText>La incapacidad de mostrar la cara es quizás una forma de timidez. Cuando las emociones palpitantes surgen de vez en cuando, lo mejor es simplemente cubrirse la cara.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Soy tímido, eso es todo. Simplemente tímido…</Dialogue>
+        <Dialogue ID="2">Lo siento. Te acostumbrarás con el tiempo…</Dialogue>
+        <Dialogue ID="3">Tal vez sea para protegerme.</Dialogue>
+        <Dialogue ID="4">A veces, me ahogan sentimientos que no puedo describir.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="RedShoes_Kirakira">
+      <Abnormality>Los Zapatos Rojos</Abnormality>
+      <CardName>Brillantina</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, cada enemigo es Seducido con un 50% de probabilidad.
+Los enemigos seducidos dan prioridad a este bibliotecario como objetivo e infligen +2-4 de daño con los ataques.
+Gana 1-2 de Poder en enfrentamientos contra enemigos Seducidos.</AbilityDesc>
+      <FlaborText>Los zapatos eran incoloros.
+Ellos pronto se pondrán rojos.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">El rojo es tan vivo, ¿no es simplemente deslumbrante?</Dialogue>
+        <Dialogue ID="2">Una vez que te deshagas de esa persona… Los zapatos son todos tuyos.</Dialogue>
+        <Dialogue ID="3">Está bien. No será difícil quitarles los zapatos de los pies si les cortas los tobillos.</Dialogue>
+        <Dialogue ID="4">¿No quieres ser el que brilla más aquí?</Dialogue>
+        <Dialogue ID="5">Este glamour debería ser solo tuyo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="RedShoes_Desire">
+      <Abnormality>Los Zapatos Rojos</Abnormality>
+      <CardName>Obsesión</CardName>
+      <AbilityDesc>[Todos los Personajes]
+Todos los personajes aplican el doble de acumulaciones de Sangrado.</AbilityDesc>
+      <FlaborText>Te romperé las piernas y no podrás volver a bailar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¡Debería ser el que esté en el centro de atención!</Dialogue>
+        <Dialogue ID="2">Solo yo debería realizar un baile elegante…</Dialogue>
+        <Dialogue ID="3">Te haré incapaz de bailar para siempre.</Dialogue>
+        <Dialogue ID="4">Si inutilizara esas piernas, ¿podría tomar la posición del protagonista?</Dialogue>
+        <Dialogue ID="5">Enséñame tu último baile.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="RedShoes_Cut">
+      <Abnormality>Los Zapatos Rojos</Abnormality>
+      <CardName>Hacha</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los dados de Corte obtienen 1-3 de Poder.
+Recibe 2-5 daños de Aturdimiento cuando un ataque de Corte no se conecta. (Excluye Ataques Masivos)</AbilityDesc>
+      <FlaborText>En algún momento, &lt;Redactado&gt; llevaba los zapatos, sonriendo de oreja a oreja. Fue uh, bueno, fue bastante extraño. Eso no fue una sonrisa. Fue…</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Afile el hacha una y otra vez… para que pueda cortarlos de un solo golpe.</Dialogue>
+        <Dialogue ID="2">Los deseos que has acumulado… Desentraña las emociones que has ocultado y reprimido…</Dialogue>
+        <Dialogue ID="3">El hacha roja sanguina… Nada podría ser más hermoso.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SpiderBud_Cocoon">
+      <Abnormality>Brote de Araña</Abnormality>
+      <CardName>Capullo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al golpear, si los dados arrojaron el valor máximo: infligir 1-2 Parálisis, Atadura y Frágil siguiente Escena (Excluye Ataques Masivos)</AbilityDesc>
+      <FlaborText>Como era de esperar, ni un solo empleado se ofreció como voluntario para recuperar el cadáver de su colega envuelto en un capullo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Qué tonto descuidado pisó a mi bebé?</Dialogue>
+        <Dialogue ID="2">Pocos se dieron cuenta de que la comida dentro de mis capullos no estaba muerta.</Dialogue>
+        <Dialogue ID="3">El veneno de la araña es único, evita que su víctima muera demasiado rápido.</Dialogue>
+        <Dialogue ID="4">Cuida tu paso. Si no lo hiciste, entonces cuida tu cabeza.</Dialogue>
+        <Dialogue ID="5">Nadie se atrevió a salvar mi caza.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SpiderBud_BabyAtk">
+      <Abnormality>Brote de Araña</Abnormality>
+      <CardName>Comida</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al golpear contra un enemigo Aturdido, todos los aliados recuperan de 2-4 HP (EXcluye Ataques Masivos)</AbilityDesc>
+      <FlaborText>Peter fue arrastrado al techo en solo un momento. El empleado envuelto en un capullo que cuelga del techo de la Unidad de Contención será una comida saludable para la descendencia de la araña.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Alegrarse. Traerás alegría a mi descendencia.</Dialogue>
+        <Dialogue ID="2">Los niños en crecimiento siempre tienen hambre.</Dialogue>
+        <Dialogue ID="3">Todo es por nuestra supervivencia, no se puede evitar.</Dialogue>
+        <Dialogue ID="4">Es reconfortante tener mucha comida.</Dialogue>
+        <Dialogue ID="5">Pues ya tenemos una rica comida lista para consumir… Venid, niños.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SpiderBud_Dinner">
+      <Abnormality>Brote de Araña</Abnormality>
+      <CardName>Vigilancia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los enemigos pierden 1 Poder en choque contra el bibliotecario seleccionado.
+Al ganar un Choque, inflige 1 Atadura y Frágil la siguiente Escena con un 50% de probabilidad.</AbilityDesc>
+      <FlaborText>Los ojos brillaban en la oscuridad, buscando presas para alimentar a sus crías.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Para ver claramente en la oscuridad…</Dialogue>
+        <Dialogue ID="2">Sería preocupante perder a mi presa.</Dialogue>
+        <Dialogue ID="3">Nunca podré apartar los ojos de ellos. Nunca se sabe lo que le pasará a mi descendencia…</Dialogue>
+        <Dialogue ID="4">Seré preciso esta vez…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Laetitia_Present">
+      <Abnormality>Laetitia</Abnormality>
+      <CardName>Regalo Sorpresa</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+El primer oponente que choque al bibliotecario seleccionado obtiene el estado de "Regalado".
+Si el 'Regalado' choca contra un personaje que no sea el bibliotecario seleccionado, el 'Regalo' explota con un 40% de probabilidad, infligiendo 2-7 daños e infligiendo 2 de Sangrado en la siguiente Escena.
+Cuando el 'Regalado' muere, se puede dar un nuevo 'Regalo'.</AbilityDesc>
+      <FlaborText>Y cuando el niño conozca a alguien que le guste, le dará un regalo hecho por ella misma. ¡Sin embargo, el contenido del regalo es un secreto!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Cuando abras el obsequio, te sorprenderás, como ¡Whoa!</Dialogue>
+        <Dialogue ID="2">¿Qué hay dentro del regalo? ¡Eso es un secreto! Es aburrido estropearlo.</Dialogue>
+        <Dialogue ID="3">Es un regalo sincero que me hice a mí mismo. ¡Quiero que te lo lleves!</Dialogue>
+        <Dialogue ID="4">Whoops… Ahí va el secreto del regalo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Laetitia_HeartGift">
+      <Abnormality>Laetitia</Abnormality>
+      <CardName>Broma Divertida</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+El primer dado de cualquier Página de Combate que juegue el bibliotecario siempre arrojará el valor máximo o mínimo.
+Recibe 2-7 de daño si obtiene el valor mínimo.</AbilityDesc>
+      <FlaborText>¡Entonces esta pequeña dama ha tomado una decisión! ¡Quedarse aquí y no irse nunca hasta que la risa se restablezca en este lugar!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¡Juega conmigo! Únete a mis amigos y ríete con nosotros.</Dialogue>
+        <Dialogue ID="2">¿Cómo estuvo mi broma? Fue divertido, ¿no? ¡Tu cara lo dice!</Dialogue>
+        <Dialogue ID="3">No escucho ninguna risa… Todos se ven tristes.</Dialogue>
+        <Dialogue ID="4">¡Quiero que estés contento con mis bromas!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Laetitia_Friend">
+      <Abnormality>Laetitia</Abnormality>
+      <CardName>Amigo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, cuele un 'amigo' en una de las Páginas de Combate que tenga en la mano. (Excluye las páginas [En Juego])
+No se activa cuando ya hay una página con un 'amigo' en la mano.
+La página con el 'amigo' gana 2-4 Poder.
+Sin embargo, si la página no se usa dentro de 2 Escenas, se agota e inflige 2-7 daños al bibliotecario.</AbilityDesc>
+      <FlaborText>Estaba tan triste que tuvo que dejar atrás a sus queridos amigos, ¡así que se le ocurrió una idea brillante!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No podía dejar atrás a mis queridos amigos… ¡Así que se me ocurrió una idea brillante!</Dialogue>
+        <Dialogue ID="2">No te preocupes~ Solo los malvados lastiman a los amigos.</Dialogue>
+        <Dialogue ID="3">¡Este lugar se volverá más animado cuanto más amigos tenga!</Dialogue>
+        <Dialogue ID="4">Espero encontrar muchos amigos aquí también~</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+      <AbnormalityCard ID="BlackSwan_Feather">
+      <Abnormality>Sueño de un Cisne Negro</Abnormality>
+      <CardName>Residuos Pegajosos</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al ganar un Choque, inflige 1 Atadura, Frágil, Sangrado y Parálisis a todos los enemigos en la siguiente Escena. (Dos veces por escena)</AbilityDesc>
+      <FlaborText>Elijah cayó de rodillas y finalmente comenzó a vomitar lo que todos los demás estaban vomitando.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">El lago se ondula suavemente. Como si varios cisnes acabaran de emprender el vuelo.</Dialogue>
+        <Dialogue ID="2">Me enfrenté a la realidad. Las cosas que se hincharon por dentro se derramaron directamente.</Dialogue>
+        <Dialogue ID="3">Comencé a vomitar lo que todos los demás estaban vomitando.</Dialogue>
+        <Dialogue ID="4">Como si me hubieran apuñalado los pulmones, estalla cuando respiro.</Dialogue>
+        <Dialogue ID="5">Lancé una mezcla de sangre y desechos verdes.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="BlackSwan_Umbrella">
+      <Abnormality>Sueño de un Cisne Negro</Abnormality>
+      <CardName>Sombrilla Gastada</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Gana 2-3 Velocidades.
+Cuando sea golpeado, anule el daño con un 30% de probabilidad y devuelva el doble de la cantidad al atacante como daño de Aturdimiento.</AbilityDesc>
+      <FlaborText>Creyendo que se volvería blanco, el cisne negro quiso levantar la maldición tejiendo ortigas. Todo lo que quedó es una sombrilla gastada que una vez atesoraba.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Qué sucede cuando el cisne negro se despierta de soñar con un cisne blanco?</Dialogue>
+        <Dialogue ID="2">Todo lo que me quedaba era la sombrilla y este broche.</Dialogue>
+        <Dialogue ID="3">El sol brillaba demasiado, tuve que sombrearlo.</Dialogue>
+        <Dialogue ID="4">Anhelaba tener un sueño del que nunca despertaría, pero la realidad era tan cruel como siempre.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="BlackSwan_Family">
+      <Abnormality>Sueño de un Cisne Negro</Abnormality>
+      <CardName>Amando Familia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Obtienes 6 'Ropa de Ortiga', que otorga una Protección equivalente a su cantidad en cada Escena. Una pila de 'Ropa de Ortiga' se pierde al final de cada Escena.</AbilityDesc>
+      <FlaborText>Comenzó a buscar a sus hermanos. Su familia, que necesitaba usar la ropa de ortiga para liberarse de la maldición. Aquellos con quienes compartió sueños felices.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Aunque no tenían nada que transmitirle, tenían la honestidad y la diligencia como su tesoro más valioso.</Dialogue>
+        <Dialogue ID="2">Creía… que tenía que haber una manera para que todos fueran felices.</Dialogue>
+        <Dialogue ID="3">Pensé que si trabajaba un poco más duro, las cosas se arreglarían solas.</Dialogue>
+        <Dialogue ID="4">Mi familia, que debería haber sido liberada vistiendo la ropa de ortiga…</Dialogue>
+        <Dialogue ID="5">Compartimos sueños felices entre nosotros.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Netzach">
+    <AbnormalityCard ID="UniverseZogak_Echo">
+      <Abnormality>Fragmento del Universo</Abnormality>
+      <CardName>Ecos del Más Allá</CardName>
+      <AbilityDesc>[Todos los Personajes]
+Inflige 5-10 de daño de Aturdimiento a todos los enemigos. Todos los aliados recuperan 5-10 Resistencia al Aturdimiento.</AbilityDesc>
+      <FlaborText>Ves una canción frente a ti. Se acerca, se vuelve más colorido a cada segundo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Canta. Llevar a Cabo. Humano. Canción. Oreja. Escucha.</Dialogue>
+        <Dialogue ID="2">Canta. Nervios. Enfocar. Momento. Ver. Existe.</Dialogue>
+        <Dialogue ID="3">Ojo. Cerrado. Sentir. Grandeza. Venir. Felicidad. Más Allá.</Dialogue>
+        <Dialogue ID="4">Comprender. Perfección. Momento. Saber. Conocimiento. Nuestra. Significado. Entregar.</Dialogue>
+        <Dialogue ID="5">Hacer. Juntos. Cantar. Canción. Iluminación.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="UniverseZogak_Tentacle">
+      <Abnormality>Fragmento del Universo</Abnormality>
+      <CardName>Tentáculos</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+En un ataque de Perforación exitoso, reduce la Resistencia máxima al Aturdimiento del objetivo en un 5%. (Hasta 50%, Excluye Ataques Masivos)</AbilityDesc>
+      <FlaborText>En el momento en que su tentáculo te penetre, agotará todo el interés por la vida que estás viviendo actualmente.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Negativo. Ataque. Venir. Ayudar. Dar.</Dialogue>
+        <Dialogue ID="2">Conocimiento. Nuestra. Simple. Dar. Relé. Ninguna.</Dialogue>
+        <Dialogue ID="3">Humano. Ataque. Yo. Proteger. A lo largo. Ataque.</Dialogue>
+        <Dialogue ID="4">Ataque. Rápido. Empalar.</Dialogue>
+        <Dialogue ID="5">Humano. Ataque. Alma. Desaparecer. Desaparecido. Desear.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="UniverseZogak_Sing">
+      <Abnormality>Fragmento del Universo</Abnormality>
+      <CardName>Incomprensible</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+En un ataque unilateral, inflige 1 Débil y Desarma la siguiente Escena con un 50% de probabilidad.
+La probabilidad aumenta en un 10% por cada ataque exitoso. (Tres veces por enfrentamiento, Excluye Ataques Masivos)</AbilityDesc>
+      <FlaborText>Finalmente, logró entrar en el dominio del "Fragmento del Universo". Sin embargo, era obvio que su pequeño cerebro no podía soportarlo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Comprender. Ustedes. Juntos. Humano. Yo.</Dialogue>
+        <Dialogue ID="2">Desear. Comprender. Yo. Tú. Estudio.</Dialogue>
+        <Dialogue ID="3">Yo. Decir. Historia. Ustedes. Comprender. Tratar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ChildofGalaxy_Tear">
+      <Abnormality>Niño de la Galaxia</Abnormality>
+      <CardName>Lágrima</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Poder de dados +1. Al morir, todos los personajes reciben el 50% del HP máximo de este personaje como daño. (Máx. 60)</AbilityDesc>
+      <FlaborText>Escucho sus susurros y su respiración. Sigue una oscuridad totalmente negra… como la noche en que lo conocí…</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Cruza la Vía Láctea conmigo.</Dialogue>
+        <Dialogue ID="2">Te convertirás en un guijarro, y unirte a mí.</Dialogue>
+        <Dialogue ID="3">Volvamos, como esa noche.</Dialogue>
+        <Dialogue ID="4">Estoy tan contento de conocerte</Dialogue>
+        <Dialogue ID="5">Si me encuentras llorando de nuevo, límpiame las lágrimas.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ChildofGalaxy_Friend">
+      <Abnormality>Niño de la Galaxia</Abnormality>
+      <CardName>Un Símbolo de Amistad</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Durante 3 Escenas, todos los aliados recuperan el 10% del HP máximo al comienzo de la Escena. (Máx. 12)</AbilityDesc>
+      <FlaborText>El guijarro que cae en tu mano brilla, se balancea, hace cosquillas y, finalmente, se convierte en el universo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No lo pierda y no se lo dé a nadie más.</Dialogue>
+        <Dialogue ID="2">Es mi regalo celebrar nuestra amistad. Por favor, atesorelo.</Dialogue>
+        <Dialogue ID="3">Mientras lo sostengas, estaré a tu lado.</Dialogue>
+        <Dialogue ID="4">Tienes que quedarte a mi lado para siempre, ¿lo prometes? No olvides esto.</Dialogue>
+        <Dialogue ID="5">Si mi amigo se lastima… Eso sería triste.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ChildofGalaxy_Token">
+      <Abnormality>Niño de la Galaxia</Abnormality>
+      <CardName>Guijarro</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de cada Escena, tres páginas aleatorias en mano obtienen el estado de 'Guijarro'. (Excluye las páginas [En Juego])
+Recupera 3-7 HP al usar páginas con Guijarro.
+Pierde 1-3 HP al usar páginas sin Guijarro.</AbilityDesc>
+      <FlaborText>"¿Te gusta? ¿Más de lo que yo te gusto? ¿No es obvio? Lo se todo. Hagas lo que hagas, vayas donde vayas."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Por qué visitaste a ese amigo en su lugar? ¿Te gustan más que yo?</Dialogue>
+        <Dialogue ID="2">Te atesoro, pero tú no me valorarás a mí…</Dialogue>
+        <Dialogue ID="3">Hagas lo que hagas, vayas donde vayas… Siempre lo estoy viendo todo.</Dialogue>
+        <Dialogue ID="4">Si no me haces compañía, entonces no te necesito.</Dialogue>
+        <Dialogue ID="5">Adiós, y no vuelvas a verme.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Porccubus_Thorn">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Espinas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+En un ataque Perforador exitoso, inflige 1 Sensación al objetivo.
+Contra objetivos con 3+ Sensación, inflige 2-7 de daño adicional y Daño de Aturdimiento, luego elimina todas las acumulaciones de Sensación (Excluidos los Ataques Masivos)</AbilityDesc>
+      <FlaborText>Al principio, todo lo que tuve que hacer fue ser ligeramente pinchado por una de las espinas. Ahora tengo que frotar todo mi cuerpo contra él para obtener el mismo efecto.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Claro, me inclinaré por ti~ Siéntete libre de acariciarme.</Dialogue>
+        <Dialogue ID="2">Da miedo al principio, pero el siguiente paso no será nada difícil.</Dialogue>
+        <Dialogue ID="3">Ven debajo de mí. Te liberaré de todo tipo de dolores.</Dialogue>
+        <Dialogue ID="4">Un poco de sabor del cielo no vendrá mal, ¿verdad?</Dialogue>
+        <Dialogue ID="5">Compadezco a esos tontos que no conocen esta felicidad~</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Porccubus_Boom">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Elación</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Poder de dados +1. Reduce la Resistencia máxima al Aturdimiento en un 50%.</AbilityDesc>
+      <FlaborText>Ahora es el momento de que me estalle la cabeza. Buenos días.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Si desea un placer insoportable, eventualmente se derrumbará.</Dialogue>
+        <Dialogue ID="2">Solo te estoy haciendo reír, tanto que podrías morir de risa~</Dialogue>
+        <Dialogue ID="3">Comenzarás con uno y seguirás queriendo más.</Dialogue>
+        <Dialogue ID="4">Tu cabeza pronto se llenará de felicidad, casi lo suficiente como para reventarte la cabeza.</Dialogue>
+        <Dialogue ID="5">Una vez que haya probado esta dulzura, no puede dejar de hacerlo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Porccubus_Happy">
+      <Abnormality>Porccubus</Abnormality>
+      <CardName>Polvo de Risa</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Al recibir un golpe, recupera 2-4 Resistencia al Aturdimiento si el personaje no esta Aturdido.</AbilityDesc>
+      <FlaborText>Cuando el mundo conozca el polvo que cae de las espinas, la gente puede hundirse para siempre en el pantano de la intoxicación.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Tu cabeza pronto se llenará de felicidad.</Dialogue>
+        <Dialogue ID="2">Te enfermarás si aguantas la risa. ¿Por qué no te ríes a tu antojo?</Dialogue>
+        <Dialogue ID="3">La risa te hace feliz~ Te llegarán bendiciones, ¿sabes?</Dialogue>
+        <Dialogue ID="4">Si todos se ríen juntos, deben estar en un lugar feliz, ¿verdad?</Dialogue>
+        <Dialogue ID="5">Vamos, vamos a reír juntos~ Gire la boca completamente hacia arriba~</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="Alriune_flower">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Pétalos de Flor</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cada vez que el bibliotecario sufre un daño superior al 10% de su HP máximo, todos los enemigos reciben de 4-8 puntos de daño de Aturdimiento y el bibliotecario recupera de 5-10 HP.</AbilityDesc>
+      <FlaborText>Derramando pétalos de flores en lugar de lágrimas, me hablaste. "Todos fuimos parte de la tierra una vez, así que les ruego que no hablen del final aquí y ahora."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No tengo ojos, pero puedo ver todo.</Dialogue>
+        <Dialogue ID="2">Volvamos a la tumba con todo lo que vive y respira.</Dialogue>
+        <Dialogue ID="3">Estas flores florecen sin fin y ninguna de ellas se marchitaría.</Dialogue>
+        <Dialogue ID="4">Estoy agrietada… sin embargo, hermosas flores llenan ese espacio.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Alriune_Bush">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Pasando el Otoño</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al recibir un golpe, inflige 1 Aroma.
+(Aroma: Al comienzo de la Escena, recibe daño de Aturdimiento igual a la cantidad de Aroma y divide a la mitad la acumulación.)</AbilityDesc>
+      <FlaborText>Con la esperanza de volver al polvo, volverá a la tumba con todo lo que desee vivir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Mi expiación terminó con un profundo aliento en el frío.</Dialogue>
+        <Dialogue ID="2">Me abandonaron en un bosque oscuro; mi mente, vida y corazón se marchitan.</Dialogue>
+        <Dialogue ID="3">Nací de la tierra, así que ahora anhelo volver a ella.</Dialogue>
+        <Dialogue ID="4">Por favor, no piense en esto como nuestro último momento.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Alriune_Doll">
+      <Abnormality>Alriune</Abnormality>
+      <CardName>Génesis de la Primavera</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+En cada escena, un 'Pétalo' se adhiere a un enemigo aleatorio.
+Después de que el personaje con el Pétalo recibe 4 golpes en una sola Escena, todos los personajes reciben de 3-7 daño de Aturdimiento y el bibliotecario se vuelve No Seleccionable para la siguiente Escena.</AbilityDesc>
+      <FlaborText>Las flores inconscientes florecen violentamente.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Serás el que conceda mi deseo?</Dialogue>
+        <Dialogue ID="2">Con flores marchitas comencé mi magnífico descenso hacia la desesperación.</Dialogue>
+        <Dialogue ID="3">La primavera es una temporada en la que los pecados cometidos nuevamente son perdonados nuevamente.</Dialogue>
+        <Dialogue ID="4">Solo nos quedamos en este mundo por un momento fugaz.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SilentOrchestra_Music">
+      <Abnormality>La Orquesta Silenciosa</Abnormality>
+      <CardName>Interpretación que Siempre se Repite</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agrega una página "Interpretación que Siempre se Repite" a la mano: "Costo 3 - [En uso] Finaliza la Escena". Al comienzo de la siguiente Escena, el HP y la Resistencia al Aturdimiento del usuario vuelven a los valores que tenían cuando adquirieron esta página y restauran completamente la Luz."
+La página también se incluye en el mazo al comienzo de los actos posteriores.</AbilityDesc>
+      <FlaborText>La actuación no termina. Y Da capo. Y, Da capo al Fine</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">De la ruptura y la ruina, comienzo la actuación más hermosa.</Dialogue>
+        <Dialogue ID="2">Un solo intérprete de pie en medio de una partitura silenciosa. Crea sonidos donde no los hay.</Dialogue>
+        <Dialogue ID="3">Incluso si mis manos se detuvieran, surgiría de tu mente.</Dialogue>
+        <Dialogue ID="4">Esta etapa deslumbrantemente fascinante se preparará nuevamente pronto.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+ <AbnormalityCard ID="SilentOrchestra_Affect">
+      <Abnormality>La Orquesta Silenciosa</Abnormality>
+      <CardName>Adoración Ferviente</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Todos los enemigos apuntan a personajes aleatorios, incluidos sus propios aliados, durante 2 Escenas. Los enemigos infligen +2-4 de daño con ataques mientras dura este efecto.</AbilityDesc>
+      <FlaborText>La orquesta da impulso a la música, llevando a todo el departamento a su desaparición. Cuando todos los intérpretes se han reunido, comienza la música que nadie puede oír pero que todos pueden escuchar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La música que nadie puede oír, pero que todos puede escuchar…</Dialogue>
+        <Dialogue ID="2">A la audiencia que entrará en su asiento al escuchar la actuación ahogada.</Dialogue>
+        <Dialogue ID="3">La melodía impregna la música y la música impregna a las personas.</Dialogue>
+        <Dialogue ID="4">No te encierres, abre los ojos para contemplar la gloriosa música.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="SilentOrchestra_Finale">
+      <Abnormality>La Orquesta Silenciosa</Abnormality>
+      <CardName>El Final</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Siempre que el bibliotecario seleccionado Aturde a un enemigo, todos los enemigos pierden de 1-6 de Luz al comienzo de la siguiente Escena.</AbilityDesc>
+      <FlaborText>"La música perforará todo tu ser."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La música perforará todo tu ser.</Dialogue>
+        <Dialogue ID="2">Si puede pararse con sus dos piernas, esté dispuesto a enviar sus elogios.</Dialogue>
+        <Dialogue ID="3">Un aplauso interminable, para inspirar al director a levantar su batuta una vez más.</Dialogue>
+        <Dialogue ID="4">La hermosa melodía rodea el escenario vacío.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Keter">
+    <AbnormalityCard ID="Bloodbath_Blood">
+      <Abnormality>Baño de Sangre</Abnormality>
+      <CardName>Sangre</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los dados Defensivos ganan 1-2 de Poder.
+Recibe +3-5 de daño de Aturdimiento cuando te golpean.</AbilityDesc>
+      <FlaborText>Una depresión insoportable abruma a todos los que miran el baño.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Esa persona simplemente no podía tomarse su dolor con calma.</Dialogue>
+        <Dialogue ID="2">¿Puedes soportar esta profunda desesperación?</Dialogue>
+        <Dialogue ID="3">Entra. Métete en este espantoso charco de sangre.</Dialogue>
+        <Dialogue ID="4">Suéltelo todo, cierre los ojos y sumérjase en esta piscina sin fondo.</Dialogue>
+        <Dialogue ID="5">No importa cuánta sangre se agregue, la bañera nunca se desborda.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Bloodbath_Scar">
+      <Abnormality>Baño de Sangre</Abnormality>
+      <CardName>Cicatrices</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Recibe 2-5 daños menos de los ataques de Corte.
+Al recibir un golpe, reduce el daño del ataque a 0 con un 20% de probabilidad.</AbilityDesc>
+      <FlaborText>Cuando vi el entramado de cicatrices en su muñeca cortada, me acordé de nuestra vitrina. Ese día, le quité el corcho al último.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Se necesita una voluntad fuerte y coraje para cortarse la muñeca.</Dialogue>
+        <Dialogue ID="2">No llames tontas a estas personas. Eres el mayor cobarde.</Dialogue>
+        <Dialogue ID="3">Las cicatrices son marcas de fracaso, pero no son inútiles.</Dialogue>
+        <Dialogue ID="4">Acaricia este dolor llenando la tina suavemente.</Dialogue>
+        <Dialogue ID="5">La profundidad de un corte depende de la mente y la fuerza de voluntad del momento.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Bloodbath_Hands">
+      <Abnormality>Baño de Sangre</Abnormality>
+      <CardName>Manos Pálidas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de tres ataques exitosos sobre el mismo objetivo, inflige 3-10 de daño adicional de Aturdimiento.
+(Se reinicia al atacar a un objetivo diferente, Excluye los Ataques Masivos)</AbilityDesc>
+      <FlaborText>Muchas manos flotan en el baño.
+Son las manos de las personas que una vez amé.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Las manos de alguien a quien tú, quizás nosotros, amamos están descansando en su interior.</Dialogue>
+        <Dialogue ID="2">Estas manos están esperando que alguien las sostenga, ¿les concederías sus deseos?</Dialogue>
+        <Dialogue ID="3">No importa cuánto desee agarrar lo que se desliza entre sus dedos…</Dialogue>
+        <Dialogue ID="4">Estas manos quieren sinceramente ayuda, pero nadie se molesta en echarles un vistazo.</Dialogue>
+        <Dialogue ID="5">Debe haber temblado mucho, el cuchillo podría deslizarse de su mano en cualquier momento.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="HeartofAspiration_Heart">
+      <Abnormality>Corazón de Aspiración</Abnormality>
+      <CardName>Pulsación</CardName>
+       <AbilityDesc>[Todos los Aliados]
+Gana 1-2 de Fuerza al final de cada Escena.
+Al final de cada Escena, si el bibliotecario no infligió ningún daño con los dados Ofensivos, pierde el 25% de su HP máximo. (Máx. 30)</AbilityDesc>
+      <FlaborText>La aspiración excesiva provocaría un frenesí injustificado.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La aspiración abrumadora es lo que conduce al frenesí injusto.</Dialogue>
+        <Dialogue ID="2">¿Por qué no deseas nada cuando te has ganado tanto poder?</Dialogue>
+        <Dialogue ID="3">El que tiene el poder debe ejercerlo legítimamente.</Dialogue>
+        <Dialogue ID="4">Sí, siente los rápidos latidos de tu corazón.</Dialogue>
+        <Dialogue ID="5">Parece que tenemos un objetivo común que deseamos desesperadamente, así que permítanos ayudar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="HeartofAspiration_Doki">
+      <Abnormality>Corazón de Aspiración</Abnormality>
+      <CardName>Instando</CardName>
+     <AbilityDesc>[Un Solo Aliado]
+Aumenta Max HP en un 15%. (HP actual aumenta en consecuencia)
+Gana 1-2 Velocidades.</AbilityDesc>
+      <FlaborText>Cuando se toma prestado, su tasa de contracción se duplicará, aumentando el vigor y la fuerza del prestatario.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Nunca dejes de desearlo, hasta que los latidos den una respuesta.</Dialogue>
+        <Dialogue ID="2">¿No quieres ver el final de esta emoción que está a punto de estallar?</Dialogue>
+        <Dialogue ID="3">Dar un significado a todas las cosas que hemos deseado.</Dialogue>
+        <Dialogue ID="4">Únete a mí en esta pulsación febril.</Dialogue>
+        <Dialogue ID="5">Tu deseo hará que los latidos sean más rápidos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="HeartofAspiration_Atk">
+      <Abnormality>Corazón de Aspiración</Abnormality>
+      <CardName>Ritmos Fervientes</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+El bibliotecario seleccionado muere al final de la tercera Escena después de la cual se eligió esta página.
+Gana 4 de Fuerza, Resistencia, Celeridad y Protección en cada Escena hasta la muerte. Todas las resistencias al daño de Aturdimiento cambian a "Ineficaz".</AbilityDesc>
+      <FlaborText>Un corazón sin dueño; todavía late incluso después de haber sido extraído de su cuerpo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sí, siente los rápidos latidos de tu corazón.</Dialogue>
+        <Dialogue ID="2">Si sigues deseando y no haces nada para saciarlo, se volverá demasiado grande y eventualmente explotará.</Dialogue>
+        <Dialogue ID="3">Únete a mí en esta pulsación febril y rápida.</Dialogue>
+        <Dialogue ID="4">Incluso si eso significa que debo estallar algún día, quiero ver el final.</Dialogue>
+        <Dialogue ID="5">Cuanto más aspires, más rápidos serán los latidos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Pinocchio_Learn">
+      <Abnormality>Pinocho</Abnormality>
+      <CardName>Aprendiendo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agrega una página "Aprender" a mano: "Costo 2 - [Inicio de Choque] Reemplaza todos los dados con los de la página del oponente."
+La página también se incluye en el mazo al comienzo de los Actos posteriores.</AbilityDesc>
+      <FlaborText>Todo lo que el niño podía hacer era "aprender" observando a los demás e imitando su comportamiento. Y ese era el problema.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Tengo muchas ganas de aprender como siempre. ¿Te gustaría verme aprender?</Dialogue>
+        <Dialogue ID="2">La gente me enseñó a hablar.</Dialogue>
+        <Dialogue ID="3">No aprendo rápido. Solo imito lo que veo.</Dialogue>
+        <Dialogue ID="4">It’s not hard to mimic others. I don’t have to think.</Dialogue>
+        <Dialogue ID="5">No es difícil imitar a los demás. No tengo que pensar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Pinocchio_Lie">
+      <Abnormality>Pinocho</Abnormality>
+      <CardName>Mentiras</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, aleatorice los Costos de todas las páginas cuyo Costo original sea inferior a 4.</AbilityDesc>
+      <FlaborText>La gente miente todo el tiempo. ¿Por qué es eso algo malo?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">A la gente le encanta decir las cosas de otra manera.</Dialogue>
+        <Dialogue ID="2">Dijeron que no era por ellos mismos. Estaban mintiendo por el bien de todos…</Dialogue>
+        <Dialogue ID="3">Lalala… Canto la canción de las mentiras que canta toda la gente.</Dialogue>
+        <Dialogue ID="4">Veo el mundo al revés, como la gente me ha enseñado.</Dialogue>
+        <Dialogue ID="5">Todos mienten, ¿por qué dices que es malo?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Pinocchio_Curious">
+      <Abnormality>Pinocho</Abnormality>
+      <CardName>Curiosidad</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, baraja todas las páginas en la pila y saca 4 páginas.</AbilityDesc>
+      <FlaborText>Tengo muchas ganas de aprender como siempre. ¿Te gustaría verme aprender?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Todavía tengo muchas cosas que quiero saber. Hay mucho que aprender.</Dialogue>
+        <Dialogue ID="2">Si veo varias cosas… ¿Aprenderé tanto?</Dialogue>
+        <Dialogue ID="3">Tengo curiosidad por esto… tengo curiosidad por eso… Oh, ¿y qué es esto?</Dialogue>
+        <Dialogue ID="4">Nunca había visto eso antes… ¿De dónde vino y cómo?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="TheSnowQueen_Sord">
+      <Abnormality>La Reina de la Nieve</Abnormality>
+      <CardName>Espada de Escarcha</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al ganar un choque, inflige 1-3 Atadura la siguiente Escena con un 50% de probabilidad.
+Inflige +2-5 de daño de Aturdimiento contra objetivos con Atadura.</AbilityDesc>
+      <FlaborText>Una reina vive sola en el bosque helado de invierno.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">El filo de esta hoja es afilado y frío.</Dialogue>
+        <Dialogue ID="2">Solo el calor de la primavera puede derretir esta espada.</Dialogue>
+        <Dialogue ID="3">La espada recta sabe exactamente hacia dónde apuntar.</Dialogue>
+        <Dialogue ID="4">Un día, cuando se calienta lo suficiente como para que la nieve se derrita, esta espada también se derretirá.</Dialogue>
+        <Dialogue ID="5">Cuando esta arma atraviese tu corazón, te olvidarás de ti mismo por un momento.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="TheSnowQueen_Chu">
+      <Abnormality>La Reina de la Nieve</Abnormality>
+      <CardName>Un Beso</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de ganar 2 o más choques con una sola Página de Combate, inflige Astilla de Hielo al oponente.
+Al final de cada Escena, los personajes con 3 o más Astillas de Hielo quedan Inmovilizados para la siguiente Escena.
+      </AbilityDesc>
+      <FlaborText>El beso de la Reina de las Nieves congeló su corazón y ya no podía sentir el frío.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Solo aquellos que conocen el aroma de las rosas pueden poner fin a todo.</Dialogue>
+        <Dialogue ID="2">Debes haber tenido un corazón cálido una vez.</Dialogue>
+        <Dialogue ID="3">Olvidando el frío, olvidando los recuerdos, y por fin…</Dialogue>
+        <Dialogue ID="4">¿Podría descongelarse un corazón helado que se ha vuelto insensible al frío?</Dialogue>
+        <Dialogue ID="5">Sólo los fuertes podrán rescatar a los congelados.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="TheSnowQueen_Snow">
+      <Abnormality>La Reina de la Nieve</Abnormality>
+      <CardName>Ventisca</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Todos los personajes excepto el bibliotecario seleccionado quedan Inmovilizados para esta Escena.
+En la siguiente Escena, todos los enemigos reciben 6 Atadura.</AbilityDesc>
+      <FlaborText>Llegó la primavera con rosas florecientes. Su calidez derritió el palacio de la Reina de las Nieves. Nadie la recordaba, durmiendo debajo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Nadie se dará cuenta de que estoy durmiendo en este lugar.</Dialogue>
+        <Dialogue ID="2">Cuando esta nieve se derrita, también seré olvidado.</Dialogue>
+        <Dialogue ID="3">¿Mi castillo se está derritiendo, realmente ha llegado la cálida primavera…?</Dialogue>
+        <Dialogue ID="4">La plena floración de las rosas me indica que ha llegado la primavera.</Dialogue>
+        <Dialogue ID="5">Esa persona no debe haber deseado más de este resfriado.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+     <AbnormalityCard ID="QuietKid_Hammer">
+      <Abnormality>Chica Silenciosa</Abnormality>
+      <CardName>Martillo y Clavo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Tras un ataque de Perforación exitoso, inflige 1 'Clavo' al objetivo.
+Si un personaje con 'Clavos' es golpeado por un ataque Contundente, recibe una bonificación de daño equivalente a 5 veces la cantidad de Clavos que contiene, luego se eliminan todas las pilas de Clavos.</AbilityDesc>
+      <FlaborText>Cuando clava el clavo con su martillo, la grieta en la mente se ensanchará demasiado y se hará añicos por completo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Me pregunto si hay una grieta en tu mente en la que yo pueda clavar un clavo.</Dialogue>
+        <Dialogue ID="2">Cuando un clavo se clava en una fisura, se vuelve dos veces más ancho.</Dialogue>
+        <Dialogue ID="3">Debería haberse apresurado a ocuparse del equipaje en su mente.</Dialogue>
+        <Dialogue ID="4">No hay reparación para una mente que se ha roto.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="QuietKid_Eyeshine">
+      <Abnormality>Chica Silenciosa</Abnormality>
+      <CardName>Mirada Lasciva</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Inflige y recibe el doble de daño físico.</AbilityDesc>
+      <FlaborText>La niña permanece en silencio. Simplemente miraba fijamente el centro del lado interior de uno con sus ojos profundos.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">…</Dialogue>
+        <Dialogue ID="2">……</Dialogue>
+        <Dialogue ID="3">………</Dialogue>
+        <Dialogue ID="4">Estás temblando mucho. ¿Qué te da tanto miedo?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="QuietKid_Guilty">
+      <Abnormality>Chica Silenciosa</Abnormality>
+      <CardName>Culpa</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Reduce el daño de Aturdimiento entrante en 1-3.
+Cuando es golpeado, el atacante recibe un daño de Aturdimiento igual al daño físico que recibió este personaje.</AbilityDesc>
+      <FlaborText>Sin embargo, cuando conoció a una persona que cargaba con "culpa" o "miedo", la niña reveló el clavo y el martillo que había estado escondiendo detrás de su espalda.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Todavía te aferras a esos dolorosos recuerdos… Pobre amigo.</Dialogue>
+        <Dialogue ID="2">No imponga la responsabilidad a otros. La agonía es tuya para soportarla.</Dialogue>
+        <Dialogue ID="3">Estabas demasiado ocupado huyendo, ¿verdad?</Dialogue>
+        <Dialogue ID="4">Querido, pareces estar bastante… nervioso, ¿no es así?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Tiphereth">
+    <AbnormalityCard ID="QueenOfHatred_Laser">
+      <Abnormality>La Reina del Odio</Abnormality>
+      <CardName>Amor</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de ganar un choque con un dado ofensivo, un aliado aleatorio recupera 3-5 HP.
+Después de ganar un choque usando un dado Defensivo, un aliado aleatorio recupera 2-4 de Resistencia al Aturdimiento.</AbilityDesc>
+      <FlaborText>En nombre del Amor y la Justicia~ ¡Aquí viene Chica Mágica!</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No te preocupes. ¡Estarán a salvo mientras yo esté aquí!</Dialogue>
+        <Dialogue ID="2">¡Puedes contar conmigo en cualquier momento! Te mantendré a salvo.</Dialogue>
+        <Dialogue ID="3">¡Una verdadera chica mágica nunca huye ante las dificultades!</Dialogue>
+        <Dialogue ID="4">Dime si pasa algo malo, ¿de acuerdo? ¡Sé que puedo ayudarte!</Dialogue>
+        <Dialogue ID="5">¡No dude en llamarme cuando haya peligro~!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="QueenOfHatred_Gun">
+      <Abnormality>La Reina del Odio</Abnormality>
+      <CardName>Justicia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+El enemigo que infligió más daño a los aliados en la Escena anterior se marca como 'Villano'.
+Inflige +3-5 de daño al atacar al 'villano'.</AbilityDesc>
+      <FlaborText>Si estoy del lado del bien, entonces alguien tiene que estar del lado del mal. Sin alguien que haga de villano, no puedo existir.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¡Finalmente, aparece un villano! Cuidado a todos.</Dialogue>
+        <Dialogue ID="2">Está bien. ¡Puedo encargarme de los malos!</Dialogue>
+        <Dialogue ID="3">En nombre del Amor y la Justicia~ ¡He llegado!</Dialogue>
+        <Dialogue ID="4">Aquellos que perturban la sociedad serán llevados ante la justicia.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+ <AbnormalityCard ID="QueenOfHatred_Snake">
+      <Abnormality>La Reina del Odio</Abnormality>
+      <CardName>Odio</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de perder un choque, recibe 2-4 daños de Aturdimiento y gana 1 de Fuerza en la siguiente Escena. (Hasta 2 por Escena)
+Después de perder tres choques en una sola Escena, reduce el Costo de la página más cara en mano en 1. (Una vez por Escena)</AbilityDesc>
+      <FlaborText>Ella juró amar todo en el mundo, pero todo lo que quedaba era un corazón que se derrumbaba.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Por qué todos están felices? No tendría ninguna razón para existir si ellos fueran…</Dialogue>
+        <Dialogue ID="2">Yo soy el elegido. ¿Quién protegería al mundo además de mí?</Dialogue>
+        <Dialogue ID="3">No pude proteger a nadie…</Dialogue>
+        <Dialogue ID="4">Odio un mundo pacífico… Es como… Es como si ya no me necesitaran…</Dialogue>
+        <Dialogue ID="5">Merezco ser el héroe de todos. Nací de esta manera…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="KnightOfDespair_Gaho">
+      <Abnormality>La Caballera de la Desesperación</Abnormality>
+      <CardName>Bendición</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Si el personaje recibió daño de los ataques en la Escena anterior, cambie las resistencias de este personaje por el tipo que causó más daño a "Aguantado" para la Escena. (Se aplica por separado para daños físicos y de Aturdimiento)</AbilityDesc>
+      <FlaborText>La voluntad de proteger parece permanecer inalterada después de todo este tiempo; incluso en la contención, sigue obsesionada con el acto de protección.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Todo lo que queda es el orgullo vacío de una caballera curtida.</Dialogue>
+        <Dialogue ID="2">Si pudiera tener otra oportunidad de proteger…</Dialogue>
+        <Dialogue ID="3">No te preocupes. Te mantendré a salvo esta vez.</Dialogue>
+        <Dialogue ID="4">Dormir en paz…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="KnightOfDespair_Sword">
+      <Abnormality>La Caballera de la Desesperación</Abnormality>
+      <CardName>Cuchillas Afiladas por lágrimas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+En un ataque de Perforación exitoso, si el dado arrojó un máx. valor, inflige daño adicional equivalente al 10% del HP Máximo del objetivo. (Max.12, Excluye Ataques Masivos)</AbilityDesc>
+      <FlaborText>Cuando Justicia le dé la espalda una vez más, varias docenas de espadas deambularán sin un propósito. Las espadas eventualmente apuntarán a aquellos a quienes ella no pudo proteger.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">El filo de esta espada afilado por las lágrimas y la desesperación es siempre preciso.</Dialogue>
+        <Dialogue ID="2">Le juré a esta espada afilada, afilada con lágrimas en un yunque de desesperación.</Dialogue>
+        <Dialogue ID="3">Está prohibido el juego sucio. Tampoco habrá piedad…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="KnightOfDespair_Despair">
+      <Abnormality>La Caballera de la Desesperación</Abnormality>
+      <CardName>Desesperación</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Siempre que un aliado muere, todos los demás aliados obtienen 1-3 de Fuerza y Celeridad, y todos los enemigos reciben 2 Frágiles.</AbilityDesc>
+      <FlaborText>Al igual que con el dolor, tal vez compartir la carga mitigue el borde.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La desesperación que crece dentro de mí ahora se desborda a través de mis ojos y corazón…</Dialogue>
+        <Dialogue ID="2">¿Qué significa esta desesperación… para mí?</Dialogue>
+        <Dialogue ID="3">¿Por qué debo perder a otros una y otra vez… Por qué…</Dialogue>
+        <Dialogue ID="4">Una vez más, la desesperación interminable me llena…</Dialogue>
+        <Dialogue ID="5">Juré proteger, pero los perdí de nuevo…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Greed_Break">
+      <Abnormality>El Rey de la Codicia</Abnormality>
+      <CardName>Intemperancia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Si el primer dado de una Página de Combate gana un choque, destruye todos los dados restantes que tenga el oponente con un 25% de probabilidad.</AbilityDesc>
+      <FlaborText>La primera semilla del deseo se originó en el puro anhelo de felicidad. La diminuta semilla creció más y más, hambrienta por más. Con el tiempo, la semilla se endureció y se convirtió en una pieza de gema brillante.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Un pensamiento hizo eco dentro de mi cabeza. Un pensamiento impregnado de codicia que me impulsa a buscar la felicidad.</Dialogue>
+        <Dialogue ID="2">¿Es tan malo codiciar la miel cuando hay flores?</Dialogue>
+        <Dialogue ID="3">Al principio, fue un puro anhelo de felicidad.</Dialogue>
+        <Dialogue ID="4">El anhelo de felicidad seguiría siendo el mismo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Greed_Protect">
+      <Abnormality>El Rey de la Codicia</Abnormality>
+      <CardName>Camino a la Felicidad</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Gana 1 de Aguante por cada choque ganado en una Escena. (Hasta 3 por Escena)</AbilityDesc>
+      <FlaborText>La felicidad se convirtió en obsesión, la obsesión se convirtió en codicia y la codicia se solidificó para siempre hasta convertirse en un ámbar dorado. La felicidad al principio, aún con una sonrisa, habita en el interior.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Por fin, el deseo una vez puro se materializó en ámbar dorado y se solidificó.</Dialogue>
+        <Dialogue ID="2">Esta codicia siempre brillará con esplendor.</Dialogue>
+        <Dialogue ID="3">¿Cómo se puede resistir el encanto de este hermoso ser?</Dialogue>
+        <Dialogue ID="4">Desear la felicidad de todos debe incluir la mía también…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Greed_Eat">
+      <Abnormality>El Rey de la Codicia</Abnormality>
+      <CardName>Codicia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+En un choque, si la tirada de dados del ganador es mayor que la del perdedor en 4 o más, el perdedor recibe 3-7 de daño adicional y el ganador recupera 2-5 HP. (Tanto el bibliotecario como su oponente pueden activar este efecto)</AbilityDesc>
+      <FlaborText>La chica mágica, que ya no era una chica mágica, comió muchas cosas. Autoridad, dinero, fama y muchas otras formas de placer. Terminó devorando todo lo que tenía a la vista. Ahora, solo queda la codicia visceral.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La gema avivó la codicia hambrienta.</Dialogue>
+        <Dialogue ID="2">Pero la codicia busca la eternidad-busca profunda, profunda eternidad.</Dialogue>
+        <Dialogue ID="3">Mi canasta es tan grande que todos los frutos del mundo no pueden llenarla.</Dialogue>
+        <Dialogue ID="4">No quedó nada a mi paso. Solo quedaba la codicia visceral.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="Angry_Angry">
+      <Abnormality>La Sirvienta de la Ira</Abnormality>
+      <CardName>Ira</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+El bibliotecario seleccionado entra en un estado de Ira.
+El bibliotecario se volverá incontrolable y apuntará a personajes aleatorios, incluidos los aliados.
+Además, el bibliotecario obtiene 2 de Fuerza, restaura 2 de Luz y saca 2 páginas más en cada Escena.</AbilityDesc>
+      <FlaborText>La Sirvienta fue traicionada después de abandonar sus principios y confiar ingenuamente en alguien con todo su corazón. Ahora, está dominada por la ira hacia sí misma por lo que había hecho.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">GRRRR!!!</Dialogue>
+        <Dialogue ID="2">UUUGH… AAARGH!!!</Dialogue>
+        <Dialogue ID="3">AAAAH!!!!!</Dialogue>
+        <Dialogue ID="4">¡¡¡PECADORES DE LOS OTROS MUNDOS!!! ¡¡¡REALIZACIONES DEL MAL!!!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+<AbnormalityCard ID="Angry_Friend">
+      <Abnormality>La Sirvienta de la Ira</Abnormality>
+      <CardName>Compañero</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cuando no hay un 'Compañero' presente, el primer enemigo que golpea el bibliotecario seleccionado se marca como uno. Cuando el bibliotecario seleccionado derrota al Compañero, todos los bibliotecarios restauran 3 de Luz y recuperan 10 HP y Resistencia al Aturdimiento.</AbilityDesc>
+      <FlaborText>La Sirvienta de la Ira valoraba la justicia y el equilibrio más que nadie, pero comenzó a compartir conocimientos con el Ermitaño, un enemigo de su reino, y se hizo amigo de ella en secreto.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Llámame… Llámame por mi nombre…</Dialogue>
+        <Dialogue ID="2">Amigo… Mi amigo… Los que se necesitan… el uno al otro…</Dialogue>
+        <Dialogue ID="3">Nosotros… éramos verdaderos amigos… ¿verdad?</Dialogue>
+        <Dialogue ID="4">Fue la relación más preciosa para mí, y lo que pasó…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Angry_Poison">
+      <Abnormality>La Sirvienta de la Ira</Abnormality>
+      <CardName>Lodos Ácidos</CardName>
+      <AbilityDesc>[Todos los Enemigos]
+Inflige 5 'Erosión' a todos los enemigos. Los enemigos con Erosión también obtienen Atadura igual a la cantidad de Erosión que tienen actualmente.
+(Erosión: al final de la Escena, recibe daño igual a la cantidad de Erosión y pierde 1 acumulación; al recibir un golpe, recibe daño adicional y daño de Aturdimiento igual a la cantidad de Erosión).</AbilityDesc>
+      <FlaborText>Cuando los dos se conocieron por fin, el Ermitaño trajo innumerables secuaces para destruir el mundo de los Sirvientes.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">El equilibrio se desmorona y la justicia se desvanece…</Dialogue>
+        <Dialogue ID="2">Por eso perdí; Me enamoré de mi amado compañero.</Dialogue>
+        <Dialogue ID="3">Úsalos y ellos te usan a ti. Esos somos nosotros.</Dialogue>
+        <Dialogue ID="4">Esto ha sucedido antes… Frustrado todo por el bien de ellos…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="NihilClown_Card">
+      <Abnormality>El Bufón de Nihil</Abnormality>
+      <CardName>Chicas Mágicas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, una Página de Combate en mano con el Costo más alto (que es menor que 4) está marcada con un símbolo Mágico.
+Después de perder 4 choques con la página marcada, obtén 5 de Protección en cada Escena y vuélvete inmune a las dolencias de estado durante el resto de la recepción.
+Además, al recibir un golpe, inflige 1 Erosión y la siguiente Escena Frágil al atacante. (Dos veces por escena)</AbilityDesc>
+      <FlaborText>El bufón volvió sobre los pasos de un camino que todos hubieran tomado. El bufón siempre se encontraba al final de ese camino. No había forma de saber si se habían reunido para convertirse en el bufón, o si el bufón había llegado a parecerse a ellos.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Tú me hiciste a mí o yo te hice a ti?</Dialogue>
+        <Dialogue ID="2">Me parezco a ellos y ellos se parecen a mí cuando están juntos.</Dialogue>
+        <Dialogue ID="3">Seguí lentamente el camino de regreso. Es el camino que habrías tomado.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NihilClown_Nihil">
+      <Abnormality>El Bufón de Nihil</Abnormality>
+      <CardName>Vacío</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agrega una página "Todos regresan al vacío" a la mano: "Costo 3 - [Comienzo del Combate] Agota todas las páginas de la mano". Cada Escena después de esta, gana Fuerza y Aguante igual al número de páginas agotadas de esta manera."</AbilityDesc>
+      <FlaborText>El bufón estaba más sumido en sus pensamientos, ese pobre bufón. Sin el valiente cachorro que lidere el camino, camina con pasos sin sentido.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Dónde está el camino correcto? ¿A dónde voy?</Dialogue>
+        <Dialogue ID="2">No sé lo que me espera por delante. ¿Podría ser un precipicio o una zanja?</Dialogue>
+        <Dialogue ID="3">¿Dónde está ese perro brillante cuando necesito que me lleve?</Dialogue>
+        <Dialogue ID="4">Mi mente es un vacío, mis pensamientos están vacíos. Me vuelvo más valiente a medida que se vuelven más vacíos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NihilClown_fusion">
+      <Abnormality>El Bufón de Nihil</Abnormality>
+      <CardName>Nix</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Esta página solo es efectiva si el bibliotecario posee las cuatro siguientes páginas de Anomalías: 'Codicia', 'Odio', 'Desesperación' e 'Ira'.
+Al comienzo de la Escena, inflige 5 Débil, Desarma y Atadura a todos los demás personajes. 'Codicia', 'Odio' e 'Ira' pierden sus inconvenientes.</AbilityDesc>
+      <FlaborText>Habiendo decidido confiar en su propia intuición, el bufón pronunció los nombres de todos los que había conocido en ese camino con cada paso que daba.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Liderando el camino a través de la necedad, no hay nada que me guíe.</Dialogue>
+        <Dialogue ID="2">Cegado por los deseos carnales y los celos, caminando voluntariamente hacia el borde del acantilado.</Dialogue>
+        <Dialogue ID="3">Si está confundido porque no parece haber un método correcto en este momento, ¡confíe en su intuición!</Dialogue>
+        <Dialogue ID="4">La agonía de todos se convierte en uno.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Gebura">
+    <AbnormalityCard ID="Redhood_Hunt">
+      <Abnormality>La Mercenaria Caperucita Roja</Abnormality>
+      <CardName>Presa</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Marque el primer enemigo que es atacado por este bibliotecario después de seleccionar la página.
+Inflige +2-6 de daño al atacar al enemigo marcado.</AbilityDesc>
+      <FlaborText>La muerte del lobo es lo único que puedo amar en mi vida.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Soy profesional. Puedo manejar eso fácilmente.</Dialogue>
+        <Dialogue ID="2">No le quites los ojos de encima. Fija tu vista en su movimiento.</Dialogue>
+        <Dialogue ID="3">Una vez que hayas puesto tu mirada en un objetivo, comprométete a cazar. No te rindas.</Dialogue>
+        <Dialogue ID="4">Fija tu mirada en tu objetivo y corre hacia él. Ten la determinación de matarlo, cueste lo que cueste.</Dialogue>
+        <Dialogue ID="5">Si hace una solicitud, entonces podría ayudarlo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Redhood_Revenge">
+      <Abnormality>La Mercenaria Caperucita Roja</Abnormality>
+      <CardName>Venganza</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, gana Fuerza según la cantidad de daño recibido en la Escena anterior. (1 Fuerza por cada 5 daños, hasta 2)</AbilityDesc>
+      <FlaborText>Entre nosotros, no hay victoria que ganar. Todo lo que pienso es en cómo mataré a ese bastardo de una manera más espantosa y dolorosa que la última vez.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">He estado moliendo la hoja para decapitar a ese maldito lobo.</Dialogue>
+        <Dialogue ID="2">Entrégame ese horrible y astuto bastardo.</Dialogue>
+        <Dialogue ID="3">Colgaré su cabeza sobre mi cama. Solo así puedo levantarme por la mañana sin tener una pesadilla.</Dialogue>
+        <Dialogue ID="4">Todo fue para leer al enemigo. Ahora es el momento de devolver el favor.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Redhood_RedScar">
+      <Abnormality>La Mercenaria Caperucita Roja</Abnormality>
+      <CardName>Verdugones Rojisas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Si el HP del bibliotecario es del 50%/35%/25% o menos, gana 1/2/4 de Fuerza en cada Escena.</AbilityDesc>
+      <FlaborText>Me acostumbré a moler el hacha en lugar de recoger flores cuando tenía 15 años.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Esta no es una decoración orgullosa de un sobreviviente. Es la prueba de mi voluntad de vivir.</Dialogue>
+        <Dialogue ID="2">Cuantas más cicatrices tengas, más fuerte se volverá tu voluntad de sobrevivir.</Dialogue>
+        <Dialogue ID="3">No se enorgullezca de ello. Es una señal de que no tenías la habilidad suficiente.</Dialogue>
+        <Dialogue ID="4">…Me siento horrible cuando miro estas cicatrices. Me hace estremecer de furia.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+     <AbnormalityCard ID="BigBadWolf_Claw">
+      <Abnormality>El Gran Lobo que Puede ser Malo</Abnormality>
+      <CardName>Garras de Salvajismo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de que el bibliotecario sufra daños superiores al 25% de su HP máximo, conviértase en Inalcanzable e Imposible de chocar en la siguiente Escena.
+El bibliotecario obtiene 2 de Fuerza en esa Escena e inflige 1 Sangrado con cada ataque exitoso.</AbilityDesc>
+      <FlaborText>Érase una vez, estas garras abrirían los vientres de numerosas criaturas y les desgarrarían las tripas.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Qué garras afiladas tenía, mejor para desempeñar el papel para el que nací…</Dialogue>
+        <Dialogue ID="2">El lobo nació para hacer cosas malas y ser castigado en consecuencia…</Dialogue>
+        <Dialogue ID="3">Estas garras violentas y salvajes siempre desgarrarían la piel de la carne fresca…</Dialogue>
+        <Dialogue ID="4">Nada era mejor que estas garras para destrozar las tripas de alguien…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="BigBadWolf_Eat">
+      <Abnormality>El Gran Lobo que Puede ser Malo</Abnormality>
+      <CardName>Instintos</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cada vez que el bibliotecario seleccionado gana un choque, el último dado en su página actual gana 1-2 de Poder.
+Recupera 3-7 HP con un golpe exitoso con ese dado final.</AbilityDesc>
+      <FlaborText>El sabor de la carne era tan bueno después de una ausencia tan larga. Desde entonces, se hizo cada vez más difícil mantenerse a sí mismo bajo control. Aun así, no le importaba. Después de todo, estaba "destinado" a ser un lobo feroz.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Este lugar huele a un hedor espantoso… Me llama…</Dialogue>
+        <Dialogue ID="2">Como la luna vacía llena de oscuridad, mi vientre debería estar lleno de carne…</Dialogue>
+        <Dialogue ID="3">Mirarte me hace agua la boca…</Dialogue>
+        <Dialogue ID="4">Si puedo llenar mi estómago… Estaré satisfecho…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="BigBadWolf_Change">
+      <Abnormality>El Gran Lobo que Puede ser Malo</Abnormality>
+      <CardName>El Papel del Lobo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los dados de Contraataque ganan 1-2 de Poder.
+Los dados de Contraataque infligen 2 Frágiles al ganar Choque. (3 veces por Escena)</AbilityDesc>
+      <FlaborText>Los lobos no podían cruzar la línea cuando hacían cosas malas. Y los lobos tenían que ser castigados. Los lobos siempre tuvieron que ser un ejemplo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No importa… Estoy destinado a ser un gran lobo malo…</Dialogue>
+        <Dialogue ID="2">Todos me llamaban así, así que debe ser cierto… Los cuentos antiguos nunca se equivocan…</Dialogue>
+        <Dialogue ID="3">Un lobo no necesita nombre, simplemente obedece al papel para el que nació…</Dialogue>
+        <Dialogue ID="4">Nadie quiso acercarse al lobo aterrador…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="Mountain_Eat">
+      <Abnormality>Montaña de Cuerpos Sonrientes</Abnormality>
+      <CardName>Absorción</CardName>
+<AbilityDesc>[Un Solo Aliado]
+Mientras dure el Acto, recupera el 20% de Max. HP (Max. 20) al derrotar a un enemigo.
+Al comienzo de la Escena, gana Fuerza en función de la cantidad de HP que el bibliotecario haya recuperado en este Acto. (1 Fuerza por cada 10% de HP máximo curado, hasta 3)</AbilityDesc>
+      <FlaborText>Solo quiere una cosa: nuestra carne empapada de sangre. Una vez que huele el olor, nos perseguirá en un instante.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Carne… Sabrosa… yo… a…</Dialogue>
+        <Dialogue ID="2">El olor… de esta… manera…</Dialogue>
+        <Dialogue ID="3">No… lo suficiente… debo comer… más…</Dialogue>
+        <Dialogue ID="4">Más cuerpos… nos… harán… más fuertes…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Mountain_Shout">
+      <Abnormality>Montaña de Cuerpos Sonrientes</Abnormality>
+      <CardName>La Risa</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cuando el bibliotecario recibe un golpe mientras su HP está al 50% o menos, estalla un chillido con un 50% de probabilidad. (Hasta 3 veces por Escena)
+El chillido inflige 2-5 de daño de Aturdimiento a todos los enemigos e inflige 1 de Frágil el siguiente Escena.</AbilityDesc>
+      <FlaborText>De las montañas de los cuerpos; los muertos dieron vida a algo. Los muertos se fusionaron unos con otros, todos sonriendo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Krrrh… Ghh… Grgh…</Dialogue>
+        <Dialogue ID="2">Nos ayudamos… unos a otros… Compartimos… nuestras manos… y pies…</Dialogue>
+        <Dialogue ID="3">Todos… están sonriendo… nosotros… estamos felices…</Dialogue>
+        <Dialogue ID="4">Estamos… juntos… ayudando…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Mountain_Vomit">
+      <Abnormality>Montaña de Cuerpos Sonrientes</Abnormality>
+<CardName>Montaña de Cadáveres</CardName>
+<AbilityDesc>[Un Solo Aliado]
+Todos los bibliotecarios excepto el seleccionado mueren inmediatamente cuando se elige esta página.
+El bibliotecario seleccionado obtiene Maximo Capacidad de Luz, Luz Restaurado, Fuerza, Protección y Celeridad proporcionalmente al número de bibliotecarios muertos durante el resto de la batalla.</AbilityDesc>
+      <FlaborText>Cuantos más cuerpos encuentra, más definida se vuelve su forma. Y nunca se satisface.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Debe… debe convertirse en uno… de nuevo…</Dialogue>
+        <Dialogue ID="2">Debe regresar… Debe… darse prisa…</Dialogue>
+        <Dialogue ID="3">No… Esto es… no… bueno…</Dialogue>
+        <Dialogue ID="4">No te caigas… Júntate de nuevo… Somos uno…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Nosferatu_BloodHope">
+      <Abnormality>Nosferatu</Abnormality>
+      <CardName>Miedo al Agua</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al golpear, inflige 1 de Sangrado en la siguiente Escena y gana 1 de Sangre (EXcluye Ataques en Masa).
+Sangre otorga varios efectos dependiendo de su cantidad, como aumentar el daño de ataque a costa de HP, recibir daño de Aturdimiento al comienzo de la Escena y otorgar Fuerza.</AbilityDesc>
+      <FlaborText>Parecía perdido. Estaba buscando algo, pero no parecía saber lo que quería encontrar.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sangre… ¡Quiero sangre viva!</Dialogue>
+        <Dialogue ID="2">Una noche en la que uno puede perseguir todo tipo de deseos… Una noche interminable, roja como la sangre.</Dialogue>
+        <Dialogue ID="3">La sangre, en su forma más pura y clara. ¡Tráeme la felicidad eterna!</Dialogue>
+        <Dialogue ID="4">¡El Danse Macabre está con todos! ¡Todos y cada uno tienen una buena posibilidad de ser devorados!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Nosferatu_Wine">
+      <Abnormality>Nosferatu</Abnormality>
+      <CardName>Vino</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al derrotar a un enemigo con Sangrdo, todos los aliados recuperan 10 HP y el bibliotecario seleccionado obtiene el máximo de Sangre.</AbilityDesc>
+      <FlaborText>Mantiene una forma humana, pero una sola gota de sangre debería ser suficiente para que se convierta en un monstruo feroz y pase la noche en un alboroto.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ah… Contener el dolor de esta sed no es exactamente un espectáculo agradable para la vista.</Dialogue>
+        <Dialogue ID="2">Es demasiado temprano para una siesta… ¿No quieres unirte a mí y compartir el placer?</Dialogue>
+        <Dialogue ID="3">Abandona la falsa esperanza y olvídate de la pretensión de humanidad…</Dialogue>
+        <Dialogue ID="4">Tentado por una sed furiosa, el vaso se vacía.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="Nosferatu_Vampire">
+      <Abnormality>Nosferatu</Abnormality>
+      <CardName>Vampirismo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Inflige +2-4 de daño y recupera 2-5 HP al atacar a un objetivo con Sangrado (Excluye los Ataques Masivos).</AbilityDesc>
+      <FlaborText>…Y la sed nunca se saciaría verdaderamente.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¡La muerte baila macabramente con todo el mundo! ¡Todos ustedes tienen una oportunidad justa de ser consumidos!</Dialogue>
+        <Dialogue ID="2">¡Hora de una fiesta! ¡Disfruta de la noche roja como la sangre imbuida de locura al contenido de tu corazón!</Dialogue>
+        <Dialogue ID="3">¡No hay escapatoria de esta sed!</Dialogue>
+        <Dialogue ID="4">¡Mastícalo todo! ¡Bebe hasta la última gota!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="NothingThere_Goodbye">
+      <Abnormality>Nada Ahí</Abnormality>
+      <CardName>Adiós</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Duplica el Poder del último dado que el bibliotecario reproduce en cada Escena.</AbilityDesc>
+      <FlaborText>Si se ha confirmado que se ha escapado y se ha puesto en pie, solo hay una cosa que puede hacer. Enderece la postura, junte las manos con cuidado, ore a lo que sea en lo que crea y observe la situación a medida que se desarrolla.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Ayúda… me… ayúd… ¡¡¡AYÚDAME!!!</Dialogue>
+        <Dialogue ID="2">¿Hay alguien… lguien… allí? ¡¡¡ALGUIEN ALLÍ!!!</Dialogue>
+        <Dialogue ID="3">No… quie… N… no quiero… Yo no quiero morir…</Dialogue>
+        <Dialogue ID="4">Hola. Hol-a. Ho… la… hola.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NothingThere_Hello">
+      <Abnormality>Nada Ahí</Abnormality>
+      <CardName>¿Hola?</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cada Escena, el primer dado que juega el bibliotecario recupera HP igual a la cantidad de daño que infligió.</AbilityDesc>
+      <FlaborText>“Lo que es peor, trató de imitar a los humanos. Hacer cosas como mirarse en un espejo, murmurar para sí mismo o tratar de arreglar su estructura esquelética; es como si estuviera tratando de imitar a 'nosotros'."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Mon… struo. Ese… mons… truo… Ese monstruo… ¿por qué está aquí…</Dialogue>
+        <Dialogue ID="2">¡¡¡…er!!! ¡¡¡…ger!!! ¡Sálva… me!</Dialogue>
+        <Dialogue ID="3">E… Ese… horr… ible… monstruo… monstruo…</Dialogue>
+        <Dialogue ID="4">ol… la… ¿Hola? ola… ¿Hola?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="NothingThere_Skin">
+      <Abnormality>Nada Ahí</Abnormality>
+      <CardName>Caparazón</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Anula el daño entrante de Aturdimiento de los ataques.</AbilityDesc>
+      <FlaborText>Su apariencia se asemeja a la de un humano, pero ciertamente no es humano. Devora periódicamente a los empleados y usa su caparazón. El esqueleto y los órganos se extravían durante el proceso, por lo que adopta una forma extraña.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Amo… Am… Au… Te amo…</Dialogue>
+        <Dialogue ID="2">¿Quieres… un caparazón… caparazón…</Dialogue>
+        <Dialogue ID="3">Grac… ia s… Gracias. Gracias.</Dialogue>
+        <Dialogue ID="4">Genial…  Genial. Genial.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Chesed">
+    <AbnormalityCard ID="ScareCrow_Wisdom">
+      <Abnormality>Espantapájaros en Busca de Sabiduría</Abnormality>
+      <CardName>Sabiduría Arrancada</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Siempre que el bibliotecario use una página, descarte una página aleatoria de la mano y restaure 1 Luz. (Excluye las páginas [En Juego])</AbilityDesc>
+      <FlaborText>Cuando regresó, tenía una cicatriz visiblemente larga en la cabeza. La gente le preguntaba cómo se sentía y él respondía que sentía la cabeza más liviana.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sabiduría… Dame la sabiduría que me falta…</Dialogue>
+        <Dialogue ID="2">Mi cabeza está vacía… Soy solo un montón de heno desaliñado…</Dialogue>
+        <Dialogue ID="3">La gente suele hablar sin pensar… Podría hacer un mejor uso de esos cerebros…</Dialogue>
+        <Dialogue ID="4">Me pregunto cómo se siente ser sabio… Saber todo…</Dialogue>
+        <Dialogue ID="5">Estoy bien con separar la cabeza si puede mejorar una vez que vuelva a juntarse…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Scarecrow_Harvest">
+      <Abnormality>Espantapájaros en Busca de Sabiduría</Abnormality>
+      <CardName>Espigueo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de atacar a un enemigo con una mayor cantidad de Resistencia al Aturdimiento, inflige 2-4 daño adicional de Aturdimiento y recupera 2-5 de Resistencia al Aturdimiento (Excluye Ataques Masivos).</AbilityDesc>
+      <FlaborText>Muestra agresión hacia ciertos empleados, intentando tomar sus cerebros. Estos empleados son los que obtuvieron una calificación de "Excelente" en la prueba de inteligencia.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Me siento mucho más inteligente… Ahora puedo saber cualquier cosa…</Dialogue>
+        <Dialogue ID="2">Bien… Muy bien… Seré más inteligente cuanto más coma, ¿verdad…?</Dialogue>
+        <Dialogue ID="3">¿Me he vuelto más sabio…? Tal vez sea más que un montón de heno…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Scarecrow_Rake">
+      <Abnormality>Espantapájaros en Busca de Sabiduría</Abnormality>
+      <CardName>Rastrillo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de Aturdir a un enemigo, copia dos páginas de ese enemigo y agrégalas a la mano del bibliotecario con 2 de Costo menos.
+Las páginas copiadas se agotan con el uso.
+(Solo se pueden copiar páginas de Cuerpo a Cuerpo mientras se equipa una página clave solo de Cuerpo a Cuerpo, y viceversa; no tiene efecto contra personajes con 'Reluciente')</AbilityDesc>
+      <FlaborText>El rastrillo cultivó el cerebro humano en lugar de la tierra de cultivo. ¿Cuántos de los sabios entre nosotros han perdido la vida a causa de este rastrillo?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Voy a raspar tu sabiduría…</Dialogue>
+        <Dialogue ID="2">Quiero ser inteligente como los demás…</Dialogue>
+        <Dialogue ID="3">La sabiduría para seguir adelante… la quiero…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LumberJack_Cut">
+      <Abnormality>Leñador de Corazón Cálido</Abnormality>
+      <CardName>Un Corazon Cálido</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, aumenta el Poder de los dados Ofensivos en +1-2 para la Escena si el bibliotecario tiene 3 o más Luz.</AbilityDesc>
+      <FlaborText>Enfadado, atravesó con su hacha el corazón del mago. El corazón cálido latía vigorosamente.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Así es… cómo se siente tener un corazón palpitante…</Dialogue>
+        <Dialogue ID="2">Cuanto más fuerte hace eco el corazón… más rápido me muevo…</Dialogue>
+        <Dialogue ID="3">Cuanto más amable era el dueño del corazón… más cálido se ponía mi interior…</Dialogue>
+        <Dialogue ID="4">El corazón es una cosa peculiar… ahora puedo reírme…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LumberJack_Tree">
+      <Abnormality>Leñador de Corazón Cálido</Abnormality>
+      <CardName>Madera</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al atacar a un objetivo que tiene más Luz que el bibliotecario, los dados Ofensivos obtienen un Poder igual a la cantidad de Luz que tiene el objetivo. (Hasta 2)</AbilityDesc>
+      <FlaborText>Este es un bosque lleno de corazones. No importa cuántos tale, el bosque sigue siendo denso.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Corto y corto… Sin embargo, el bosque sigue siendo denso…</Dialogue>
+        <Dialogue ID="2">Quiero estar caliente… necesito algo más fuerte…</Dialogue>
+        <Dialogue ID="3">Metí todo lo que pude encontrar en este recipiente vacío… sin embargo… todavía está frío…</Dialogue>
+        <Dialogue ID="4">Para cortar más árboles, nunca dejé de afilar el hacha…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LumberJack_Heart">
+      <Abnormality>Leñador de Corazón Cálido</Abnormality>
+      <CardName>Cardia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de infligir 15 o más daños a los enemigos en una sola Escena, reduce el Costo de las dos páginas más caras en 1.
+Al matar, reduce el Costo a 0 en su lugar.
+La reducción de Costes se restablece cuando se utilizan las páginas.</AbilityDesc>
+      <FlaborText>Nunca habrá suficientes corazones. Una vez leñador, ahora tala personas en lugar de árboles.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Necesito un objeto… para llenar este vacío…</Dialogue>
+        <Dialogue ID="2">No quiero volver a sentir este sentimiento de vacío y soledad…</Dialogue>
+        <Dialogue ID="3">El corazón hecho de plomo… estaba rígido y frío.</Dialogue>
+        <Dialogue ID="4">Apreté mi pecho vacío y lamenté…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+   <AbnormalityCard ID="House_LionAtk">
+      <Abnormality>El Camino a Casa</Abnormality>
+      <CardName>Coraje</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, obtienes Fuerza y Protección igual a la cantidad de aliados actualmente vivos restados por 2. (Si el valor es menor que 0, se infligirán Débil y Frágil en su lugar.)</AbilityDesc>
+      <FlaborText>¿Puedo seguirte por siempre? Para poder destrozarlos…</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Amigo. ¡No tengo nada que temer cuando te tengo cerca!</Dialogue>
+        <Dialogue ID="2">Partimos con todos~ ¡Bailando por el camino!</Dialogue>
+        <Dialogue ID="3">Amigo. ¡Oh, amigos~! ¡No nos asustemos!</Dialogue>
+        <Dialogue ID="4">¡No hay nada que pueda detenernos!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="House_BigHouse">
+      <Abnormality>El Camino a Casa</Abnormality>
+      <CardName>Casa</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Al comienzo de la Escena, los objetivos numerados se colocan en hasta 3/2/2/1/1 enemigos, dependiendo de la cantidad de aliados vivos actualmente.
+Cada vez que un objetivo es atacado en el orden correcto, aumenta el daño saliente en 3 para la Escena.</AbilityDesc>
+      <FlaborText>Incapaces de volver a casa, comenzaron un viaje interminable.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¡No nos molestes! ¡Regresemos a casa en paz!</Dialogue>
+        <Dialogue ID="2">Ah~ ¡Ese mago! ¡Ese mago malvado!</Dialogue>
+        <Dialogue ID="3">¡El mago malo se llevó a mis amigos!</Dialogue>
+        <Dialogue ID="4">Amigos. Oh, amigos. ¿Podremos irnos a casa?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="House_Home">
+      <Abnormality>El Camino a Casa</Abnormality>
+      <CardName>Un Camino Recorrido Juntos</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Si un aliado redirige un ataque que inicialmente tenía como objetivo a este personaje, los dados en la página de ese aliado obtienen 1-2 de Poder en el choque.</AbilityDesc>
+      <FlaborText>Caminemos juntos. A una tierra maravillosa… El mundo de los sueños.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">I was sound asleep, then the adventure suddenly began.</Dialogue>
+        <Dialogue ID="2">Hoyoyo~ ¡Vamos, juntos~!</Dialogue>
+        <Dialogue ID="3">¡Saltemos a casa juntos!</Dialogue>
+        <Dialogue ID="4">Debe haber un hermoso país de las maravillas al final del camino…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Ozma_Boom">
+      <Abnormality>Ozma</Abnormality>
+      <CardName>Poder del Pasado</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Aumenta el Costo de las Páginas de Combate en 1.
+Todos los dados obtienen 3-4 de Poder.</AbilityDesc>
+      <FlaborText>Ozma sostuvo el cuchillo para trinchar calabazas, luego echó a correr hacia donde debería estar la maga.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Soy Ozma… Una sola persona me quitó todo…</Dialogue>
+        <Dialogue ID="2">No quiero seguir viviendo una vida de robo…</Dialogue>
+        <Dialogue ID="3">Quiero que lo sientas de todos modos… La miseria de olvidarlo todo… perderlo todo…</Dialogue>
+        <Dialogue ID="4">Yo seré el que quite las cosas esta vez…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Ozma_forgotten">
+      <Abnormality>Ozma</Abnormality>
+      <CardName>Olvido</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agrega una página de "Olvido" a la mano: "Coste 3 - [En juego;] [Agotado] Inmovilizado para esta Escena; no se puede ser seleccionado. Al final de esta Escena, recupera el 40% de Max. HP (hasta 48) y restaurar completamente la Luz."</AbilityDesc>
+      <FlaborText>Había una persona tan fina y hermosa, mirándola con una expresión perpleja.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Por qué confiaba tan ingenuamente en un extraño… Por qué…</Dialogue>
+        <Dialogue ID="2">Ni siquiera me he tocado la cara… tenía tanto miedo…</Dialogue>
+        <Dialogue ID="3">Mantenerme viva es todo lo que puedo hacer en una vida como esta…</Dialogue>
+        <Dialogue ID="4">Un ser olvidado atrapado en el subsuelo… ¿Por qué tenía que ser…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Ozma_Immortal">
+      <Abnormality>Ozma</Abnormality>
+      <CardName>Polvo de Vida</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Cuando un bibliotecario recibe daño letal, anúlalo y recupera el 20% de Max. HP (hasta 24). Solo se puede activar una vez por recepción.</AbilityDesc>
+      <FlaborText>Finalmente, espolvoreó canela en polvo, su favorita, y agarró la calabaza en sus brazos.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Todo lo que me queda ahora… son estos niños.</Dialogue>
+        <Dialogue ID="2">Toma, niña… te daré una nueva vida.</Dialogue>
+        <Dialogue ID="3">Vuelve a mí, así no estaré sola…</Dialogue>
+        <Dialogue ID="4">No… No me quites lo que es mío, no otra vez…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Oz_Emerald">
+      <Abnormality>El Adulto que Dice Mentiras</Abnormality>
+      <CardName>Esmeralda</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agrega una página "Esmeralda" a la mano: "Coste 5 - [En juego;] [Enemigo objetivo] Cancela 2 Páginas de Combate aleatorias en los dados de Velocidad del objetivo. Recupera 1 Luz por cada golpe exitoso en el objetivo de esta Escena (hasta 2)".
+La página también se incluye en el mazo al comienzo de los Actos posteriores.</AbilityDesc>
+      <FlaborText>Oz tuvo una idea brillante. Sus ojos esmeralda parecían brillar aún más.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Las carreteras de color esmeralda brillan como siempre.</Dialogue>
+        <Dialogue ID="2">Ella era una pobre, pobre niña… Sus ojos eran como los míos.</Dialogue>
+        <Dialogue ID="3">Sigue por este camino. Puede que encuentres lo que buscas.</Dialogue>
+        <Dialogue ID="4">Haré realidad tus deseos. ¿Qué deseas?</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Oz_Gift">
+      <Abnormality>El Adulto que Dice Mentiras</Abnormality>
+      <CardName>Regalo  Falso</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Agregue páginas de regalo falso de Costo 0 que se activan en el juego a la lista de páginas de E.G.O: 'Valor Líquido', 'Saco de Seda de Aserrín', 'Corazón de Plomo', 'Hogar que No se Puede Alcanzar' y 'Transformación'.
+Las páginas de regalos falsos también se agregan a la lista de páginas de E.G.O al comienzo de los Actos posteriores.</AbilityDesc>
+      <FlaborText>Pobre Ozma. No sabía que los adultos mentirosos no se acercan a los demás sin una razón.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Acércate. Te ayudaré a olvidar todas tus aflicciones y preocupaciones.</Dialogue>
+        <Dialogue ID="2">Eres una máquina, ¿no? Un corazón es innecesario para una máquina.</Dialogue>
+        <Dialogue ID="3">Bebe esta poción, te dará valor. Serás más valiente que nadie.</Dialogue>
+        <Dialogue ID="4">Use este par de zapatos y siga su camino. A la ciudad natal que tanto extrañas.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Oz_Control">
+      <Abnormality>El Adulto que Dice Mentiras</Abnormality>
+      <CardName>Truco de Magia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agregue una página de 'Truco de Magia' a mano: "Costo 4 - [En juego] Reduzca el Costo de todas las páginas disponibles a 0. Cuando se usan, su Costo se restablece al valor antes de que se aplicara este efecto."
+La página también se incluye en el mazo al comienzo de los Actos posteriores.</AbilityDesc>
+      <FlaborText>Pronto, Oz llegó a ser llamado mago por la gente.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Pobre relleno de paja. Te daré la sabiduría para reflexionar sobre cualquier cosa.</Dialogue>
+        <Dialogue ID="2">Leñador frío de hojalata. Te daré el corazón para perdonar y amar a cualquiera.</Dialogue>
+        <Dialogue ID="3">Gatito cobarde. Te daré el coraje para enfrentarte a cualquier cosa y a todo.</Dialogue>
+        <Dialogue ID="4">Por último, camino perdido. Te enviaré a casa.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Binah">/*HERE*/
+    <AbnormalityCard ID="Bigbird_Eye">
+      <Abnormality>Gran Ave</Abnormality>
+      <CardName>Ojos Vigilantes</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Restaura completamente la Luz del bibliotecario seleccionada.
+En cada Escena, un aliado aleatorio no obtiene Luz mientras que el bibliotecario seleccionado restaura 1 Luz adicional.</AbilityDesc>
+<FlaborText>Los ojos siempre brillaban intensamente, ardiendo como estrellas en el cielo nocturno. Pero le dio sus ojos a Gran Ave para proteger el bosque.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Por cada criatura del bosque que salvé, mis ojos ganaron otra en número.</Dialogue>
+        <Dialogue ID="2">Necesito ojos que puedan comprobar los alrededores a fondo para mantener este lugar seguro.</Dialogue>
+        <Dialogue ID="3">No echaré de menos a la criatura más pequeña…</Dialogue>
+        <Dialogue ID="4">No tienes que preocuparte. Te mantendré a salvo…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Bigbird_Lamp">
+      <Abnormality>Gran Ave</Abnormality>
+      <CardName>Lámpara Eternamente Encendida</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cualquier enemigo que este bibliotecario tenga como objetivo se verá obligado a apuntar al bibliotecario, independientemente de la Velocidad.</AbilityDesc>
+      <FlaborText>"¡Si primero mato a las criaturas, la bestia no matará a nadie!"</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Siga esta lámpara. Los salvaré a todos.</Dialogue>
+        <Dialogue ID="2">Renunciando a mis plumas… gané una luz que ardería para siempre.</Dialogue>
+        <Dialogue ID="3">Ven aquí. Deja que te ayude.</Dialogue>
+        <Dialogue ID="4">Iluminemos el camino por delante, para que pueda tener una buena visión de las vidas que debo salvar.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Bigbird_Save">
+      <Abnormality>Gran Ave</Abnormality>
+      <CardName>Salvación</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Todos los dados obtienen +1 de Poder contra enemigos con mayor Velocidad.
+Si el HP del objetivo es del 25% o menos, destruye todos sus dados al ganar un enfrentamiento.</AbilityDesc>
+      <FlaborText>Para este ave, la muerte en sí misma es la salvación.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Si los mato primero, ¡nadie sería asesinado por la bestia!</Dialogue>
+        <Dialogue ID="2">¡Un monstruo grande y aterrador vive en este bosque! Ten cuidado.</Dialogue>
+        <Dialogue ID="3">Un niño en peligro necesita mi protección.</Dialogue>
+        <Dialogue ID="4">Para los débiles e impotentes… debería tomar la iniciativa.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SmallBird_Punishment">
+      <Abnormality>Ave Castigador</Abnormality>
+      <CardName>Castigo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de recibir daño, el primer dado de la primera página que usa el bibliotecario en la siguiente Escena gana 2-4 de Poder. (Excluye páginas [En Juego])</AbilityDesc>
+      <FlaborText>“Debe ser porque no hay nadie que castigue a la gente por sus fechorías. Si alguien asume ese papel, ¡no volverá a ocurrir ningún acto vil en este mundo!"</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Si los castigo, entonces no habrá más gente mala, ¿verdad?</Dialogue>
+        <Dialogue ID="2">No tiene sentido perdonar. Una fechoría es una fechoría.</Dialogue>
+        <Dialogue ID="3">¡Eso es! Tiene que ser porque no hay nadie que castigue a todos los malos del mundo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="SmallBird_Beak">
+      <Abnormality>Ave Castigador</Abnormality>
+      <CardName>Pico Castigador</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los ataques del bibliotecario infligen daño adicional igual al número de Escenas que pasan sin que el bibliotecario reciba daño de los ataques. (Máx. 10)</AbilityDesc>
+      <FlaborText>La gente ha estado cometiendo pecados desde hace mucho tiempo. "¿Por qué cometen pecados sabiendo que está mal?"</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Por qué cometen pecados cuando saben que está mal?</Dialogue>
+        <Dialogue ID="2">Les daré una buena reprimenda, para que ni siquiera vuelvan a pensar en cometer fechorías.</Dialogue>
+        <Dialogue ID="3">¡No hagas cosas malas a partir de ahora!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Smallbird_Fly">
+      <Abnormality>Ave Castigador</Abnormality>
+      <CardName>Pequeños Aleteos</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Los dados de Evadir ganan 1-2 de Poder.
+Al ganar un enfrentamiento usando los dados de Evasión, el siguiente dado de Ofensiva gana 1-2 de Poder.</AbilityDesc>
+      <FlaborText>Un pájaro pequeño y confiado que castiga a los malvados, culpables y todo tipo de personas irreverentes.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Dejé el bosque y nunca volví.</Dialogue>
+        <Dialogue ID="2">Volemos alto. Esperemos que el mundo cambie para mejor.</Dialogue>
+        <Dialogue ID="3">¡Mis aleteos pueden ser lo que se necesita para cambiar el mundo!</Dialogue>
+        <Dialogue ID="4">Con entusiasmo, batí mis alas afanosamente.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LongBird_Sin">
+      <Abnormality>Ave del Juicio</Abnormality>
+      <CardName>El Peso del Pecado</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Siempre que un dado que juegue este bibliotecario arroje el valor mínimo, recibe 2-7 de daño y gana 1-2 de Fuerza y Aguante en la siguiente Escena.</AbilityDesc>
+      <FlaborText>Su escala nunca descuidaría el peso del más mínimo pecado.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Es hora de pesar tus pecados.</Dialogue>
+        <Dialogue ID="2">No descuidaré el peso de ningún pecado.</Dialogue>
+        <Dialogue ID="3">El peso de tus pecados determinará el peso de tu castigo.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+   <AbnormalityCard ID="LongBird_Scale">
+      <Abnormality>Ave del Juicio</Abnormality>
+      <CardName>Escala Inclinada</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Después de atacar al enemigo con más HP, recupera los HP del aliado con menos HP en 2-8. (3 veces por Escena, Excluye Ataques Masivos)</AbilityDesc>
+      <FlaborText>Todo lo que queda es la escala injusta. El pájaro largo continúa, repartiendo juicio.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Esta escala siempre arroja un veredicto claro; Puedo emitir un juicio sólido y preciso con él.</Dialogue>
+        <Dialogue ID="2">Mis opiniones subjetivas pueden afectar el juicio justo.</Dialogue>
+        <Dialogue ID="3">¿Qué pasa si la balanza no se inclina en ninguna dirección algún día…? No puedo permitir que eso suceda.</Dialogue>
+        <Dialogue ID="4">Mi balanza no dejará de funcionar hasta el día en que desaparezcan todos los seres malignos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="LongBird_Judgement">
+      <Abnormality>Ave del Juicio</Abnormality>
+      <CardName>Juicio</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, todos los personajes obtienen 1 Pecado con un 50% de probabilidad.
+Si un personaje tiene 5+ Pecado, recibe un daño equivalente al 10% de su Max. HP al comienzo de la Escena, y todo el pecado se les quita.
+El Pecado se puede transferir a otro personaje atacándolo y dañándolo. (Una vez por página)</AbilityDesc>
+      <FlaborText>Entonces alguien dijo: "¿Pero qué pasa si la balanza no se inclina en ninguna dirección algún día?" Preocupado, Long Bird hizo una escala que siempre se inclinaba hacia un lado. De esa forma, cada juicio arrojaría un veredicto claro.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Cuando levanto esta balanza, deseo la inmortalidad para los culpables.</Dialogue>
+        <Dialogue ID="2">Emitiré un juicio justo sobre todos, señalando las fechorías…</Dialogue>
+        <Dialogue ID="3">Para proteger el bosque, levantaré la balanza. El juicio eterno les será entregado.</Dialogue>
+        <Dialogue ID="4">Para juzgar a todas las bestias que viven en este bosque…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <!-- Gee Apocalypse Bird, how come Binah lets you have SIX cards? -->
+    <AbnormalityCard ID="ApocalypseBird_BigEye">
+      <Abnormality>Ave del Apocalipsis</Abnormality>
+      <CardName>Ojos Grandes</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Al comienzo de la Escena, inflige "Encantado" a todos los enemigos.
+Los enemigos Encantados dan prioridad a este bibliotecario como objetivo e infligen +2-4 de daño con los ataques.
+Gana 1-2 de Poder en choque contra enemigos Encantados, y recupera 2-5 HP y Resistencia al Aturdimiento al ganar un choque.</AbilityDesc>
+      <FlaborText>Los ojos del Gran Ave aprisionaron la luz.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">La luz brillante está atrapada.</Dialogue>
+        <Dialogue ID="2">Seamos libres antes de que tengamos que enfrentar ese miedo…</Dialogue>
+        <Dialogue ID="3">Con un simple acto te daré un descanso permanente y confortable…</Dialogue>
+        <Dialogue ID="4">Tengo que estar atento, cuidado con los intrusos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ApocalypseBird_SmallPeak">
+      <Abnormality>Ave del Apocalipsis</Abnormality>
+      <CardName>Pico Pequeño</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agregue una página 'Pico Pequeño' a la mano: "Coste 0 - [En Juego;] [Regresa a la Mano] Tome el 5% de Max. HP como daño; restaurar 1 Luz".</AbilityDesc>
+      <FlaborText>Y el pico del Pajarito susurraba, interminablemente…</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Susurro, sin cesar…</Dialogue>
+        <Dialogue ID="2">Somos castigados por nuestros pecados, pero está claro que aún más brotarán de las raíces del pecado.</Dialogue>
+        <Dialogue ID="3">Por tanto, el castigo debe desarraigar el pecado…</Dialogue>
+        <Dialogue ID="4">Debería castigarlos con mi pico pequeño pero duro.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+        <AbnormalityCard ID="ApocalypseBird_LongArm">
+      <Abnormality>Ave del Apocalipsis</Abnormality>
+      <CardName>Brazos Largos</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+No sufras daño por ciertas dolencias de estado (Quemadura, Sangrado, Hada, Pecado).</AbilityDesc>
+      <FlaborText>Los brazos del Ave Larga ocultaban el tiempo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Me escondo el tiempo.</Dialogue>
+        <Dialogue ID="2">Te condeno, pero seguirás cometiendo más pecados sin fin…</Dialogue>
+        <Dialogue ID="3">Nunca habrá un día en que esta balanza de justicia no se incline…</Dialogue>
+        <Dialogue ID="4">Mi justa escala determinará quién es más malvado.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="ApocalypseBird_Apocalypse">
+      <Abnormality>Ave del Apocalipsis</Abnormality>
+      <CardName>La Bestia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Se activa cuando el bibliotecario seleccionado posee todas las siguientes páginas de Anomalías: 'Ojos Grandes', 'Pico Pequeño', 'Brazos Largos'.
+Todos los dados de los personajes que tengan como objetivo o sean los objetivos de este personaje no se ven afectados por la ganancia o pérdida de Poder, y sus valores mínimo y máximo se reducen en 3.
+Al final de la Escena, todos los demás personajes reciben 15 de daño y este personaje restaura completamente la Luz.</AbilityDesc>
+      <FlaborText>El día en que los ojos de Gran Ave que podían ver a cientos de kilómetros de distancia, Ave Larga que podía juzgar cualquier pecado y la boca de Pequeña Ave que podía devorar todo unido en uno, la oscuridad cayó sobre el bosque.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No puedo permitir que el mal me quite todas estas cosas preciosas.</Dialogue>
+        <Dialogue ID="2">Si pudiera devorar todo lo que me rodea…</Dialogue>
+        <Dialogue ID="3">Hemos unido fuerzas para proteger a más personas.</Dialogue>
+        <Dialogue ID="4">Tengo que darme prisa y encontrarlos. No puedo permitir que la bestia destruya este lugar…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+    <AbnormalityCard ID="ApocalypseBird_Gate">
+      <Abnormality>Ave del Apocalipsis</Abnormality>
+      <CardName>Guardianes del Bosque</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Todos los bibliotecarios obtienen 1 Celeridad al comienzo de cada Escena durante la recepción.
+Si los cinco bibliotecarios tienen cada uno una página de Anormalidad, obtén además 1-2 de Fuerza y Aguante.</AbilityDesc>
+      <FlaborText>Fue entonces cuando los pájaros decidieron convertirse en los guardianes del bosque. Amaban este bosque más que nadie, por lo que querían proteger a las criaturas que vivían en el bosque y mantener la paz.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Para proteger este lugar que amamos más que a nadie.</Dialogue>
+        <Dialogue ID="2">Esperamos un mundo donde las vidas lamentables puedan vivir cómodamente.</Dialogue>
+        <Dialogue ID="3">Somos los únicos que podemos proteger este lugar.</Dialogue>
+        <Dialogue ID="4">En cambio, deberíamos convertirnos en guardianes y salvar vidas.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+<AbnormalityCard ID="ApocalypseBird_Atk">
+      <Abnormality>Ave del Apocalipsis</Abnormality>
+      <CardName>Paz</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cuando no hay un 'Intruso' presente, el primer enemigo que el bibliotecario seleccionado ataca se marca como un 'Intruso' (Excluye los Ataques Masivos).
+Todos los ataques del Intruso causan 2-4 menos daño físico y de Aturdimiento; Además, el Intruso recibe 1-2 de daño adicional de los ataques.</AbilityDesc>
+      <FlaborText>El pájaro comenzó a merodear por el bosque, buscando a la bestia. Pero no hubo nada. No había criaturas, ni sol ni luna, ni bestias. Todo lo que quedaba era solo un pájaro y el Bosque Negro.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Aquellos que soporten el miedo alcanzarán la paz…</Dialogue>
+        <Dialogue ID="2">Nada se atreverá a hacerte daño.</Dialogue>
+        <Dialogue ID="3">Cuando llegues al final, el miedo no existirá…</Dialogue>
+        <Dialogue ID="4">La paz y la tranquilidad han vuelto al bosque.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="Hokma">/*Here*/
+    <AbnormalityCard ID="Bloodytree_Wing">
+      <Abnormality>Madriguera del Cielo</Abnormality>
+      <CardName>Inclinar,Alas Ensangrentadas</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+En un desvío, inflige la mitad de la tirada de dados del Bloque como daño físico al oponente.</AbilityDesc>
+      <FlaborText>Una vez que reconozca que perdió su atención y enfoque… extenderá sus alas. Como un ángel, sus alas alcanzarán los cielos y se extenderán hacia el suelo, bloqueando eventualmente el sol.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Disfrutando de la mirada y la atención de todos… Finalmente llegará a buen término y extenderá sus alas.</Dialogue>
+        <Dialogue ID="2">El que extendió sus alas sacrificó todo lo que tenía, y sin embargo…</Dialogue>
+        <Dialogue ID="3">Si volvemos a abrir los ojos, ¿veremos el fruto de nuestro trabajo en esa mirada?</Dialogue>
+        <Dialogue ID="4">No vengas aquí… No hay nada más que un árbol espinoso; no es un lugar para descansar…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Bloodytree_Gaze">
+      <Abnormality>Madriguera del Cielo</Abnormality>
+      <CardName>Mirada de Otros</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Inflige +2-4 de daño en un ataque unilateral.
+En un choque, inflige 3-6 menos de daño con los ataques, pero los dados de Bloque obtienen 1-3 de Poder.</AbilityDesc>
+      <FlaborText>Eso es lo que es una mirada. Atención. Una cuerda invisible que nos conecta. Enfoque único.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Sólo cierra los ojos. Así es, lo estás haciendo bien…</Dialogue>
+        <Dialogue ID="2">Si no puede verlo, no podrá alcanzarlo.</Dialogue>
+        <Dialogue ID="3">El deseo por lo inalcanzable solo se hará más grande. Y perseguirlo… es recorrer un camino plagado de espinas.</Dialogue>
+        <Dialogue ID="4">Una vez que esté en tu conocimiento… Regresará a este subterráneo profundo, oscuro…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Bloodytree_Forcus">
+      <Abnormality>Madriguera del Cielo</Abnormality>
+      <CardName>Atención y Enfoque</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Inflige y recibe el doble de daño de Aturdimiento en un desvío.</AbilityDesc>
+      <FlaborText>No apartes la mirada, solo mantén tus ojos en él. Conténgalo en su vista.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">No se inmutará ante esta impresionante vista.</Dialogue>
+        <Dialogue ID="2">Sigue mirándolo… Constantemente… Está vivo, mirándote a cambio, ¿no es así?</Dialogue>
+        <Dialogue ID="3">Conténgalo en su vista…</Dialogue>
+        <Dialogue ID="4">Tú me miras… y yo te miro…</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="Clock_Time">
+      <Abnormality>El Precio del Silencio</Abnormality>
+      <CardName>Tiempo</CardName>
+      <AbilityDesc>[Todos los Aliados]
+El jugador tiene 30 segundos para seleccionar Páginas de Combate antes de que comience la fase de combate en cada Escena.
+Aumenta el Poder de todos los dados de todos los bibliotecarios en 1-2.</AbilityDesc>
+      <FlaborText>El tiempo fluye como lo hace la vida y la vida lo hace como lo hace el tiempo.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Que uno no tenga suficiente tiempo es una queja inútil.</Dialogue>
+        <Dialogue ID="2">El mañana puede llegar o no.</Dialogue>
+        <Dialogue ID="3">Se le dará más tiempo del que ha perdido.</Dialogue>
+        <Dialogue ID="4">El tiempo se les da a todos por igual, pero el destino lo hace injusto.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Clock_Thirteen">
+      <Abnormality>El Precio del Silencio</Abnormality>
+      <CardName>El Decimotercer Tañe</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Cada 13er Página de Combate que juega el bibliotecario gana 1-2 de Poder. (Excluye páginas [En Juego])
+Los dados de la página también obtienen el siguiente efecto: "[Al Golpear] Inflige daño adicional igual al (Valor de los dados)% del HP máximo del objetivo".</AbilityDesc>
+      <FlaborText>Sé de absoluta soledad. Compartí mi silencio y ahora acepto su precio. Una vez que llegue el momento y llegue el propietario original, se pagará el precio.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Escuché esa campana desastrosa una vez más.</Dialogue>
+        <Dialogue ID="2">Cuando sonó la campana, un grito rompió el silencio por fin…</Dialogue>
+        <Dialogue ID="3">Las campanas tañen por última vez, en un momento que parecía no llegar nunca.</Dialogue>
+        <Dialogue ID="4">Di mi silencio y ahora tomo su precio.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Clock_Kill">
+      <Abnormality>El Precio del Silencio</Abnormality>
+      <CardName>Silencio</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agrega una página "Silencio" a la mano: "Costo 0 - [En Juego] Toma el 15% de Max. HP como daño; todos los demás personajes pierden 5 de Velocidad”.
+Agrega una página "Amplificar" a la mano: "Costo 0 - [En Juego] Toma el 10% de Max. HP como daño; Gana 5 de Velocidad”.</AbilityDesc>
+      <FlaborText>Rara vez siento como si el tiempo se hubiera detenido. A veces me sobrevienen breves momentos de silencio.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">El silencio no siempre trae paz.</Dialogue>
+        <Dialogue ID="2">Un instante de silencio, como si el tiempo se hubiera detenido.</Dialogue>
+        <Dialogue ID="3">Cuando el tiempo se detiene, cae el silencio. En cierto modo, son lo mismo.</Dialogue>
+        <Dialogue ID="4">Incluso cuando todo se haya detenido, el alma no perecerá.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="BlueStar_martyrdom">
+      <Abnormality>Estrella Azul</Abnormality>
+      <CardName>Mártir</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agregue una página de 'Mártir' a la mano: "Costo 0 - [En Juego] Para esta Escena, inflige 4-6 daño adicional de Aturdimiento con ataques, pero recibe 1-3 daños después de un ataque exitoso."</AbilityDesc>
+      <FlaborText>Encontrémonos de nuevo como estrellas.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Disfrutemos juntos de la felicidad eterna al final de este universo.</Dialogue>
+        <Dialogue ID="2">La vida no puede resistir los instintos; todos volveremos a ese lugar algún día.</Dialogue>
+        <Dialogue ID="3">No nos estamos muriendo. Simplemente volvemos a donde pertenecemos.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="BlueStar_Atonement">
+      <Abnormality>Estrella Azul</Abnormality>
+      <CardName>Penitencia</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Si algún personaje está Aturdido al comienzo de la Escena, recibe de 3 a 7 puntos de daño y todos los aliados obtienen 1 de Fuerza para la Escena. (Varios personajes Aturdidos no dan más fuerza)</AbilityDesc>
+      <FlaborText>Nuestra Estrella Azul es el único santuario que nos acepta. Allí seremos limpiados de nuestros pecados.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Quitemos por completo esta cáscara sucia y brillemos intensamente.</Dialogue>
+        <Dialogue ID="2">No deberíamos dejar que su ansiedad se propague dentro de nosotros, rompiéndonos tratando de olvidar nuestras malas acciones borrándolas.</Dialogue>
+        <Dialogue ID="3">Eventualmente todos regresaremos a ese lugar y nos limpiaremos de todo pecado allí.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="BlueStar_Melody">
+      <Abnormality>Estrella Azul</Abnormality>
+      <CardName>Un Sonido Nostálgico</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Todos los aliados infligen +2-4 de daño de Aturdimiento para esta Escena. El efecto de esta página se activa cada 3 Escenas posteriormente.</AbilityDesc>
+      <FlaborText>El ascenso de una estrella es un nuevo comienzo. ¿No oyes el eterno sonido de la trompeta?</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">¿Puedes oír este sonido? ¿El eco nostálgico que hemos estado buscando ansiosamente?</Dialogue>
+        <Dialogue ID="2">Aah… ¡Por fin…! ¡Por fin nos está llamando!</Dialogue>
+        <Dialogue ID="3">¡Ese llamado nos está guiando hacia el único lugar que nos aceptará…!</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="WhiteNight_Bless">/*Here*/
+      <Abnormality>Noche Blanca</Abnormality>
+      <CardName>Bautismo</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Agregue una página de 'Bautismo' a mano: "Costo 2 - [En Juego;] [Regresa a la Mano] El objetivo recupera 6 HP y gana 1 Aguante en esta Escena (Una vez por Escena)".</AbilityDesc>
+      <FlaborText>"Yo te sanaré y te curaré de todas las enfermedades y heridas que poseas."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Estoy aquí para tratar enfermedades.</Dialogue>
+        <Dialogue ID="2">Confía en mí. Soy el único que puede ayudarte.</Dialogue>
+        <Dialogue ID="3">¿Por qué no has tratado esa cicatriz?</Dialogue>
+        <Dialogue ID="4">Yo te curaré y te curaré de todas las enfermedades y heridas que poseas.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+        <AbnormalityCard ID="WhiteNight_Red">
+      <Abnormality>Noche Blanca</Abnormality>
+      <CardName>Adviento</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Mientras dure la recepción, restaure 1 Luz adicional al comienzo de la Escena.
+Si el bibliotecario seleccionado también tiene la página de Anomalías "Bautismo", su efecto se mejora: "El objetivo recupera 12 HP y gana 2 de Aguante en esta Escena".</AbilityDesc>
+      <FlaborText>“Yo soy vida y muerte. Oscuridad y luz."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Vosotros que estáis empapados en pecado. Levántate y enfréntame.</Dialogue>
+        <Dialogue ID="2">No me he manifestado de tal forma para juzgar.</Dialogue>
+        <Dialogue ID="3">Deshaceré las restricciones que te han aprisionado en este lugar y te llevaré al paraíso que da la bienvenida a todos.</Dialogue>
+        <Dialogue ID="4">Estaré contigo mientras te libero del miedo a una muerte espantosa.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="WhiteNight_Confess">
+      <Abnormality>Noche Blanca</Abnormality>
+      <CardName>Confesión</CardName>
+      <AbilityDesc>[Todos los Aliados]
+Recupera por completo la Resistencia al Aturdimiento y purga todas las dolencias de estado. (También se aplica a bibliotecarios Aturdidos)
+Mientras dure la recepción, recibe 2 puntos de daño menos de Aturdimiento de los ataques.</AbilityDesc>
+      <FlaborText>Estar dispuesto a soportar el dolor es la mitad de la expiación.</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">…</Dialogue>
+        <Dialogue ID="2">… …</Dialogue>
+        <Dialogue ID="3">… … …</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="WhiteNight_Guard">
+      <Abnormality>Noche Blanca</Abnormality>
+      <CardName>Centinela</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Mientras haya otros aliados a los que se pueda atacar, el bibliotecario seleccionado no será blanco de ataques.
+Si este personaje está vivo al final de la recepción, resuelve un libro adicional por cada invitado derrotado.</AbilityDesc>
+      <FlaborText>“Tú eres Su Hijo; tú eres el Rey."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Vosotros que estáis llenos de bendiciones, regocijaos. Porque yo estoy contigo.</Dialogue>
+        <Dialogue ID="2">Te guiaré al paraíso que da la bienvenida a todos.</Dialogue>
+        <Dialogue ID="3">Estaré contigo mientras te libero del miedo a una muerte espantosa.</Dialogue>
+        <Dialogue ID="4">Disfrutaremos de la fortuna de estar juntos para siempre, y nadie se irá.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="WhiteNight_White">
+      <Abnormality>Noche Blanca</Abnormality>
+      <CardName>Poder Divino</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Mientras este personaje esté vivo, todos los demás aliados obtienen 2 de Protección en cada Escena.
+Si este personaje ha usado la página E.G.O de Noche Blanca, los aliados también absorben instancias de 3 o menos daños.</AbilityDesc>
+      <FlaborText>“No tengas miedo. Yo soy tu salvador y estaré contigo."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Estar a gusto. Ninguna calamidad podrá perturbarte.</Dialogue>
+        <Dialogue ID="2">Obtendrás un cuerpo libre de tal corrupción, entonces, ¿cómo podría uno negar que esto es salvación?</Dialogue>
+        <Dialogue ID="3">Cree en mí y siempre estarás fuera de la oscuridad.</Dialogue>
+        <Dialogue ID="4">Seréis venerados, porque soy divino.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="WhiteNight_Apostle">
+      <Abnormality>Noche Blanca</Abnormality>
+      <CardName>Apóstoles</CardName>
+      <AbilityDesc>[Un Solo Aliado]
+Mientras este personaje está vivo, todos los demás aliados infligen +2-7 de daño con los ataques.
+Si el personaje ha usado 'Bautismo' 12 o más veces esta recepción, los aliados también obtienen +1 de Poder.</AbilityDesc>
+      <FlaborText>“¿No os he escogido a vosotros los doce? Ahora levántense, mis sirvientes. Levántate y sírveme."</FlaborText>
+      <Dialogues>
+        <Dialogue ID="1">Busque la paz y la santidad. Sin estos, no me mirarás.</Dialogue>
+        <Dialogue ID="2">Aquellos que perseveren hasta el final podrán seguir adelante.</Dialogue>
+        <Dialogue ID="3">Acepta mi gracia y enterraré tus errores en el pasado.</Dialogue>
+        <Dialogue ID="4">Obedéceme y disfruta de la vida eterna y la alegría.</Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+
+
+  <Sephirah SephirahType="None">
+    <AbnormalityCard ID="Enemy_Fight">
+      <Abnormality></Abnormality>
+      <CardName>???</CardName>
+      <AbilityDesc>Al comienzo de la Escena, obtienes 1 de Fuerza.</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Enemy_Gloom">
+      <Abnormality></Abnormality>
+      <CardName>???</CardName>
+      <AbilityDesc>Al comienzo de la Escena, gana 1 Débil y 2 de Aguante.</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Enemy_Friend">
+      <Abnormality></Abnormality>
+      <CardName>? ? ?</CardName>
+      <AbilityDesc>Cuando otro aliado es atacado, gana 1 de Fuerza en la siguiente Escena (Dos veces por Escena)</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+
+    <AbnormalityCard ID="Enemy_Bind">
+      <Abnormality></Abnormality>
+      <CardName>? ? ?</CardName>
+      <AbilityDesc>Al comienzo de la Escena, obtienes 1 de Aguante.</AbilityDesc>
+      <FlaborText></FlaborText>
+      <Dialogues>
+        <Dialogue ID="1"></Dialogue>
+      </Dialogues>
+    </AbnormalityCard>
+  </Sephirah>
+</AbnormalityCardsRoot>

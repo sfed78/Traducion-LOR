@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- elena -->
+  <BattleCardAbility ID="elenaStartBuf">
+    <Desc>[Inicio de Combate] Si el objetivo es la Cruz Vermilion, dale 3 de Fuerza y Protección</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaAtkBuf">
+    <Desc>[Al Golpear] Otorga 3 de Fuerza y Aguante a todos los demás aliados</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaMinionStrong">
+    <Desc>Todos los dados de Velocidad del personaje pierden 3 de Velocidad mientras esta página está en uso</Desc>
+    <Desc>Si esta página golpea a un enemigo, úsala de nuevo en otro enemigo aleatorio. (No vuelve a apuntar a los enemigos ya golpeados)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="elenaMinionDefense">
+    <Desc>Si queda algún dado de Contraataque de esta página al final de la Escena, Elena se vuelve no seleccionable para la siguiente Escena.</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="powerUp2">
+    <Desc>[En Uso] Todos los dados en esta página ganan +2 de Poder</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="elenaAreaDice">
+    <Desc>[Al Golpear] Recupera HP igual a la cantidad de daño infligido</Desc>
+  </BattleCardAbility>
+</BattleCardAbilityDescRoot>

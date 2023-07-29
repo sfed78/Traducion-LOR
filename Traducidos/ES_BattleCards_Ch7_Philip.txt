@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703111">
+      <LocalizedName>Ocaso Menguante</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703112">
+      <LocalizedName>Emociones Conflictivas</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Ganar Choque] Infligir 1 de Quemadura el uno al otro</Behaviour>
+      <Behaviour ID="1">[Al Ganar Choque] Infligir 1 de Quemadura el uno al otro</Behaviour>
+      <Behaviour ID="3">[Al Ganar Choque] Infligir 1 de Quemadura el uno al otro</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703113">
+      <LocalizedName>Estigmatizar Desesperadamente</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Gana 3 Monedas de Emociones Negativas</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Gana 3 Monedas de Emociones Negativas</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703114">
+      <LocalizedName>Resolución Abrasadora</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 2 de Quemaduras</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 1 de Quemaduras</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703115">
+      <LocalizedName>Espíritu Feroz</LocalizedName>
+      <Ability>[Inicio de Combate] Al infligir Quemadura en la siguiente Escena, inflige 2 acumulaciones más; Gana 2 de Fuerza en la siguiente Escena</Ability>
+      <Behaviour ID="0">[Al Ganar Choque] Infligir 1 de Quemadura el uno al otro</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 1 de Quemadura</Behaviour>
+      <Behaviour ID="2">[Al Golpear] Inflige 1 de Quemadura</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703116">
+      <LocalizedName>Coraje Ardiente</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Si el objetivo tiene 10 o más Quemaduras, inflige 1 de Quemadura a todos los personajes</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Si el objetivo tiene 10 o más Quemaduras, inflige 1 de Quemadura a todos los personajes</Behaviour>
+      <Behaviour ID="2">[Al Golpear] Si el objetivo tiene 10 o más Quemaduras, inflige 1 de Quemadura a todos los personajes</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703117">
+      <LocalizedName>Contener</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al Golpear] Inflige 2 de Débil, Desarma y Atadura la siguiente Escena</Behaviour>
+      <Behaviour ID="2">[Al Ganar Choque] Infligir 1 de Quemadura el uno al otro</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703118">
+      <LocalizedName>Herida de Pena</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703119">
+      <LocalizedName>Golpe Reavivado</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 5 de Quemadura</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703110">
+      <LocalizedName>Desesperación Abrasadora</LocalizedName>
+      <Behaviour ID="1">[Al Golpear] Inflige 3 de Quemadura</Behaviour>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703121">
+      <LocalizedName>Murmullo</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1"></Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703122">
+      <LocalizedName>Golpe de Ala</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al Golpear] Inflige 1 de Débil siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703123">
+      <LocalizedName>Victimizar</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 1 de Desarme en la siguiente Escena</Behaviour>
+      <Behaviour ID="2">[Al Golpear] Inflige 1 de Débil siguiente Escena</Behaviour>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

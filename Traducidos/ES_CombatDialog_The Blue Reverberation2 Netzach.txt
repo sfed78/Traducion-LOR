@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>The Blue Reverberation2 Netzach</GroupName>
+  <Character ID="N_B_Bremen">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Woof woof! Cockadoodledoo~ Heehaw~!!</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Cluck… BAWBAWK~!!</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eeyore.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Bawk… Bawk…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Arf!</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Ruff roof ruff!! GROWL RUFF RUFF!!!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">BAWK~!! BOWWOW!!!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">NEIIIIGH~!!!</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="N_B_Netzach">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Si... Aun no lo sabemos, si no lo intentamos.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Esto... No soy tan fanatico de eso.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">...Yo esta vez, no pude ayudar mucho.</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Parece ser que las cosas se están poniendo algo riesgosas... Debemos ponernos un poco serios chicos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">La gente pelea apasionadamente, porque desean vivir...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¡Ya no escapare más!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Nuestra perspectiva... No parece tan buena.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Me estoy acostumbrando que pasen este tipo de cosas ahora...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Agh... No están en la mente correcta en lo absoluto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Parece que el ruido del fondo, está empenzando a pagarse...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Mantegamos la frente en alto...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="N_B_Librarian_1">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Bueno. Nada nos que no lo podamos encarganos de esto.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Netzach... ¿Los otros pisos estarán bien?.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Estaremos mal, si esto sigue así…</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Vamos a estar bien no...?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Aun tengo una buena oportunidad para llegar a lo mas alto</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">...Nos están poniendo a la defensiva.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Me tengo que encargame del resto.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sí seguimos así, no nos sera imposible.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Creo que ya me estoy teniendo una idea en que hacer.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="N_B_Librarian_2">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Oye, Mi chico Netzach. ¿Crees que estaremos bien...?  </BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Estoy alegre que nos pudimos encargar de esto.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">¿Estaran bien sin mi...?</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esto no se ve bien...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Supongo que el retiro no es una opción...</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Todos... parecen estar agotados.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Bien... les di en el punto justo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Los de que están alado no parecen estar bien...</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Cualquier persona querría acabar con esta mierda lo antes posible...</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="N_B_Librarian_3">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Vaya, tiene tres cabezas...</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Fue bastante díficil... Su poder no es para nada de un pulgar.</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">De verdad, son unos moustros...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¿Que pasa con esos sujetos...?. ¿Cómo tienen tanto poder?.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Que dolor de cabeza... Ya no lo veo solución a esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tiene que haber una manera.</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Eso estuvo cerca</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Aguantaremos hasta el final.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Bien. Parece que que encontramos una salida facil.</BattleDialog>
+    </Type>
+  </Character>
+  <Character ID="N_B_Librarian_4">
+    <Type ID="START_BATTLE">
+      <BattleDialog ID="START_BATTLE_0">Una distorción... Esto me está dando malas vibras.</BattleDialog>
+    </Type>
+    <Type ID="BATTLE_VICTORY">
+      <BattleDialog ID="BATTLE_VICTORY_0">Arrastrarse hubiera hecho las cosas más inseguras...</BattleDialog>
+    </Type>
+    <Type ID="DEATH">
+      <BattleDialog ID="DEATH_0">Lo siento... Ya no puedo seguir más...</BattleDialog>
+    </Type>
+    <Type ID="COLLEAGUE_DEATH">
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Debemos tener cuidado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Maldición... Estos enemigos no son nada faciles.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">¿Como podemos bajarle su poder...?</BattleDialog>
+    </Type>
+    <Type ID="KILLS_OPPONENT">
+      <BattleDialog ID="KILLS_OPPONENT_0">Qué molestia... ¿Cuantos quedan ahora?.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Lo podremos derrotar a todos...?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Tal vez haya una oportunidad de que ganemos...</BattleDialog>
+    </Type>
+  </Character>
+</BattleDialogRoot>

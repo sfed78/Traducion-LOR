@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CharactersNameRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name ID="9100101">Baño de Sangre</Name>
+  <Name ID="9100201">Corazón de la Aspiración</Name>
+  <Name ID="9100202">Pulmones del Anhelo</Name>
+  <Name ID="9010101">Niña Chamuscada</Name>
+  <Name ID="9010102">Llama del Ultimo Fosforo</Name>
+  <Name ID="9010103">Llama del Ultimo Fosforo</Name>
+  <Name ID="9010201">Feliz Oso de Peluche</Name>
+  <Name ID="9020101">Asesino Abandonado</Name>
+  <Name ID="9020201">Pequeño Ayudante</Name>
+  <Name ID="9030101">La Mirada Timida de Hoy</Name>
+  <Name ID="9030201">Zapato Izquierdo</Name>
+  <Name ID="9030202">Zapato Derecho</Name>
+  <Name ID="9040101">Fragmento del Universo</Name>
+  <Name ID="9040201">Niño de la Galaxia</Name>
+
+  <Name ID="9010301">Reina Hada</Name>
+  <Name ID="9010302">Masa de Hadas</Name>
+  <Name ID="9030301">Capullo Aracnido</Name>
+  <Name ID="9030302">Arañita</Name>
+  <Name ID="9040301">Porccubus</Name>
+
+  <Name ID="9020301">Maquina de Cantar</Name>
+  <Name ID="9020302">Empleado Adicto</Name>
+
+  <Name ID="9100301">Pinocho el Mentiroso</Name>
+  <Name ID="9100302">Pinocho el Curioso</Name>
+  <Name ID="9100303">Pinocho el Imitador</Name>
+
+  <Name ID="9050101">La Reina del Odio</Name>
+
+  <Name ID="9050201">El Caballero de la Desesperación</Name>
+  <Name ID="9050202">Espada de un Caballero Olvidado</Name>
+
+  <Name ID="9010401">Abeja Reina</Name>
+  <Name ID="9010402">Abeja Obrera</Name>
+
+  <Name ID="9010511">Llama del Cuarto Fosforo</Name>
+  <Name ID="9010512">Llama del Ultimo Fosforo</Name>
+  <Name ID="9010521">El Olvidado</Name>
+  <Name ID="9010531">Latido del Ala</Name>
+  <Name ID="9010532">Masa de Hadas</Name>
+  <Name ID="9010541">Avispón</Name>
+  <Name ID="9010542">Abeja Obrera</Name>
+  <Name ID="9010551">Tallo Verde</Name>
+  <Name ID="9010552">Muro de Vides</Name>
+
+  <Name ID="9060101">La Mercenaria con la Caperucita Roja</Name>
+  <Name ID="9060102">El Lobo en sus Pesadillas</Name>
+
+  <Name ID="9070101">Espantapájaros Buscando Sabiduría</Name>
+
+  <Name ID="9070201">El Leñador</Name>
+  <Name ID="9070202">Arbol</Name>
+
+  <Name ID="9020401">El Funeral de las Mariposas Muertas</Name>
+  <Name ID="9020402">Caleidoscopio de Mariposas</Name>
+  <Name ID="9020403">Caleidoscopio de Mariposas</Name>
+
+  <Name ID="9020511">Remordimiento</Name>
+  <Name ID="9020521">Grinder Mk. 5-2</Name>
+  <Name ID="9020522">Pequeño Ayudante</Name>
+  <Name ID="9020531">Armonía</Name>
+  <Name ID="9020532">Maquina de Cantar</Name>
+  <Name ID="9020533">Empleado Adicto</Name>
+  <Name ID="9020541">Lamento Solemne</Name>
+  <Name ID="9020542">Caleidoscopio de Mariposas</Name>
+  <Name ID="9020543">Caleidoscopio de Mariposas</Name>
+  <Name ID="9020551">Bala Mágica</Name>
+
+  <Name ID="9060201">Un Lobo</Name>
+  <Name ID="9060202">Gran Lobo Feroz Malo</Name>
+
+  <Name ID="9050301">Ámbar Aurum</Name>
+  <Name ID="9050302">Chica Magica</Name>
+  <Name ID="9050303">El Rey de la Codicia</Name>
+  <Name ID="9050304">Beatitud Brillante</Name>
+
+  <Name ID="9030401">Laetitia</Name>
+  <Name ID="9030402">Amigo Envuelto para Regalo</Name>
+  <Name ID="9030403">Amigo de la Pequeña Bruja</Name>
+
+  <Name ID="9030511">Expresión de Hoy</Name>
+  <Name ID="9030521">Deseo Sangriento</Name>
+  <Name ID="9030531">Ojos Rojos</Name>
+  <Name ID="9030532">Arañita</Name>
+  <Name ID="9030541">Laetitia</Name>
+  <Name ID="9030542">Amigo Envuelto para Regalo</Name>
+  <Name ID="9030543">Amigo de la Pequeña Bruja</Name>
+  <Name ID="9030551">Cisne Negro</Name>
+  <Name ID="9030552">Primer Hermano</Name>
+  <Name ID="9030553">Segundo Hermano</Name>
+  <Name ID="9030554">Tercer Hermano</Name>
+  <Name ID="9030555">Cuarto Hermano</Name>
+  <Name ID="9030556">Quinto Hermano</Name>
+  <Name ID="9030557">Sexto Hermano</Name>
+
+  <Name ID="9040401">Alriune</Name>
+  <Name ID="9040402">Aquel que Emergió de la Tierra</Name>
+  <Name ID="9040403">Aquel que Emergió de la Tierra</Name>
+
+  <Name ID="9040511">Fragmentos de Algún Lugar</Name>
+  <Name ID="9040521">Nuestra Galaxia</Name>
+  <Name ID="9040522">Amigo de la Galaxia</Name>
+  <Name ID="9040531">Placer</Name>
+  <Name ID="9040541">Aroma Tenue</Name>
+  <Name ID="9040542">Aquel que Emergió de la Tierra</Name>
+  <Name ID="9040543">Aquel que Emergió de la Tierra</Name>
+  <Name ID="9040551">Da Capo</Name>
+  <Name ID="9040552">Interprete</Name>
+  <Name ID="9040561">Da Capo</Name>
+  <Name ID="9040562">Primera Silla</Name>
+  <Name ID="9040563">Segunda Silla</Name>
+  <Name ID="9040564">Tercera Silla</Name>
+  <Name ID="9040565">Cuarta Silla</Name>
+
+  <Name ID="9080101">Gran Ave</Name>
+  <Name ID="9080102">Polluelo Ocular</Name>
+  <Name ID="9090101">Excavador del Paraiso</Name>
+  <Name ID="9090102">Espina del Cielo</Name>
+  <Name ID="9100401">La Reina de las Nieves</Name>
+  <Name ID="9100402">Prision de Hielo</Name>
+
+  <Name ID="9060301">Montaña de Cuerpos Sonrientes</Name>
+  <Name ID="9060302">Montaña de Cuerpos Sonrientes</Name>
+  <Name ID="9060303">Montaña de Cuerpos Sonrientes</Name>
+  <Name ID="9060304">Cadáveres Derretidos</Name>
+  <Name ID="9060305">Cadáveres Derretidos</Name>
+
+  <Name ID="9070301">Casa</Name>
+  <Name ID="9070302">El Camino a Casa</Name>
+  <Name ID="9070303">Gato Asustadizo</Name>
+
+  <Name ID="9050401">El Sirviente de la Ira</Name>
+  <Name ID="9050402">Ermitaño del Bosque Azul</Name>
+  <Name ID="9050403">Bastón del Ermitaño</Name>
+
+  <Name ID="9050511">En Nombre del Amor y el Odio</Name>
+  <Name ID="9050521">La Espada Afilada con Lágrimas</Name>
+  <Name ID="9050522">Espada de un Caballero Olvidado</Name>
+  <Name ID="9050531">Fiebre del Oro</Name>
+  <Name ID="9050532">Fiebre del Oro</Name>
+  <Name ID="9050533">Beatitud Brillante</Name>
+  <Name ID="9050541">Rabia Ciega</Name>
+  <Name ID="9050542">Ermitaño del Bosque Azul</Name>
+  <Name ID="9050543">Bastón de Ermitaño</Name>
+
+  <Name ID="9050550">Nihil</Name>
+  <Name ID="9050551">Odio Petrificado</Name>
+  <Name ID="9050552">Desesperación Osificada</Name>
+  <Name ID="9050553">Codicia Fosilizada</Name>
+  <Name ID="9050554">Ira lapidificada</Name>
+  <Name ID="9050556">Espada sin Dueño</Name>
+
+  <Name ID="9050561">Chica Mágica del Amor</Name>
+  <Name ID="9050562">Chica Mágica de la Justicia</Name>
+  <Name ID="9050563">Chica Mágica de la Felicidad</Name>
+  <Name ID="9050564">Chica Mágica del Coraje</Name>
+
+  <Name ID="9090201">El Precio del Silencio</Name>
+  <Name ID="9090202">Remanente del Tiempo</Name>
+  <Name ID="9080201">Ave Castigador</Name>
+  <Name ID="9080202">Guardián del Bosque Negro/Name>
+
+  <Name ID="9080301">Ave del Juicio</Name>
+  <Name ID="9080302">Ave Desenfrenado</Name>
+
+
+  <Name ID="9060401">Nosferatu</Name>
+  <Name ID="9060402">Murciélago Sanguínario</Name>
+
+  <Name ID="9060511">Cicatriz Carmesí</Name>
+  <Name ID="9060512">El Lobo que lo Perdió Todo</Name>
+  <Name ID="9060521">Cicatriz Cobalto</Name>
+  <Name ID="9060531">Sonrisa</Name>
+  <Name ID="9060532">Sonrisa</Name>
+  <Name ID="9060533">Sonrisa</Name>
+  <Name ID="9060534">Cadáveres Derretidos</Name>
+  <Name ID="9060535">Cadáveres Derretidos</Name>
+  <Name ID="9060541">Dipsia</Name>
+  <Name ID="9060542">Murciélago Sanguínario</Name>
+  <Name ID="9060551">Mimetismo</Name>
+  <Name ID="9060552">Mimetismo</Name>
+  <Name ID="9060553">Mimetismo</Name>
+
+  <Name ID="9070401">Ozma</Name>
+  <Name ID="9070402">Jack</Name>
+  <Name ID="9070403">Revivido Jack</Name>
+  <Name ID="9070404">Calabaza Amnésica</Name>
+
+  <Name ID="9070511">Cosecha</Name>
+  <Name ID="9070512">Espantapájaros</Name>
+  <Name ID="9070521">Registrar</Name>
+  <Name ID="9070522">Arbol</Name>
+  <Name ID="9070531">El Instinto de Volver a Casa</Name>
+  <Name ID="9070532">Gato Asustadizo</Name>
+  <Name ID="9070533">Casa a la que no se Puede Llegar</Name>
+  <Name ID="9070541">Recuerdos Desvanecidos</Name>
+  <Name ID="9070542">Jack</Name>
+  <Name ID="9070543">Revivido Jack</Name>
+  <Name ID="9070544">Calabaza Amnésica</Name>
+  <Name ID="9070551">Trono Falso</Name>
+  <Name ID="9070552">Cristal Esmeralda</Name>
+  <Name ID="9070553">Estatua Brillante</Name>
+  <Name ID="9070554">Rostro Fruncido</Name>
+
+  <Name ID="9080511">Lampara</Name>
+  <Name ID="9080512">Polluelo Ocular</Name>
+  <Name ID="9080521">Pico</Name>
+  <Name ID="9080522">Guardián del Bosque Negro</Name>
+  <Name ID="9080531">Iustitia</Name>
+  <Name ID="9080532">Ave Desenfrenado</Name>
+  <Name ID="9080541">Crepúsculo</Name>
+
+  <Name ID="9090301">Santuario de la Estrella Azul</Name>
+  <Name ID="9090302">Adorador de la Estrella Azul</Name>
+  <Name ID="9090303">Adorador de la Estrella Azul</Name>
+  <Name ID="9090304">Adorador de la Estrella Azul</Name>
+
+  <Name ID="9090511">Prophet</Name>
+  <Name ID="9090521">Paraíso Perdido</Name>
+  <Name ID="9090512">Apóstol Guardián</Name>
+  <Name ID="9090513">Apóstol de la Guadaña</Name>
+  <Name ID="9090514">Apóstol del Bastón</Name>
+  <Name ID="9090515">Apóstol de la Lanza</Name>
+
+  <!-- 케테르 완전개방-->
+  <Name ID="9100501">Angela</Name>
+  <Name ID="9100511">Cortador de Muñeca</Name>
+  <Name ID="9100521">Aspiración</Name>
+  <Name ID="9100522">Pulmones del Anhelo</Name>
+  <Name ID="9100531">Marioneta</Name>
+  <Name ID="9100532">Pinocho</Name>
+  <Name ID="9100541">Astilla de Escarcha</Name>
+  <Name ID="9100542">Prision de Hielo</Name>
+  <Name ID="9100551">Remordimiento</Name>
+  <Name ID="9100552">Clavo</Name>
+  <Name ID="9100553">Martillo</Name>
+  <Name ID="9100554">Deseo Residual</Name>
+  <Name ID="9100555">Instintos Susurrantes</Name>
+</CharactersNameRoot>

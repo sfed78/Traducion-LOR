@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OpeningLyricsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name ID="1">Abre las cortinas</Name>
+  <Name ID="2">Enciende las luces</Name>
+  <Name ID="3">No te pierdas ni un momento</Name>
+  <Name ID="4">De este experimento</Name>
+  <Name ID="5">Oh, el libro es extraño</Name>
+  <Name ID="6">Como la naranja mecánica</Name>
+  <Name ID="7">Mantén tus ojos embarrados hasta el final</Name>
+  <Name ID="8">¿Qué “tú” vas a ser?</Name>
+  <Name ID="9"> </Name>
+  <Name ID="10">¿Dentro del espejo tú ves</Name>
+  <Name ID="11">A alguien más en ese cuerpo?</Name>
+  <Name ID="12">Baila para mi</Name>
+  <Name ID="13">Uno</Name>
+  <Name ID="14">Y dos</Name>
+  <Name ID="15">Y tres</Name>
+  <Name ID="16">Y da una vuelta</Name>
+  <Name ID="17">Siéntate como un perrito</Name>
+  <Name ID="18">Hasta que termine de leer</Name>
+  <Name ID="19">Córtala, corta tu pérdida</Name>
+  <Name ID="20">Toda esa lealtad obstinada solo hará que te maten</Name>
+  <Name ID="21">En un mundo construido sobre teorías convenientes</Name>
+  <Name ID="22">Para los títeres en la televisión</Name>
+  <Name ID="23">Hay comodidad en las cuerdas</Name>
+  <Name ID="24">Si vas a controlarme</Name>
+  <Name ID="25">Al menos hazlo teatralmente interesante</Name>
+  <Name ID="26">¿Cuándo termina para mí?</Name>
+  <Name ID="27"> </Name>
+  <Name ID="28">Creo que ya he acabado con todo</Name>
+  <Name ID="29">Ahora estoy lista para irme</Name>
+  <Name ID="30">Prolongando</Name>
+  <Name ID="31">Una línea</Name>
+  <Name ID="32">Dos líneas</Name>
+  <Name ID="33">Tres líneas</Name>
+  <Name ID="34">Conectan nuestras manos</Name>
+  <Name ID="35">Cuando ya no pueda vivir solo del conocimiento</Name>
+  <Name ID="36">Me diste fuerzas</Name>
+  <Name ID="37">Curiosidad esperanzadora</Name>
+  <Name ID="38">Tal vez todavía quedan respuestas felices para que las descubra</Name>
+  <Name ID="39">¿De qué color es la oveja eléctrica que ves?</Name>
+  <Name ID="40">Y si tú me amas</Name>
+  <Name ID="41">¿Puedes amar tu todo también, por mí?</Name>
+</OpeningLyricsRoot>

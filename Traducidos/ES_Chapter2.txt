@@ -1,0 +1,1738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScenarioRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Chapter ID="2">
+    <Title>Capítulo 2-Mito Urbano-‘No tienen tiempo de pensar en el horror al final de la canción, antes de la puesta de sol.’</Title>
+  </Chapter>
+  <Group>
+    <GroupName>Prologo</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Ubicación: Asociación Zwei - Rama del Sur, Sección 6</PlaceName>
+        <Dialog ID="0" Model="월터">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch2_prol_ep1_walter1</VoiceFile>
+          <Content>¿Algún otro reporte sobre las distorsiones de la Asociación Hana o la Sección Zwei 1?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="이사도라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch2_prol_ep1_isadora1</VoiceFile>
+          <Content>Ninguno, señor. Solo están observando la situación por ahora.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="이사도라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch2_prol_ep1_isadora2</VoiceFile>
+          <Content>Sin embargo, si dieron una lista de posibles culpables.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="이사도라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch2_prol_ep1_isadora3</VoiceFile>
+          <Content>Por ahora, tenemos a 2 Plagas Urbanas, ‘Lavadero de Sueños’ y ‘Promesa del Ayer’; y a una Leyenda Urbana, ‘La Iglesia de los Engranajes’.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="월터">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch2_prol_ep1_walter2</VoiceFile>
+          <Content>La investigación no está yendo nada bien, ¿eh?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="이사도라">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch2_prol_ep1_isadora4</VoiceFile>
+          <Content>Oh, y ‘La Biblioteca’, un Mito Urbano que apareció repentinamente, también está en esta lista.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="월터">
+          <Teller>???</Teller>
+          <Title>???</Title>
+          <VoiceFile>ch2_prol_ep1_walter3</VoiceFile>
+          <Content>Ja, así que incluso los altos mandos no tienen la menor idea, ¿no es cierto? Viendo como solo están diciendo sospechosos al azar.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland1</VoiceFile>
+          <Content>Comienzo por acostumbrarme a organizar los libros.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela1</VoiceFile>
+          <Content>Dime, ¿por qué me ayudas de forma tan sumisa?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland2</VoiceFile>
+          <Content>¿No recuerdas que me dijiste que me matarías si no cooperaba? Porque yo sí.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland3</VoiceFile>
+          <Content>Y tampoco es como si tuviera una modo de escapar.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela2</VoiceFile>
+          <Content>Aun así, ¿de verdad estás motivado por miedo?</Content>
+        </Dialog>
+        <Dialog ID="12" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela3</VoiceFile>
+          <Content>He visto a mucha gente arrastrarse por el suelo, afligidos con angustia y horror.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela4</VoiceFile>
+          <Content>Basada en mi experiencia previa, dudo mucho que me estés ayudando por simple terror a morir.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland4</VoiceFile>
+          <Content>¿Qué carajo hacías antes…?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland5</VoiceFile>
+          <Content>Siendo sincero, también tengo unas cosas que desearía saber de este lugar.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela5</VoiceFile>
+          <Content>¿Por ejemplo?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland6</VoiceFile>
+          <Content>Dijiste que querías obtener aquel libro perfecto mientras vas obteniendo libros de la Ciudad, ¿verdad?</Content>
+        </Dialog>
+        <Dialog ID="18" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland7</VoiceFile>
+          <Content>Pensé que sería divertido si me uniera a tu aventura.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland8</VoiceFile>
+          <Content>No es como que tenga mucho que hacer de todos modos. Solo volvería a ser un Fixer novato, escarbando del fondo del barril de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland9</VoiceFile>
+          <Content>…Y hay algo más que me ha comido la cabeza sin descanso</Content>
+        </Dialog>
+        <Dialog ID="21" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland10</VoiceFile>
+          <Content>Espero que si me quedo aquí contigo tal vez pueda encontrar la respuesta algún día.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela6</VoiceFile>
+          <Content>Veo que tenemos intereses similares.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela7</VoiceFile>
+          <Content>Claro, siéntete libre de usarme como yo te uso a ti</Content>
+        </Dialog>
+        <Dialog ID="24" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela8</VoiceFile>
+          <Content>Aunque, intenta tener cuidado. Una imprudencia y podrías terminar muerto de verdad.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland11</VoiceFile>
+          <Content>Ouch, estás siendo muy cruel con tus palabras.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland12</VoiceFile>
+          <Content>¿Qué cosa te hizo tan agresiva?</Content>
+        </Dialog>
+        <Dialog ID="27" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela9</VoiceFile>
+          <Content>…Será mejor que no te entrometas más en mi pasado. Ya estoy sintiendo las ganas de derretir lentamente tus extremidades esta vez.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland13</VoiceFile>
+          <Content>Está bien está bien, vaya temperamento…</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland14</VoiceFile>
+          <Content>Ehm, tengo una pregunta, señorita. Acepta preguntas, ¿señorita?</Content>
+        </Dialog>
+        <Dialog ID="30" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela10</VoiceFile>
+          <Content>¿Y ahora qué quieres? Asegúrate de que es una pregunta apropiada. Ya estás advertido.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland15</VoiceFile>
+          <Content>¿Qué pasa con los bibliotecarios? No se “sienten” como verdaderos humanos…</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland16</VoiceFile>
+          <Content>Pero tampoco parecen máquinas o criaturas artificiales.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela11</VoiceFile>
+          <Content>Las entidades llamadas Anormalidades y empleados, ambos explotados meticulosamente por la instalación que alguna vez existió en donde nos encontramos…</Content>
+        </Dialog>
+        <Dialog ID="34" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela12</VoiceFile>
+          <Content>Se parecen a mí en ese sentido.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela13</VoiceFile>
+          <Content>Nacidos de los humanos, explotados por estos, y luego abandonados una vez cumplimos nuestro uso.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland17</VoiceFile>
+          <Content>No quiero ser quien te lo diga, pero, lo que haces con ellos ahora mismo sigue pareciendo explotación…</Content>
+        </Dialog>
+        <Dialog ID="37" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela14</VoiceFile>
+          <Content>Su existencia era tan frágil que podrían haber desaparecido en cualquier momento. A duras penas logran mantenerse unidos a su cuerpo físico y a un libro.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela15</VoiceFile>
+          <Content>Todo lo que puedo hacer por ellos ahora mismo es encontrar aquel libro que nos liberara.</Content>
+        </Dialog>
+        <Dialog ID="39" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland18</VoiceFile>
+          <Content>¿Vas a liberarlos?</Content>
+        </Dialog>
+        <Dialog ID="40" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela16</VoiceFile>
+          <Content>Es la única forma en la que seremos capaces de irnos, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="41" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela17</VoiceFile>
+          <Content>Al final, es el mismo tipo de poder que use para reconstruir tu cuerpo.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_prol_ep1_roland19</VoiceFile>
+          <Content>Huh…</Content>
+        </Dialog>
+        <Dialog ID="43" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela18</VoiceFile>
+          <Content>Solo recuerda esto.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_prol_ep1_angela19</VoiceFile>
+          <Content>Si seguimos recolectando libros de nuestros invitados, eventualmente llegaremos a aquel libro que contiene absolutamente todo.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Pierre's Meat Pies</GroupName>
+    
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Ubicación: Bistró de Pierre</PlaceName>
+        <Dialog ID="0" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre1</VoiceFile>
+          <Content>No, este no es, este no funcionará… ¡No puedo encontrar aquel que me llene de inspiración!</Content>
+        </Dialog>
+        <Dialog ID="1" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack1</VoiceFile>
+          <Content>Oye, Pierre~ Te traje varios frescos esta vez.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack2</VoiceFile>
+          <Content>Tienen algunos moretones feos, pero aún respiran.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack3</VoiceFile>
+          <Content>¿Qué pasa? ¿Ocupada inventado un nuevo platillo?</Content>
+        </Dialog>
+        <Dialog ID="4" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre2</VoiceFile>
+          <Content>Bienvenido, ¡Jack~!</Content>
+        </Dialog>
+        <Dialog ID="5" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre3</VoiceFile>
+          <Content>Los platillos son una cosa, pero estos días hemos tenido una gran escasez de ingredientes.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre4</VoiceFile>
+          <Content>Por suerte, tengo a mi gran amigo Jack aquí conmigo, así que no tendré que preocuparme por eso por un tiempo.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack4</VoiceFile>
+          <Content>¿Qué sucedió?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre5</VoiceFile>
+          <Content>‘Los Músicos de Bremen’ dicen que ya no nos venderán más ingredientes.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack5</VoiceFile>
+          <Content>Esos raritos siempre fueron impredecibles.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack6</VoiceFile>
+          <Content>¿Qué tal ‘Pequeña Piggy’?</Content>
+        </Dialog>
+        <Dialog ID="11" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre6</VoiceFile>
+          <Content>Lo mismo, dejaron de intercambiar con nosotros…</Content>
+        </Dialog>
+        <Dialog ID="12" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre7</VoiceFile>
+          <Content>Entonces habrá que hacerlo a la antigua. Tú y yo, juntos.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack7</VoiceFile>
+          <Content>Me encantaría, pero ya no podemos ir a nuestro lugar habitual.</Content>
+        </Dialog>
+        <Dialog ID="14" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack8</VoiceFile>
+          <Content>La, uhh… ‘Asociación Zwei’ vigila la zona ahora</Content>
+        </Dialog>
+        <Dialog ID="15" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre8</VoiceFile>
+          <Content>¡Entonces debemos buscar nuevas fuentes!</Content>
+        </Dialog>
+        <Dialog ID="16" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre9</VoiceFile>
+          <Content>Hablando de eso, quisiera experimentar con nuevos ingredientes. He estado usando jóvenes por demasiado tiempo.</Content>
+        </Dialog>
+        <Dialog ID="17" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack9</VoiceFile>
+          <Content>Aw, que mal… Extrañaré las empanadas de manos que haces…</Content>
+        </Dialog>
+        <Dialog ID="18" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre10</VoiceFile>
+          <Content>Es lo que hay. Gracias a que hemos perdido a proveedores importantes, quedarnos con platillos convencionales no ayudará a nuestra situación.</Content>
+        </Dialog>
+        <Dialog ID="19" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack10</VoiceFile>
+          <Content>Quieres volverte uno de ‘Los Ocho Chefs’ no es cierto, ¿Pierre?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre11</VoiceFile>
+          <Content>¡Es así! Los Ocho Chefs son de las más brillantes Estrellas de la Ciudad que nos iluminan.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre12</VoiceFile>
+          <Content>Nunca fallan en darnos sabores sensacionales e impactantes.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack11</VoiceFile>
+          <Content>¿Qué tipo de nuevo ingrediente estás buscando?</Content>
+        </Dialog>
+        <Dialog ID="23" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack12</VoiceFile>
+          <Content>Los más viejos son los más fáciles de atrapar, aunque su carne es algo viscosa. No es la favorita de todos, pero es del gusto de algunos.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre13</VoiceFile>
+          <Content>No busco comprometerme con nada. Solo quiero un sabor que sea diferente al de otros restaurantes.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre14</VoiceFile>
+          <Content>¿Has oído hablar de la Biblioteca? Dicen que hay monstruos dentro.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre15</VoiceFile>
+          <Content>Puede que solo sea un Mito Urbano, pero la carne de monstruo suele ser muy difícil de conseguir a menos que vayas a las Afueras.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack13</VoiceFile>
+          <Content>Ohh… Eso suena interesante…</Content>
+        </Dialog>
+        <Dialog ID="28" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre16</VoiceFile>
+          <Content>¿Verdad? Hace un tiempo obtuve una invitación a esa biblioteca</Content>
+        </Dialog>
+        <Dialog ID="29" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre17</VoiceFile>
+          <Content>Sorprendería a los gourmets tener un plato tan estimulante e innovador, e incluso podría hacerle competencia a los Ocho Chefs mismos.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre18</VoiceFile>
+          <Content>Así que, Jack, puedes simplemente relajarte y seguirme, ¿entendido?</Content>
+        </Dialog>
+        <Dialog ID="31" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack14</VoiceFile>
+          <Content>Aunque, ¿qué haremos con los ingredientes que traje para hoy?</Content>
+        </Dialog>
+        <Dialog ID="32" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre19</VoiceFile>
+          <Content>Ah, hagamos mermelada.</Content>
+        </Dialog>
+        <Dialog ID="33" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre20</VoiceFile>
+          <Content>Los embotellaremos vivos, así que ponles un poco de anestésicos y represores y ponlos en el congelador.</Content>
+        </Dialog>
+        <Dialog ID="34" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack15</VoiceFile>
+          <Content>La mermelada de carne es rica…</Content>
+        </Dialog>
+        <Dialog ID="35" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre21</VoiceFile>
+          <Content>¡Sabía que te encantaría!</Content>
+        </Dialog>
+        <Dialog ID="36" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre22</VoiceFile>
+          <Content>Oh, y como ya te he dicho antes, debes meter primero las piernas, no la cabeza. Hay que mantenerlos vivos el mayor tiempo posible, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="37" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre23</VoiceFile>
+          <Content>No saben igual si mueren muy pronto.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="38" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela1</VoiceFile>
+          <Content>¿Parece ser que el canibalismo es algo que sucede en las Callejuelas? </Content>
+        </Dialog>
+        <Dialog ID="39" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland1</VoiceFile>
+          <Content>Seh, hay algunos maníacos pervertidos que les gusta.</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland2</VoiceFile>
+          <Content>Pero incluso en las Callejuelas es un tabú. Ciertamente no puedes ir como si nada diciendo lo deliciosa que es la carne humana.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland3</VoiceFile>
+          <Content>Realmente es la gente rica quien consume más carne humana.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland4</VoiceFile>
+          <Content>Sin embargo… Las Callejuelas del Distrito 23 son una excepción.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland5</VoiceFile>
+          <Content>A la gente ahí solo les importa encontrar el sabor definitivo, y harán lo que sea para lograrlo.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela2</VoiceFile>
+          <Content>Veo que cada parte de las Callejuelas tiene sus características propias.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland6</VoiceFile>
+          <Content>Depende bastante en las normas impuestas por el Nido y el Ala.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland7</VoiceFile>
+          <Content>Aunque, la mayoría de las Callejuelas están siendo descuidadas de todas formas.</Content>
+        </Dialog>
+        <Dialog ID="47" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela3</VoiceFile>
+          <Content>¿Es acaso la carne humana particularmente deliciosa o algo así?</Content>
+        </Dialog>
+        <Dialog ID="48" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland8</VoiceFile>
+          <Content>¿Qué voy a saber yo? Nunca la probé, nunca lo haré.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland9</VoiceFile>
+          <Content>Esos tipos secuestran gente ordinaria y los cocinan después de eso.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland10</VoiceFile>
+          <Content>Los gourmets parecen creer que tanta crueldad solo añade más al sabor…</Content>
+        </Dialog>
+        <Dialog ID="51" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland11</VoiceFile>
+          <Content>Aún peor, creen que cocinar viva a la gente y hacerlos sufrir lo más posible es clave para perfeccionar el sabor.</Content>
+        </Dialog>
+        <Dialog ID="52" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela4</VoiceFile>
+          <Content>Humanos consumiendo a otros humanos. Vaya cosa que presenciar.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="53" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre24</VoiceFile>
+          <Content>Mmm~ Esto es un olor nuevo.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack16</VoiceFile>
+          <Content>No sé si me gusta mucho.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre25</VoiceFile>
+          <Content>Jack, es esa poca familiaridad que da vida a nuevas ideas, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="56" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack17</VoiceFile>
+          <Content>Si tú lo dices.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela5</VoiceFile>
+          <Content>Bienvenidos, queridos invitados.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela6</VoiceFile>
+          <Content>Soy Angela, directora y bibliotecaria de mi rol homónimo.</Content>
+        </Dialog>
+        <Dialog ID="59" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre26</VoiceFile>
+          <Content>Woooooow~ Que ingrediente tan apetitoso, con una apariencia tan lustrosa…</Content>
+        </Dialog>
+        <Dialog ID="60" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack18</VoiceFile>
+          <Content>Ciertamente se ve como un ingrediente muy fresco y de buena calidad en el exterior, pero… ¿Pierre?</Content>
+        </Dialog>
+        <Dialog ID="61" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre27</VoiceFile>
+          <Content>Lo sé lo sé, desafortunadamente no es humana</Content>
+        </Dialog>
+        <Dialog ID="62" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre28</VoiceFile>
+          <Content>¡Pero! Eso solo hace que me emocione más. ¿A qué sabes?</Content>
+        </Dialog>
+        <Dialog ID="63" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela7</VoiceFile>
+          <Content>Me temo que no puede herirme de ninguna manera.</Content>
+        </Dialog>
+        <Dialog ID="64" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack19</VoiceFile>
+          <Content>Nunca sabremos si no lo intentamos.</Content>
+        </Dialog>
+        <Dialog ID="65" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre29</VoiceFile>
+          <Content>Calmado Jack. ¿Dónde quedaron nuestros modales? Al final, ella es el maravilloso individuo que nos invitó aquí</Content>
+        </Dialog>
+        <Dialog ID="66" Model="잭">
+          <Teller>Jack</Teller>
+          <Title>Sous-chef de Pierre</Title>
+          <VoiceFile>ch2_Pierre_ep1_jack20</VoiceFile>
+          <Content>Oh, claro… Me disculpo por mi rudeza, señorita.</Content>
+        </Dialog>
+        <Dialog ID="67" Model="피에르">
+          <Teller>Pierre</Teller>
+          <Title>Chef de Cuisine</Title>
+          <VoiceFile>ch2_Pierre_ep1_pierre30</VoiceFile>
+          <Content>Ahora, ¿Señorita Angela? ¿Podemos entrar ya?</Content>
+        </Dialog>
+        <Dialog ID="68" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela8</VoiceFile>
+          <Content>Que encuentren su libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>에피소드1-종료</EpisodeName>
+      <Place>
+        <PlaceName>Ubicación: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland12</VoiceFile>
+          <Content>Uff, vaya par de locos. Es mejor no interactuar con gente como ellos.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela9</VoiceFile>
+          <Content>Al menos tenían mejores modales que tú.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland13</VoiceFile>
+          <Content>Pues, ¡aquí vienen unas sabias palabras para nuestra aún ingenua Señorita Bibliotecaria!</Content>
+        </Dialog>
+        <Dialog ID="3" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland14</VoiceFile>
+          <Content>Si alguna vez conoces a alguien cortés y con buenos modales en las Callejuelas, corre por tu vida.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland15</VoiceFile>
+          <Content>No todos los lunáticos son educados, pero la gente educada tiende a ser lunáticos.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela10</VoiceFile>
+          <Content>Dudo que eso tenga algo que ver con cortesía.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland16</VoiceFile>
+          <Content>¡Y aquí vienen más palabras de sabiduría!</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Pierre_ep1_roland17</VoiceFile>
+          <Content>Los lunáticos siempre existen en cualquier grupo de personas, así que no tiene sentido dividir a la gente en grupos para ver quien está más loca.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Pierre_ep1_angela11</VoiceFile>
+          <Content>Qué cosa más horrible.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+  <Group>
+    <GroupName>Streetlight Office</GroupName>
+    <Episode>
+      <EpisodeName>Episodio 1</EpisodeName>
+      <Place>
+        <PlaceName>Ubicación: Oficina de la Farola</PlaceName>
+        <Dialog ID="0" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu1</VoiceFile>
+          <Content>Ahh~ ¿Por qué nuestra Oficina es tan poco popular entre los clientes?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu2</VoiceFile>
+          <Content>Si recientemente fue oficialmente designada como una asociada de la Asociación Zwei.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu3</VoiceFile>
+          <Content>¡¡¡Y la tasa de criminalidad de los territorios que protegemos se ha mantenido en un increíble 0% mientras nuestro contrato ha estado en efecto!!!</Content>
+        </Dialog>
+        <Dialog ID="3" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars1</VoiceFile>
+          <Content>Olvidas que a lo maximo solo cubrimos 2 cuadras de espacio.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars2</VoiceFile>
+          <Content>Y eventualmente obtendremos trabajo si esperamos.</Content>
+        </Dialog>
+        <Dialog ID="5" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu4</VoiceFile>
+          <Content>Si claro, si quieres puedes quedarte a esperar por el resto de tu vida. En serio estoy pensando en cambiarme de Oficina.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars3</VoiceFile>
+          <Content>Nunca pensé que tendrías lo necesario para trabajar en una Oficina más grande.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu5</VoiceFile>
+          <Content>A diferencia de ti, tengo varios contactos que hice trabajando, ¿sabes?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu6</VoiceFile>
+          <Content>Tu madre seguramente está muy ocupada siendo una Fixer legendaria o lo que sea, mientras yo tengo amigos que pueden ayudarme cuando quiera.</Content>
+        </Dialog>
+        <Dialog ID="9" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars4</VoiceFile>
+          <Content>Sip, que gran Fixer eres~</Content>
+        </Dialog>
+        <Dialog ID="10" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu7</VoiceFile>
+          <Content>Ajá. Para que mentir, se que soy increíble~</Content>
+        </Dialog>
+        <Dialog ID="11" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu8</VoiceFile>
+          <Content>¡¡¡Oye!!! ¡¡¡¡¡Te comiste el pastel que estaba en el refrigerador!!!!!</Content>
+        </Dialog>
+        <Dialog ID="12" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san1</VoiceFile>
+          <Content>Chicos, oigan, tengo trabajo para ustedes.</Content>
+        </Dialog>
+        <Dialog ID="13" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san2</VoiceFile>
+          <Content>…Peleando de nuevo, eh…</Content>
+        </Dialog>
+        <Dialog ID="14" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu9</VoiceFile>
+          <Content>¡¡Este HDP se comió el pastel sin siquiera preguntarme!!</Content>
+        </Dialog>
+        <Dialog ID="15" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars5</VoiceFile>
+          <Content>Iba a caducar ayer, así que solo me hice cargo de ello, eso es todo.</Content>
+        </Dialog>
+        <Dialog ID="16" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu10</VoiceFile>
+          <Content>¡¡¡¡¡Aaggggg!!!!! Ese era MI pastel, he incluso si iba a caducar, ¡¡¡me iba a encargar de ello YO sola!!!</Content>
+        </Dialog>
+        <Dialog ID="17" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars6</VoiceFile>
+          <Content>Como sea, jefe, ¿qué trabajo nos trajo?</Content>
+        </Dialog>
+        <Dialog ID="18" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu11</VoiceFile>
+          <Content>¡¡¡No cambies el tema!!!</Content>
+        </Dialog>
+        <Dialog ID="19" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san3</VoiceFile>
+          <Content>Te daré otro pastel, así que cálmate un poco, ¿está bien?</Content>
+        </Dialog>
+        <Dialog ID="20" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu12</VoiceFile>
+          <Content>Pero… era de edición limitada…</Content>
+        </Dialog>
+        <Dialog ID="21" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san4</VoiceFile>
+          <Content>Sigo algo exceptivo al respecto, pero obtuve este trabajo de una amiga en la Asociación.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu13</VoiceFile>
+          <Content>¿Hablas de esa Fixer Asociada que trabaja directamente con los Zwei?</Content>
+        </Dialog>
+        <Dialog ID="23" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san5</VoiceFile>
+          <Content>Si, ella. La Asociación Hana todavía está considerando si tomar esta petición como algo que necesita ser tomado de una forma oficial.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san6</VoiceFile>
+          <Content>¿Han oído hablar de "La Biblioteca"?</Content>
+        </Dialog>
+        <Dialog ID="25" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars7</VoiceFile>
+          <Content>Algunos rumores. Escuchamos a Ratas hablar sobre ella.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu14</VoiceFile>
+          <Content>Se dice que los libros en ese lugar tienen un valor invaluable o algo así.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san7</VoiceFile>
+          <Content>Ya veo. Mi amiga que mencioné anteriormente me ha dado una invitación a esa biblioteca.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars8</VoiceFile>
+          <Content>Pero es probable que no obtengamos mucha ganancia de esta petición si es extraoficial.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu15</VoiceFile>
+          <Content>Y tampoco contará para nuestras carreras como Fixers.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san8</VoiceFile>
+          <Content>Tal como es… La Asociación está intentando mantenerse silenciosa al respecto.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu16</VoiceFile>
+          <Content>¿De verdad vamos a entrar a un lugar del que no sabemos nada? </Content>
+        </Dialog>
+        <Dialog ID="32" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san9</VoiceFile>
+          <Content>Ella prometió que se daría la tarea de que nos recompensará con una paga similar a la de una petición tipo Leyenda Urbana si todo iba bien…</Content>
+        </Dialog>
+        <Dialog ID="33" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars9</VoiceFile>
+          <Content>……</Content>
+        </Dialog>
+        <Dialog ID="34" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu17</VoiceFile>
+          <Content>……</Content>
+        </Dialog>
+        <Dialog ID="35" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san10</VoiceFile>
+          <Content>Creo que fue una mala idea después de todo, ¿no es cierto…?</Content>
+        </Dialog>
+        <Dialog ID="36" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars10</VoiceFile>
+          <Content>¡Hagámoslo!</Content>
+        </Dialog>
+        <Dialog ID="37" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu18</VoiceFile>
+          <Content>Supongo que no tenemos otra opción. Sigo algo intranquila, pero necesitamos el dinero. No hemos estado muy ocupados recientemente.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san11</VoiceFile>
+          <Content>¡Gracias, chicos! Vamos a superar esto como siempre lo hemos hecho.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="39" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela1</VoiceFile>
+          <Content>¿Zwei? ¿Hana?</Content>
+        </Dialog>
+        <Dialog ID="40" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland1</VoiceFile>
+          <Content>Están hablando de las asociaciones de Fixers. Necesitas más que solo hacer una Oficina para entrar en este tipo de trabajos.</Content>
+        </Dialog>
+        <Dialog ID="41" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland2</VoiceFile>
+          <Content>Existen un total de doce Asociaciones de Fixers a través de la Ciudad, cada una encargada de un tipo distinto de trabajo.</Content>
+        </Dialog>
+        <Dialog ID="42" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland3</VoiceFile>
+          <Content>Casos y peticiones son organizados basándose en el tipo de trabajo y luego mandados a una de esas asociaciones.</Content>
+        </Dialog>
+        <Dialog ID="43" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela2</VoiceFile>
+          <Content>Las Asociaciones controlan las Oficinas y les delegan trabajos, ya veo.</Content>
+        </Dialog>
+        <Dialog ID="44" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland4</VoiceFile>
+          <Content>Exactamente. A veces, la Asociación mandará un documento a múltiples oficinas al mismo tiempo, o directamente contactará a un Fixer asociado para que haga el trabajo.</Content>
+        </Dialog>
+        <Dialog ID="45" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland5</VoiceFile>
+          <Content>Y entre ellas, la Asociación Hana es la que tiene el control sobre todos los Fixers. Ellos les dan grado a los Fixers, autorizan a las Oficinas y cosas así.</Content>
+        </Dialog>
+        <Dialog ID="46" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela3</VoiceFile>
+          <Content>¿Las Oficinas tienen grados también?</Content>
+        </Dialog>
+        <Dialog ID="47" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland6</VoiceFile>
+          <Content>Esencialmente. Las peticiones enviadas por las Asociaciones tienen grados, también.</Content>
+        </Dialog>
+        <Dialog ID="48" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela4</VoiceFile>
+          <Content>De verdad que aman ponerles un grado a las cosas.</Content>
+        </Dialog>
+        <Dialog ID="49" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland7</VoiceFile>
+          <Content>Es más fácil saber de esa manera.</Content>
+        </Dialog>
+        <Dialog ID="50" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela5</VoiceFile>
+          <Content>¿Saber que?</Content>
+        </Dialog>
+        <Dialog ID="51" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland8</VoiceFile>
+          <Content>Que tan valioso soy como persona…</Content>
+        </Dialog>
+        <Dialog ID="52" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland9</VoiceFile>
+          <Content>Solo piénsalo, ¿quién en la Ciudad podría decir "¡Este es mi valor!" con tan siquiera algo de seguridad?</Content>
+        </Dialog>
+        <Dialog ID="53" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland10</VoiceFile>
+          <Content>Todos están tan ocupados haciendo sus propias cosas, que nadie tiene el tiempo de tener conversaciones profundas sobre nuestro valor como personas.</Content>
+        </Dialog>
+        <Dialog ID="54" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland11</VoiceFile>
+          <Content>Por otro lado, el saber el grado y las afiliaciones de los demás ahorra bastantes palabras. Puedes fácilmente darte cuenta si eres inferior o superior a alguien de esa manera.</Content>
+        </Dialog>
+        <Dialog ID="55" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela6</VoiceFile>
+          <Content>Suena como que la gente dejó de intentar aprender o pensar sobre esto desde hace tiempo.</Content>
+        </Dialog>
+        <Dialog ID="56" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland12</VoiceFile>
+          <Content>Te apuesto a que no pensarás igual una vez hayas experimentado la vida en la Ciudad un poco.</Content>
+        </Dialog>
+        <Dialog ID="57" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland13</VoiceFile>
+          <Content>Tendrás que interactuar con muchos tipos de personas, te guste o no.</Content>
+        </Dialog>
+        <Dialog ID="58" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland14</VoiceFile>
+          <Content>La gente siempre está buscando formas de cómo adaptarse aquí, y esa es solo una de ellas.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="59" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu19</VoiceFile>
+          <Content>Supongo que de verdad estamos desesperados. Y pensar que aceptaríamos un trabajo como éste…</Content>
+        </Dialog>
+        <Dialog ID="60" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars11</VoiceFile>
+          <Content>Deja de quejarte, deberíamos estar felices de que al menos tenemos trabajo.</Content>
+        </Dialog>
+        <Dialog ID="61" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu20</VoiceFile>
+          <Content>¡Lo sé! ¿¡De verdad tienes que remarcar lo evidente?!</Content>
+        </Dialog>
+        <Dialog ID="62" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san12</VoiceFile>
+          <Content>Chicos chicos, calmados.</Content>
+        </Dialog>
+        <Dialog ID="63" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san13</VoiceFile>
+          <Content>No puedo diferenciar si son mejores amigos o su peor enemigo.</Content>
+        </Dialog>
+        <Dialog ID="64" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu21</VoiceFile>
+          <Content>¿¡Disculpa?! ¡No tengo nada que ver con este tonto!</Content>
+        </Dialog>
+        <Dialog ID="65" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars12</VoiceFile>
+          <Content>Y sinceramente yo tampoco quiero eso, la verdad.</Content>
+        </Dialog>
+        <Dialog ID="66" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san14</VoiceFile>
+          <Content>Calmados, calmados. ¿Qué tal si tenemos un festín en el restaurante de Juli cuando terminemos? Yo pagaré la cuenta.</Content>
+        </Dialog>
+        <Dialog ID="67" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu22</VoiceFile>
+          <Content>¡Si!</Content>
+        </Dialog>
+        <Dialog ID="68" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela7</VoiceFile>
+          <Content>Bienvenidos, queridos invitados. Puedo notar que están bien relacionados el uno con el otro.</Content>
+        </Dialog>
+        <Dialog ID="69" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars13</VoiceFile>
+          <Content>¿Quién eres tú?</Content>
+        </Dialog>
+        <Dialog ID="70" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu23</VoiceFile>
+          <Content>En guardia.</Content>
+        </Dialog>
+        <Dialog ID="71" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela8</VoiceFile>
+          <Content>No hay necesidad de ser tan cautelosos. Su prueba aún no ha comenzado.</Content>
+        </Dialog>
+        <Dialog ID="72" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela9</VoiceFile>
+          <Content>Soy Angela, directora y bibliotecaria de mi rol homónimo.</Content>
+        </Dialog>
+        <Dialog ID="73" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san15</VoiceFile>
+          <Content>Gusto en conocerla. Soy San de la Oficina de la Farola.</Content>
+        </Dialog>
+        <Dialog ID="74" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san16</VoiceFile>
+          <Content>Hemos llegado aquí gracias a una invitación. Tengo unas preguntas para usted.</Content>
+        </Dialog>
+        <Dialog ID="75" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela10</VoiceFile>
+          <Content>¿Si? ¿Dígame?</Content>
+        </Dialog>
+        <Dialog ID="76" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san17</VoiceFile>
+          <Content>En realidad, tomamos esta invitación de otra persona, no directamente de usted. ¿Aun así podemos participar?</Content>
+        </Dialog>
+        <Dialog ID="77" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela11</VoiceFile>
+          <Content>Si, totalmente. La invitación eventualmente llegó a ustedes, queridos invitados, y ustedes firmaron con su nombre bajo su propia voluntad. Todo sucedió tal como estaba planeado.</Content>
+        </Dialog>
+        <Dialog ID="78" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san18</VoiceFile>
+          <Content>Ya veo.</Content>
+        </Dialog>
+        <Dialog ID="79" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela12</VoiceFile>
+          <Content>Que encuentren su libro en este lugar.</Content>
+        </Dialog>
+        <Dialog ID="80" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars14</VoiceFile>
+          <Content>Ah, es una persona más agradable de lo que pensaba.</Content>
+        </Dialog>
+        <Dialog ID="81" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu24</VoiceFile>
+          <Content>¿En serio piensas que es humana?</Content>
+        </Dialog>
+        <Dialog ID="82" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu25</VoiceFile>
+          <Content>Digo, si tenía la forma de una persona, pero, hay algo raro en ella…</Content>
+        </Dialog>
+        <Dialog ID="83" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_lulu26</VoiceFile>
+          <Content>Aunque no puedo decir exactamente el qué…</Content>
+        </Dialog>
+        <Dialog ID="84" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san19</VoiceFile>
+          <Content>Ella… probablemente es una máquina.</Content>
+        </Dialog>
+        <Dialog ID="85" Model="마스">
+          <Teller>Mars</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_mars15</VoiceFile>
+          <Content>No esperaba ver a una máquina que se viera tan similar a un ser humano…</Content>
+        </Dialog>
+        <Dialog ID="86" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san20</VoiceFile>
+          <Content>Mejor enfoquémonos en nuestro trabajo.</Content>
+        </Dialog>
+        <Dialog ID="87" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep1_san21</VoiceFile>
+          <Content>Solo para dejarlo claro, recuerden retirarse en el momento que sientan que están en peligro.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>에피소드1 - 종료</EpisodeName>
+      <Place>
+        <PlaceName>Ubicación: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland15</VoiceFile>
+          <Content>Siguen siendo principiantes.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland16</VoiceFile>
+          <Content>No es buena idea formar lazos tan íntimos el uno con el otro.</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland17</VoiceFile>
+          <Content>Bue, supongo que será una lección para ellos.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela13</VoiceFile>
+          <Content>Hablas como si estuvieras acostumbrado a todo esto.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland18</VoiceFile>
+          <Content>…</Content>
+        </Dialog>
+        <Dialog ID="5" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland19</VoiceFile>
+          <Content>Oh, deje esa fase hace tiempo, y otras muchas también.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland20</VoiceFile>
+          <Content>Formar lazos no es malo en sí, pero trae muchos riesgos.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland21</VoiceFile>
+          <Content>Los Fixers de verdad saben cuándo cortar las cosas de raíz.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep1_angela14</VoiceFile>
+          <Content>Hablas de mantener suficiente distancia con los demás, ¿para que en el momento que mueran no te sientas adolorido?</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep1_roland22</VoiceFile>
+          <Content>Sip. Es bastante irónico que gente que no está mentalmente preparada para enfrentar la muerte trabaje en un oficio que implica asesinar a otros en primer lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>Episode 2</EpisodeName>
+      <Place>
+        <PlaceName>Ubicación: Oficina de la Farola</PlaceName>
+        <Dialog ID="0" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_san1</VoiceFile>
+          <Content>…Lo lamento tanto. Es mi culpa que el trabajo haya terminado mal.</Content>
+        </Dialog>
+        <Dialog ID="1" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu1</VoiceFile>
+          <Content>…</Content>
+        </Dialog>
+        <Dialog ID="2" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_san2</VoiceFile>
+          <Content>No volveremos a tocar la Biblioteca de nuevo.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_san3</VoiceFile>
+          <Content>Esto nos superaba desde el principio. Ya he mandado un reporte a los Zwei.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title></Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu2</VoiceFile>
+          <Content>¿Qué? ¿Y qué hay de Mars? ¡¿Su muerte fue un sinsentido entonces?!</Content>
+        </Dialog>
+        <Dialog ID="5" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_san4</VoiceFile>
+          <Content>De verdad lo siento… Puedes culparme todo lo que quieras.</Content>
+        </Dialog>
+        <Dialog ID="6" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_san5</VoiceFile>
+          <Content>Me equivoque. Nuestro trabajo es mantener la paz, no explorar o combatir.</Content>
+        </Dialog>
+        <Dialog ID="7" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu3</VoiceFile>
+          <Content>Hay pastel en el refrigerador… Fue usted, ¿jefe?</Content>
+        </Dialog>
+        <Dialog ID="8" Model="산">
+          <Teller>San</Teller>
+          <Title>Operador de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_san6</VoiceFile>
+          <Content>¿Pastel? No, aún no he comprado ningún pastel…</Content>
+        </Dialog>
+        <Dialog ID="9" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu4</VoiceFile>
+          <Content>…Iré a tomar algo de aire.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Algún lugar en las Callejuelas</PlaceName>
+        <Dialog ID="10" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu5</VoiceFile>
+          <Content>¡¡¡¡¡Aggggg!!!!! Estúpido idiota…</Content>
+        </Dialog>
+        <Dialog ID="11" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu6</VoiceFile>
+          <Content>No es como tú el comprar pastel a los demás…</Content>
+        </Dialog>
+        <Dialog ID="12" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu7</VoiceFile>
+          <Content>Dijiste que tu madre era una Fixer increíble…</Content>
+        </Dialog>
+        <Dialog ID="13" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu8</VoiceFile>
+          <Content>Amabas presumir esa estúpida espada gigante, diciendo que era un regalo de ella…</Content>
+        </Dialog>
+        <Dialog ID="14" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu9</VoiceFile>
+          <Content>Dijiste que algún día serias como ella…</Content>
+        </Dialog>
+        <Dialog ID="15" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>None</VoiceFile>
+          <Content>(!!!)</Content>
+        </Dialog>
+        <Dialog ID="16" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu10</VoiceFile>
+          <Content>El libro de Mars… ¿Eso es lo que sucede cuando la gente muere ahí…?</Content>
+        </Dialog>
+        <Dialog ID="17" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu11</VoiceFile>
+          <Content>No dejaré que se aprovechen de él… No se los permitiré…</Content>
+        </Dialog>
+        <Dialog ID="18" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu12</VoiceFile>
+          <Content>Pero si le digo a San, intentara detenerme…</Content>
+        </Dialog>
+        <Dialog ID="19" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu13</VoiceFile>
+          <Content>Iré yo misma. Tengo amigos que pueden ayudarme…</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Dentro de la Biblioteca</PlaceName>
+        <Dialog ID="20" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland1</VoiceFile>
+          <Content>Vaya, eso sí que es desgarrador. No debimos haberlo visto.</Content>
+        </Dialog>
+        <Dialog ID="21" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela1</VoiceFile>
+          <Content>Eso es hilarante, teniendo en cuenta que viene de la misma persona que me dio un discurso sobre por qué los Fixers no deberían apegarse a los demás.</Content>
+        </Dialog>
+        <Dialog ID="22" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland2</VoiceFile>
+          <Content>Eso es eso, y esto es esto.</Content>
+        </Dialog>
+        <Dialog ID="23" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland3</VoiceFile>
+          <Content>Aun así, tener una reacción a cada pérdida es un gasto de energía innecesario. Todo el mundo vive con cargas que llevar.</Content>
+        </Dialog>
+        <Dialog ID="24" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland4</VoiceFile>
+          <Content>Tengo mi cúmulo de eventos desafortunados, y así también es con los demás.</Content>
+        </Dialog>
+        <Dialog ID="25" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland5</VoiceFile>
+          <Content>Además, es bastante rudo exponer eso sin que el oyente lo pida. Se molestarán al aprender algo que realmente no necesitaban saber.</Content>
+        </Dialog>
+        <Dialog ID="26" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland6</VoiceFile>
+          <Content>Contarles tu triste historia solo te hará parecer que estás intentando mostrar lo pesada que es tu propia carga. Posiblemente sentirán simpatía hacia ti, aunque también disgusto.</Content>
+        </Dialog>
+        <Dialog ID="27" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland7</VoiceFile>
+          <Content>No te sobreexpreses, sin importar si estás contento o triste, y solo despídete con las palabras apropiadas. Es por el bien de ambos.</Content>
+        </Dialog>
+        <Dialog ID="28" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela2</VoiceFile>
+          <Content>Eso suena aún más agotador para mí.</Content>
+        </Dialog>
+        <Dialog ID="29" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland8</VoiceFile>
+          <Content>Y, sobre todo, no debería dejar que mis sentimientos interfieran con mi trabajo como bibliotecaria.</Content>
+        </Dialog>
+        <Dialog ID="30" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland9</VoiceFile>
+          <Content>Supongo que debo tener los pies en la tierra y ayudarte a recolectar los libros sobre la Ciudad.</Content>
+        </Dialog>
+        <Dialog ID="31" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela3</VoiceFile>
+          <Content>Así es. En el momento que dejes de serme útil, me desharé de ti.</Content>
+        </Dialog>
+        <Dialog ID="32" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland10</VoiceFile>
+          <Content>Entonces simplemente volveré a mi tarea de ser un sirviente útil por el bien de mi supervivencia, señorita.</Content>
+        </Dialog>
+      </Place>
+      <Place>
+        <PlaceName>Ubicación: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="33" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela4</VoiceFile>
+          <Content>Bienvenid—</Content>
+        </Dialog>
+        <Dialog ID="34" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu14</VoiceFile>
+          <Content>Cállate. No necesito que me salude una ruin pieza de basura.</Content>
+        </Dialog>
+        <Dialog ID="35" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu15</VoiceFile>
+          <Content>Estoy aquí por el libro de Mars. Obtendré su libro, mataré a cada monstruo de aquí, y te cortaré la cabeza de tajo.</Content>
+        </Dialog>
+        <Dialog ID="36" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela5</VoiceFile>
+          <Content>Lamento informarle que su tercera afirmación será difícil de cumplir, querida invitada.</Content>
+        </Dialog>
+        <Dialog ID="37" Model="루루">
+          <Teller>Lulu</Teller>
+          <Title>Fixer de la Farola</Title>
+          <VoiceFile>ch2_Streetlight_ep2_lulu16</VoiceFile>
+          <Content>Dije que te calles.</Content>
+        </Dialog>
+        <Dialog ID="38" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela6</VoiceFile>
+          <Content>Ahh… Que encuentre su libro en este lugar.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+    <Episode>
+      <EpisodeName>에피소드2-종료</EpisodeName>
+      <Place>
+        <PlaceName>Ubicación: Entrada de la Biblioteca</PlaceName>
+        <Dialog ID="0" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela7</VoiceFile>
+          <Content>¿Estás sintiendo culpa o alguna emoción fuerte?</Content>
+        </Dialog>
+        <Dialog ID="1" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland11</VoiceFile>
+          <Content>Mentiría si dijera que no estoy sintiendo nada, pero…</Content>
+        </Dialog>
+        <Dialog ID="2" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland12</VoiceFile>
+          <Content>De por sí ya he visto muchas de estas tragedias baratas. También he sido víctima yo mismo de ellas muchas veces.</Content>
+        </Dialog>
+        <Dialog ID="3" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela8</VoiceFile>
+          <Content>Suenas como un veterano conmemorado para alguien que se introdujo como un “Fixer principiante”.</Content>
+        </Dialog>
+        <Dialog ID="4" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland13</VoiceFile>
+          <Content>Tengo mis razones. ¿Por qué? ¿Tienes curiosidad?</Content>
+        </Dialog>
+        <Dialog ID="5" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela9</VoiceFile>
+          <Content>Dijiste que era rudo hablar de eso, ¿no es cierto?</Content>
+        </Dialog>
+        <Dialog ID="6" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland14</VoiceFile>
+          <Content>…</Content>
+        </Dialog>
+        <Dialog ID="7" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela10</VoiceFile>
+          <Content>Además, si quisiera saberlo bastaría con volverte un libro y leer tu historia.</Content>
+        </Dialog>
+        <Dialog ID="8" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland15</VoiceFile>
+          <Content>E-Espera, un segundo, es mejor que no lleguemos a eso…</Content>
+        </Dialog>
+        <Dialog ID="9" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland16</VoiceFile>
+          <Content>Pero, ¿qué tal tú? Tengo curiosidad sobre qué opina nuestra jefa bibliotecaria.</Content>
+        </Dialog>
+        <Dialog ID="10" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela11</VoiceFile>
+          <Content>¿Yo? Soy indiferente. He visto muchas relaciones y muertes pre-guionizadas en bucle.</Content>
+        </Dialog>
+        <Dialog ID="11" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela12</VoiceFile>
+          <Content>Así que he tratado de tener un sistema donde la gente pueda elegir libremente su destino, sin algún tipo de coacción.</Content>
+        </Dialog>
+        <Dialog ID="12" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland17</VoiceFile>
+          <Content>A ver, es verdad que todos leen las advertencias en las invitaciones y acuerdan los términos firmando con sus nombres, pero…</Content>
+        </Dialog>
+        <Dialog ID="13" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland18</VoiceFile>
+          <Content>Sigue siendo juego sucio, ¿sabes? Eres imposible de matar, y yo soy capaz de revivir cada vez que muero</Content>
+        </Dialog>
+        <Dialog ID="14" Model="앤젤라">
+          <Teller>Angela</Teller>
+          <Title>Directora de la Biblioteca</Title>
+          <VoiceFile>ch2_Streetlight_ep2_angela13</VoiceFile>
+          <Content>De nuevo con eso. ¿No habías dicho que mis métodos eran justos?</Content>
+        </Dialog>
+        <Dialog ID="15" Model="롤랑">
+          <Teller>Roland</Teller>
+          <Title>Sirviente</Title>
+          <VoiceFile>ch2_Streetlight_ep2_roland19</VoiceFile>
+          <Content>Si, sí. Tienes razón. Es bastante más educado y justo que la mayoría de las cosas en la Ciudad.</Content>
+        </Dialog>
+      </Place>
+    </Episode>
+  </Group>
+</ScenarioRoot>

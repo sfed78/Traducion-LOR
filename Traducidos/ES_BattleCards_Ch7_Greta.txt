@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703311">
+      <LocalizedName>Abofetear y Doblar</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Ganar Choque] Inflige 1 de Sangrado en la siguiente Escena</Behaviour>
+      <Behaviour ID="1">[Al Ganar Choque] Inflige 1 de Sangrado en la siguiente Escena</Behaviour>
+      <Behaviour ID="2">[Al Ganar Choque] Gana 1 de fuerza en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703312">
+      <LocalizedName>Establecerse en Vapor</LocalizedName>
+      <Ability>Greta pierde 1 de Resiliencia cada vez que pierde un choque usando esta página</Ability>
+      <Behaviour ID="0">[Al Ganar Clash] Inflige 2 de Sangrados en la siguiente Escena</Behaviour>
+      <Behaviour ID="1">[Al Ganar Clash] Inflige 2 de Sangrados en la siguiente Escena</Behaviour>
+      <Behaviour ID="2">[Al Ganar Clash] Inflige 2 de Sangrados en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703313">
+      <LocalizedName>Romper un Huevo</LocalizedName>
+      <Ability>Si el objetivo ha sangrado, los dados de esta página ganan +2 de Poder</Ability>
+      <Behaviour ID="1">[Al Golpear] Inflige 3 de Ataduras y Parálisis en la siguiente Escena</Behaviour>
+      <Behaviour ID="2">[Al Ganar Clash] Inflige 1 de Sangrado en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703314">
+      <LocalizedName>Sazonar la Carne</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Golpear] Inflige 1 de Sangrado y Fragiliza la siguiente Escena</Behaviour>
+      <Behaviour ID="1">[Al Golpear] Inflige 1 de Sangrado y Fragiliza la siguiente Escena</Behaviour>
+      <Behaviour ID="2">[Al Golpear] Inflige 1 de Sangrado y Fragiliza la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703315">
+      <LocalizedName>Desmenuzar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703316">
+      <LocalizedName>Aplastar</LocalizedName>
+      <Ability>No se puede redirigir</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703317">
+      <LocalizedName>Golpe de Prueba</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al Golpear] Recupera 8 HP; si el objetivo tiene Sangrado, aumenta el daño en +10</Behaviour>
+      <Behaviour ID="3">[Al Ganar Clash] Inflige 2 de Sangrados en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703318">
+      <LocalizedName>Prueba de Sabor</LocalizedName>
+      <Ability>Apunta a todos los demás personajes. Si el objetivo tiene Sangrado, el primer dado gana +2 de Poder</Ability>
+      <Behaviour ID="0">[Al Golpear] Recupera 10 HP; reciclado contra un enemigo aleatorio que no apuntó a esta página</Behaviour>
+      <Behaviour ID="1">[Al Ganar Choque] Inflige 2 de Sangrados en la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703319">
+      <LocalizedName>¡En el Saco Vas!</LocalizedName>
+      <Ability>[En Uso] Cancela la acción del objetivo y conviértelo en Carne Fresca</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703310">
+      <LocalizedName>Hora de Comer</LocalizedName>
+      <Ability>No se puede redirigir</Ability>
+      <Behaviour ID="0">[Al Golpear] Recupera 20 HP</Behaviour>
+    </BattleCardDesc>
+
+    <!--그레타 2차-->
+    <BattleCardDesc ID="707301">
+      <LocalizedName>Plamazo de Powsowdie </LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707302">
+      <LocalizedName>Batidor de Cola</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707303">
+      <LocalizedName>Hora de Cazar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707304">
+      <LocalizedName>Cola de Casa Redonda</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707305">
+      <LocalizedName>Montaje de Tacleo</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

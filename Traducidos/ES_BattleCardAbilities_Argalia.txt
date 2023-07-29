@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="argaliaVibrateUp2">
+    <Desc>[Al Golpe] El objetivo gana 2 Vibraciones</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateUp3">
+    <Desc>[Al Golpe] El objetivo gana 3 Vibraciones</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateUp4">
+    <Desc>[Al Golpe] El objetivo gana 4 Vibraciones</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateDown1">
+    <Desc>[Al Golpe] El objetivo pierde 1 Vibración</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaVibrateDown2">
+    <Desc>[Al Golpe] El objetivo pierde 2 Vibración</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="argaliaLoseDice">
+    <Desc>[En Choque Pierde] El oponente pierde 2 Vibraciones</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="argaliaStrengthPl">
+    <Desc>[En Choque Pierde] Gana 3 puntos de Fuerza en la siguiente Escena</Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="vibrateActivate">
+    <Desc>[En Uso] Si la Velocidad es igual a la Vibración del objetivo, todos los dados en esta página obtienen +4 de Poder y el objetivo pierde toda la Vibración</Desc>
+    <Desc></Desc>
+  </BattleCardAbility>
+
+  <BattleCardAbility ID="argaliaDefense">
+    <Desc>Si algún Dado de ContraAtaq./ContraDef. de esta página permanece al final de la Escena, gana 3 de Fuerza en la siguiente Escena (no se acumula)</Desc>
+  </BattleCardAbility>
+  <BattleCardAbility ID="argaliaDefenseDice">
+    <Desc>Si este dado permanece hasta el final de la Escena, gana 3 de Fuerza en la siguiente Escena</Desc> <!-- empty -->
+  </BattleCardAbility>
+</BattleCardAbilityDescRoot>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <!-- 잔향 악단 공통 -->
+  <PassiveDesc ID="1300001">
+    <Name>Nuovo Fabric</Name>
+    <Desc>Recibe 1 o 2 menos de daño y daño Stagger de los ataques.</Desc>
+  </PassiveDesc>
+  
+  <!-- 아르갈리아 -->
+  <PassiveDesc ID="1310011">
+    <Name>Shimmering</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310012">
+    <Name>Resonancia</Name>
+    <Desc>Utiliza 'Resonar', una Pagina de Combate que se vuelve más fuerte si la Velocidad de Argalia es igual a la vibración de su objetivo.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310013">
+    <Name>Final Impromptu</Name>
+    <Desc>Cuando HP cae a 25, purga todos los estados alterados y recupera completamente la Resistencia Stagger. Luego, usa la Página de Combate 'Final Impromptu'.
+HP no cae por debajo de 25 hasta que esto sucede.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1310014">
+    <Name>Compromiso Total</Name>
+    <Desc>Inmune a la Inmovilización. Aumento de Max HP y Resistencia Stagger del oponente. 
+El Numero de dados del oponente, las Paginas sacados por Escena y la recuperación de Luz aumentan en 2.
+
+Si no hay otros aliados presentes al final de la Escena, gana 3 de Fuerza en la siguiente Escena.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

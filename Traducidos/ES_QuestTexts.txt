@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <text id="quest_keter1_1">Enviar la Invitación</text>
+  <text id="quest_keter1_2">Consigue el Libro de [Finn]</text>
+  <text id="quest_keter2_1">Desbloquea todos los Pisos Inferiores</text>
+  <text id="quest_keter2_2">Asciende al rango de Mito Urbano</text>
+  <text id="quest_keter2_3">Asciende al rango de Leyenda Urbana</text>
+  <text id="quest_keter3_1">Desbloquea todos los Pisos Intermedios</text>
+  <text id="quest_keter3_2">Asciende al rango de Plaga Urbana</text>
+  <text id="quest_keter3_3">Asciende al rango de Pesadilla Urbana</text>
+  <text id="quest_keter4_1">Desbloquea todos los Pisos Superiores</text>
+  <text id="quest_keter4_2">Asciende al rango de Estrella de la Ciudad</text>
+  <text id="quest_keter5_1">???</text>
+
+  <text id="quest_malkuth1_1">Obtén el Libro de la [Hermandad de Hierro]</text>
+  <text id="quest_malkuth2_1">Usa páginas de Anomalías en Bibliotecarios en batalla</text>
+  <text id="quest_malkuth2_3">Obtén el Libro de la [Distorsión]</text>
+  <text id="quest_malkuth3_1">Obtén el Libro de [El Carnaval]</text>
+  <text id="quest_malkuth3_2">Obtén el Libro de [Oficina de la Mirada]</text>
+  <text id="quest_malkuth3_3">Obtén el Libro de [Alloc]</text>
+  <text id="quest_malkuth4_1">Obtén el Libro de [un Limpiador]</text>
+  <text id="quest_malkuth4_2">Obtén el Libro de [un Prosélito Índice]</text>
+
+  <text id="quest_yesod1_1">Obtén el Libro de [Jack]</text>
+  <text id="quest_yesod1_2">Obtén el Libro de [Pierre]</text>
+  <text id="quest_yesod2_1">Completa un Acto después de que tres bibliotecarios hayan alcanzado el Nivel de Emoción 2</text>
+  <text id="quest_yesod2_2">Obtén el Libro de [Walter]</text>
+  <text id="quest_yesod2_3">Ver el tercer episodio de la historia de Malkuth</text>
+  <text id="quest_yesod3_1">Obtén el Libro de [Oficina de Punto Completo]</text>
+  <text id="quest_yesod3_2">Obtén el Libro de [Liwei]</text>
+  <text id="quest_yesod3_3">Obtén el Libro de [Oficina de la Mirada]</text>
+  <text id="quest_yesod4_1">Obtén el Libro de [Tomerry]</text>
+  <text id="quest_yesod4_2">Obténel Libro de [un Titere]</text>
+  <text id="quest_yesod4_3">Obtén el Libro de [Equipo de Limpieza WARP]</text>
+  <text id="quest_yesod5_1">Realice completamente el Piso de la Historia</text>
+
+  <text id="quest_hod1_1">Obtén el Libro de [Lulu]</text>
+  <text id="quest_hod2_1">Complete una recepción usando solo páginas cuyos Costos sean números impares</text>
+  <text id="quest_hod2_2">Obtén el Libro de [Olga]</text>
+  <text id="quest_hod2_3">Ver el tercer episodio de la historia de Yesod</text>
+  <text id="quest_hod3_1">Obtén el Libro de [El Carnaval]</text>
+  <text id="quest_hod3_2">Obtén el Libro de [Salvador]</text>
+  <text id="quest_hod4_1">Obtener el Libro de [Asociación Shi]</text>
+  <text id="quest_hod4_2">Obtén el Libro de [las Caras Sonrientes]</text>
+  <text id="quest_hod5_1">Realización completa del Piso de Ciencias Tecnológicas</text>
+
+
+  <text id="quest_netzach1_1">Obtén [Zwei Sección Sur 6, vol. Ⅰ]</text>
+  <text id="quest_netzach2_1">Completa una recepción sin perder ningún bibliotecario</text>
+  <text id="quest_netzach2_2">Obtén el Libro de [Gyeong-mi]</text>
+  <text id="quest_netzach2_3">Ver el tercer episodio de la historia de Hod</text>
+  <text id="quest_netzach3_1">Obtén el Libro de [Oficina de Punto Completo]</text>
+  <text id="quest_netzach3_2">Obtén el Libro de [Salvador]</text>
+  <text id="quest_netzach4_1">Consigue el Libro de [Oficina de Cuña]</text>
+  <text id="quest_netzach4_2">Obtén el libro de [Emma]</text>
+  <text id="quest_netzach4_3">Obtén el [Libro Inestable de los Niños Llorando]</text>
+  <text id="quest_netzach5_1">Completely realize the Floor of Literature</text>
+
+  <text id="quest_tiphereth1_1">Obtain the Book of [Sayo]</text>
+  <text id="quest_tiphereth1_2">Obtain the Book of [Meow]</text>
+  <text id="quest_tiphereth2_1">Obtain the Book of [Tomerry]</text>
+  <text id="quest_tiphereth2_2">Obtain the Book of [Oscar]</text>
+  <text id="quest_tiphereth2_3">Completa la recepción de la [Oficina de Cuña]</text>
+  <text id="quest_tiphereth3_1">Obtén el [Libro inestable de los Niños Llorando]</text>
+  <text id="quest_tiphereth4_1">Complete la Recepción de [Sección 1 de la Asociación Liu]</text>
+  <text id="quest_tiphereth4_2">Obtén el Libro de [Asociación Liu Sección 1]</text>
+  <text id="quest_tiphereth4_3">Obtén el Libro de [Chun]</text>
+  <text id="quest_tiphereth5_1">Realice completamente el Piso de la Historia</text>
+
+  <text id="quest_gebura1_1">Obtén el libro de [un Limpiador]</text>
+  <text id="quest_gebura1_2">Obtén el Libro de [Asociación Shi]</text>
+  <text id="quest_gebura1_3">Obtén el Libro de [Yujin]</text>
+  <text id="quest_gebura2_1">Obtén el Libro de [un Prosélito Índice]</text>
+  <text id="quest_gebura2_2">Obtén el Libro de [las Caras Sonrientes]</text>
+  <text id="quest_gebura2_3">Obtén el Libro de [Wang]</text>
+  <text id="quest_gebura3_1">Completa la Recepción de [la Reverberación Azul]</text>
+  <text id="quest_gebura3_2">Obtén el libro de [un Adorador de la Iglesia de Engranajes]</text>
+  <text id="quest_gebura4_1">Obtén el Libro de [la Niebla Roja]</text>
+  <text id="quest_gebura5_1">Realización completa del Piso de Ciencias Naturales</text>
+
+  <text id="quest_chesed1_1">Obtén el Libro de [una Titere]</text>
+  <text id="quest_chesed1_2">Obtén el Libro de [una Titere Pesada]</text>
+  <text id="quest_chesed1_3">Obtén el Libro de [Emma]</text>
+  <text id="quest_chesed2_1">Obtén el Libro de [un Prosélito Índice]</text>
+  <text id="quest_chesed2_2">Obtén el Libro de [Equipo de Limpieza WARP]</text>
+  <text id="quest_chesed2_3">Obtén el Libro de [Rose]</text>
+  <text id="quest_chesed3_1">Obtén el Libro de [Nemo]</text>
+  <text id="quest_chesed3_2">Obtén el Libro de [Martina]</text>
+  <text id="quest_chesed3_3">Obtén el Libro de [Bada]</text>
+  <text id="quest_chesed4_1">Obtén el Libro de [el Índice]</text>
+  <text id="quest_chesed4_2">Obtén el Libro de [Ester]</text>
+  <text id="quest_chesed4_3">Obtén el Libro de [Nikolai]</text>
+  <text id="quest_chesed5_1">Realice completamente el Piso de la Lengua</text>
+
+  <text id="quest_binah1_1">Obtén el Libro de [Lowell]</text>
+  <text id="quest_binah1_2">Obtén el Libro de [Mei]</text>
+  <text id="quest_binah1_3">Obtén el Libro de [Cecil]</text>
+  <text id="quest_binah2_1">Obtén el Libro de [Asociación Liu Sección 1]</text>
+  <text id="quest_binah2_2">Obtén el Libro de [Chun]</text>
+  <text id="quest_binah3_1">Obtén el Libro de [la Niebla Roja]</text>
+  <text id="quest_binah3_2">Obtén el Libro de [Nikolai]</text>
+  <text id="quest_binah3_3">Obtén el Libro de [Myo]</text>
+  <text id="quest_binah4_1">Obtén el Libro de [Xiao]</text>
+  <text id="quest_binah4_2">Obtén el Libro de [Asociación Hana]</text>
+  <text id="quest_binah4_3">Realización completa del Piso de Ciencias Sociales</text>
+  <text id="quest_binah4_4">Elevar la Realización del Piso de Obras Generales a 5</text>
+
+
+  <text id="quest_hokma1_1">Obtén el Libro de [Kalo]</text>
+  <text id="quest_hokma1_2">Obtén el Libro de [Boris]</text>
+  <text id="quest_hokma1_3">Obtén el Libro de [Katriel]</text>
+  <text id="quest_hokma1_4">Obtén el Libro de [Denis]</text>
+  <text id="quest_hokma2_1">Obtén el Libro de [Ester]</text>
+  <text id="quest_hokma2_2">Obtén el Libro de [Hubert]</text>
+  <text id="quest_hokma2_3">Obtén el Libro de [Gloria]</text>
+  <text id="quest_hokma3_1">Obtén el Libro de [Rudolph]</text>
+  <text id="quest_hokma3_2">Obtén el Libro de [Maxim]</text>
+  <text id="quest_hokma4_1">Obtén el Libro de [얀샋ㄷ요무]</text>
+  <text id="quest_hokma4_2">Obtén el Libro de [Asociación Hana]</text>
+  <text id="quest_hokma4_3">Realice completamente el Piso del Arte</text>
+  <text id="quest_hokma4_4">Elevar la Realización del Piso de Obras Generales a 5</text>
+
+  <text id="quest_getbook">Obtén el Libro de [???]</text>
+  <text id="quest_battle">Completa la Recepción de [???]</text>
+</localize>

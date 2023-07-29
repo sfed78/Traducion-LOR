@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <!-- 아르갈리아 뒤틀림-->
+  <PassiveDesc ID="1410011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410012">
+    <Name>Il Direttore dell’Ensemble Riverbero</Name>
+    <Desc>Mientras Pluto o Elena estén vivos, el HP no baja de 100. Gana un dado de Velocidad por cada otro miembro del Conjunto que muera en esta recepción.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410013">
+    <Name>Emozioni Intensificantesi</Name>
+    <Desc>Cada 4 Escenas, otorga a todos los miembros del Conjunto de la Reverberacion 'Durante el acto, gana 1 de Fuerza y Resistencia en cada escena'.
+Al final de la Escena, los Niveles de Emocion de todos los personajes aumentan en 2.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1410014">
+    <Name>El Gran Final</Name>
+    <Desc>Si no hay otros miembros de Conjunto de la Reverberacion presentes, recupere completamente Resistencia Stagger y use un conjunto diferente de Paginas de Combate.</Desc>
+  </PassiveDesc>
+
+  <!-- 엘레나 뒤틀림-->
+  <PassiveDesc ID="1408011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1408012">
+    <Name>Velocidad</Name>
+    <Desc>Ranura para Dados de Velocidad +1. Gana un dado de Velocidad en la cuarta Escena. Gana uno adicional si hay un enemigo cuyo Nivel de Emocion es 4 o superior.
+No obtiene dados de Velocidad de las bonificaciones de Nivel de Emocion.</Desc>
+  </PassiveDesc>
+  
+  <!-- 플루토 뒤틀림 -->
+  <PassiveDesc ID="1409011">
+    <Name>Reluciente</Name>
+    <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409012">
+    <Name>Irrazonable</Name>
+    <Desc>Cada Escena, usa una Pagina de Combate de 'Contrato Injusto'.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409013">
+    <Name>Estigia Sombria</Name>
+    <Desc>Genera una Sombra en la segunda Escena. La Sombra obtiene una copia de la mano y el mazo del Patron Bibliotecario (excluyendo las páginas [Al Uso]). Si el Patron Bibliotecario no está presente, se copiará el mazo de otro bibliotecario al azar.</Desc>
+  </PassiveDesc>
+  
+  
+  <PassiveDesc ID="1409021">
+    <Name>Sin Luz</Name>
+    <Desc>Si Pluto no está presente al final de la Escena, muere.</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="1409022">
+    <Name>Sombra Poderosa</Name>
+    <Desc>Poder +1 a Dados. Utiliza la Pagina de Combate de la Sombra en cada Escena.</Desc>
+  </PassiveDesc>
+ 
+</PassiveDescRoot>

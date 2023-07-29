@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <text id="BattleUI_StartBattle_Act">Escena {0}</text>
+  <text id="BattleUI_StartBattle_WaveInfo">Acto {0}</text>
+  <text id="BattleUI_Victory_Floor">El telón del acto {1} se cierra en {0}</text>
+  <text id="BattleUI_Victory_Final">Se cierra el telón para la recepción de {0}</text>
+  <text id="BattleUI_Defeat_Floor">Derrota en el Acto {1} en {0}</text>
+  <text id="BattleUI_Defeat_Final">Recepción de {0} concluida</text>
+  <text id="BattleUI_HideCard">Ocultar</text>
+  <text id="BattleUI_ShowCard">Mostrar</text>
+  <text id="BattleUI_GetBook">{0} Obtenido</text>
+  <text id="BattleUI_Abnormality">Anormalidad</text>
+  <text id="BattleUI_Light">Luz</text>
+  <text id="BattleUI_Ability">Efecto</text>
+  <text id="BattleUI_Passive">Efecto Pasivo</text>
+  <text id="BattleUI_SelectAbnormality">Selecciona una Anormalidad</text>
+  <text id="BattleUI_Get_Emotion_Positive">Emocion Positiva Obtenida</text>
+  <text id="BattleUI_Get_Emotion_Negative">Emocion Negativa Obtenida</text>
+  <text id="BattleUI_Quick_Mode">Modo Rapido</text>
+  <text id="BattleUI_MaxValue">¡Daño Máximo!</text>
+  <text id="BattleUI_Breaked">¡Aturdido!</text>
+  <text id="BattleUI_SpeedDiceBonus">Bonus por Velocidad</text>
+  <text id="BattleUI_Deflect">¡Reflejado!</text>
+  <text id="BattleUI_StartBattle_CreatureInfo">{0}</text>
+  <text id="BattleUI_Victory_Creature">Supresión de {0} Completada</text>
+  <text id="BattleUI_Defeat_Creature">Supresión de {0} Fallida</text>
+
+
+  <text id="BattleUI_EmotionLevel">Nivel Emocional</text>
+
+
+  <text id="BattleUI_Selectegocard">Selecciona un E.G.O</text>
+
+
+  <text id="BattleUI_DiceTypeBonus">Ventaja en Tipo de Poder + {0}</text>
+
+
+  <text id="BattleUI_EmotionLevel_AddMaxPlayPoint">Luz Maxima +1</text>
+  <text id="BattleUI_EmotionLevel_AddSpeedDice">Velocidad de los Dados +1</text>
+  <text id="BattleUI_EmotionLevel_AddDrawNum">Despues de usar dos o más Páginas de Combate en una Escena, obtén una página adicional en la siguiente</text>
+
+
+
+
+  <text id="BattleUI_Book_DropProb">{0}: {1}%</text>
+  <text id="BattleUI_Book_DropNum">{0} copias</text>
+
+
+  <text id="BattleUI_Speed_Max">Velocidad Máxima</text>
+
+
+  <text id="BattleUI_debuf">Estados Alterados</text>
+</localize>

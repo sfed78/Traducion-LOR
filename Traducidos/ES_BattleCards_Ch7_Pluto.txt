@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703901">
+      <LocalizedName>Contrato de Libertad</LocalizedName>
+      <Ability>[Inicio de Combate] Agrega una copia de 'Contrapartida - Libertad' a la mano del objetivo (Libertad: Costos aleatorios; debe usar páginas con un Costo determinado)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703902">
+      <LocalizedName>Contrato de Ampliación</LocalizedName>
+      <Ability>[Inicio de Combate] Agrega una copia de 'Contraparte - Amplificación' a la mano del objetivo (Amplificación: las páginas de un cierto Costo ganan Poder; otras pierden Poder)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703903">
+      <LocalizedName>Contrato de Rapidez</LocalizedName>
+      <Ability>[Inicio de combate] Agregue una copia de 'Contrapartida - Rapidez' a la mano del objetivo (Rapidez: Gana Celeridad; debe participar en choque)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703904">
+      <LocalizedName>Contrato de Poder</LocalizedName>
+      <Ability>[Inicio de Combate] Agrega una copia de 'Contraparte - Poder' a la mano del objetivo (Poder: Gana Fuerza; debe usar páginas con un dado Ofensivo)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703905">
+      <LocalizedName>Contrato de Luz</LocalizedName>
+      <Ability>[Inicio de Combate] Añade una copia de 'Contraparte - Luz' a la mano del objetivo (Luz: Restaura completamente la Luz; debes usarla toda)</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703906">
+      <LocalizedName>Contraparte - Libertad</LocalizedName>
+      <Ability>[Permanece en la Mano] Mientras esta página esté en la mano, obtenga el efecto 'Obligación Contractual: Libertad'</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703907">
+      <LocalizedName>Contraparte - Amplificación</LocalizedName>
+      <Ability>[Permanece en la Mano] Mientras esta página esté en la mano, obtenga el efecto 'Obligación Contractual: Amplificación'</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703908">
+      <LocalizedName>Contraparte - Rapidez</LocalizedName>
+      <Ability>[Permanece en la Mano] Mientras esta página esté en la mano, obtenga el efecto 'Obligación Contractual: Rapidez'</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703909">
+      <LocalizedName>Contraparte - Poder</LocalizedName>
+      <Ability>[Permanece en la Mano] Mientras esta página esté en la mano, obtenga el efecto 'Obligación Contractual: Poder'</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703910">
+      <LocalizedName>Contraparte - Luz</LocalizedName>
+      <Ability>[Permanece en la Mano] Mientras esta página esté en la mano, obtenga el efecto 'Obligación Contractual: Ligera'</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703911">
+      <LocalizedName>Magia: Desviación</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703912">
+      <LocalizedName>Magic: Missile</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703913">
+      <LocalizedName>Magia: Embestida</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703914">
+      <LocalizedName>Magia: Salvaguardia</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703915">
+      <LocalizedName>Hexa: sello</LocalizedName>
+      <Ability>[En Uso] Atrapa al objetivo en una barrera en la siguiente Escena</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703916">
+      <LocalizedName>Hexa: Llamada</LocalizedName>
+      <Ability>[Inicio de combate] Invoca una Sombra del bibliotecario atrapado en la barrera del siguiente Escena</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703917">
+      <LocalizedName>Hexa: Intercambio</LocalizedName>
+      <Ability>Al final de la Escena, cambia el HP del bibliotecario atrapado en la barrera con el de Sombras</Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703918">
+      <LocalizedName>Diluvio de Quietus Braquiales</LocalizedName>
+      <Ability>Al final de la Escena, recibe un daño de Aturdimiento igual a 5 veces la cantidad de veces que cada dado falló al infligir daño</Ability>
+    </BattleCardDesc>
+
+    <BattleCardDesc ID="703921">
+      <LocalizedName>Imagen de la Sombra</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="1">[Al Perder Choque] Este personaje usará la página que se enfrentó contra la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703922">
+      <LocalizedName>¡¡¡YO SOY EL VERDADERO!!!</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703923">
+      <LocalizedName>Pasto Sombreado</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703924">
+      <LocalizedName>Golpe Sombreado</LocalizedName>
+      <Ability></Ability>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703925">
+      <LocalizedName>Imagen de la Sombra</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="0">[Al Perder Choque] Este personaje usará la página que se enfrentó contra la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703926">
+      <LocalizedName>Imagen de la Sombra</LocalizedName>
+      <Ability></Ability>
+      <Behaviour ID="2">[Al Perder Choque] Este personaje usará la página que se enfrentó contra la siguiente Escena</Behaviour>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

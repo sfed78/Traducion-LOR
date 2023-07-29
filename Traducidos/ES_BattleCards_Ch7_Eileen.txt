@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="703201">
+      <LocalizedName>Engranaje de Pensamiento: Acelerar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703202">
+      <LocalizedName>Engranaje de Pensamiento: Predicar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703203">
+      <LocalizedName>Engranaje de Pensamiento: Propagar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703204">
+      <LocalizedName>Engranaje de Carne: Mejorar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703205">
+      <LocalizedName>Engranaje de Carne: Inspirar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703206">
+      <LocalizedName>Engranaje de Carne: Acelerar</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="703207">
+      <LocalizedName>Engranaje de Pensamiento: Lavado de Cerebro</LocalizedName>
+    </BattleCardDesc>
+
+    <!--뒤틀림-->
+    <BattleCardDesc ID="707201">
+      <LocalizedName>Engranaje de Pensamiento: Predecir</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707202">
+      <LocalizedName>Engranaje de Pensamiento: Combustión</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707203">
+      <LocalizedName>Engranaje de Pensamiento: Desbordamiento de óxido</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707204">
+      <LocalizedName>Engranaje de Carne: Ciclo de Humo</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707205">
+      <LocalizedName>Engranaje de Carne: Imbuir</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="707206">
+      <LocalizedName>Engranaje de pensamiento: Adviento</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>
