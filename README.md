@@ -1,4 +1,4 @@
-# Traducion-LOR
+# Traducción-LOR
 
 Miembros del Equipo:
 
