@@ -3710,13 +3710,13 @@
         </Dialog>
         <Dialog ID="13" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena5-01</VoiceFile>
           <Content>Soy Elena, actualmente trabajo como enfermera.</Content>
         </Dialog>
         <Dialog ID="14" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena6-01</VoiceFile>
           <Content>Y este es Jae-heon, un doctor de nuestro hospital.</Content>
         </Dialog>
@@ -3734,19 +3734,19 @@
         </Dialog>
         <Dialog ID="17" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena7</VoiceFile>
           <Content>Es mi primera vez experimentando un retraso como este, también.</Content>
         </Dialog>
         <Dialog ID="18" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena8-01</VoiceFile>
           <Content>Veras, he usado los trenes WARP con bastante frecuencia. Siempre había tenido un placentero viaje de 10 segundos a mi destino.</Content>
         </Dialog>
         <Dialog ID="19" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena9</VoiceFile>
           <Content>Conoce algo sobre un accidente como este, ¿doctor?</Content>
         </Dialog>
@@ -3770,19 +3770,19 @@
         </Dialog>
         <Dialog ID="23" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena10</VoiceFile>
           <Content>Dejame contarselo yo.</Content>
         </Dialog>
         <Dialog ID="24" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena11-01</VoiceFile>
           <Content>Tommy, estuviste dormido por los últimos tres días. ¿Tienes algo de sed ahora mismo?</Content>
         </Dialog>
         <Dialog ID="25" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena12-01</VoiceFile>
           <Content>No consumiste ningún tipo de agua o líquido mientras estuviste desmayado, por cierto.</Content>
         </Dialog>
@@ -3800,13 +3800,13 @@
         </Dialog>
         <Dialog ID="28" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena13-01</VoiceFile>
           <Content>Por alguna razón, nadie aquí aparenta sentir ningún tipo de hambre o sed.</Content>
         </Dialog>
         <Dialog ID="29" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena14-02</VoiceFile>
           <Content>Para ser más específicos, nadie ha mostrado ningún tipo de disfunción o aflicción en sus funciones fisiológicas vitales.</Content>
         </Dialog>
@@ -3818,7 +3818,7 @@
         </Dialog>
         <Dialog ID="31" Model="엘레나">
           <Teller>Elena</Teller>
-          <Title>Emfermera</Title>
+          <Title>Enfermera</Title>
           <VoiceFile>ch4_Tomerry_ep1_elena15-01</VoiceFile>
           <Content>No tenemos idea… Esperemos un poco más. Al final, parece ser que todo lo que tenemos es tiempo.</Content>
         </Dialog>
