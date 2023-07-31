@@ -10,13 +10,17 @@ Miembros del Equipo:
 
 * Kasuki — Traductor
 
-* Lynn — Traductora
+* Lynn — Traductora y partes de software
 
 * Mike - Traductor
 
 * UrathObsidian - Traductor
 
 * Nine - Traductor
+  
+* Mandirintablos - Traductor
+
+   
 
 TODO LO QUE ESTÁ AQUÍ ESTA SUJETO A CAMBIOS Y NO REPRESENTA EL PRODUCTO FINAL. 
 
