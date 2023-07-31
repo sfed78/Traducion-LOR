@@ -2438,7 +2438,7 @@
         </Dialog>
         <Dialog ID="1" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador1</VoiceFile>
           <Content>Gracias, Philip.</Content>
         </Dialog>
@@ -2450,13 +2450,13 @@
         </Dialog>
         <Dialog ID="3" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador2</VoiceFile>
           <Content>Caramba, y esto es lo que tengo que escuchar acerca de mi viejo amigo…</Content>
         </Dialog>
         <Dialog ID="4" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador3</VoiceFile>
           <Content>Este té tienen un fuerte aroma y sabor hoy. Me gusta.</Content>
         </Dialog>
@@ -2474,7 +2474,7 @@
         </Dialog>
         <Dialog ID="7" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador4</VoiceFile>
           <Content>Philip, has oído de ‘La Biblioteca’?</Content>
         </Dialog>
@@ -2486,7 +2486,7 @@
         </Dialog>
         <Dialog ID="9" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador5</VoiceFile>
           <Content>Recientemente ha sido exaltada a Plaga Urbana, y parece ser que la Sección 6 de los Zwei ha caído víctima de esta.</Content>
         </Dialog>
@@ -2498,13 +2498,13 @@
         </Dialog>
         <Dialog ID="11" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador6-01</VoiceFile>
           <Content>Sí, es Walter. Parece que ha sido derrotado en la Biblioteca.</Content>
         </Dialog>
         <Dialog ID="12" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador7</VoiceFile>
           <Content>Iluso viejo amigo… Lucho tanto para escalar entre los rangos, y no obstante así es como acaba él.</Content>
         </Dialog>
@@ -2516,7 +2516,7 @@
         </Dialog>
         <Dialog ID="14" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador8</VoiceFile>
           <Content>Mi corazón está intacto, muchacho. Nunca me agrado mucho Walter.</Content>
         </Dialog>
@@ -2528,19 +2528,19 @@
         </Dialog>
         <Dialog ID="16" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador9</VoiceFile>
           <Content>Él no tenía realmente el potencial para ser un hombre capaz. Parecía ingenioso, pero sus pensamientos eran unidimensionales.</Content>
         </Dialog>
         <Dialog ID="17" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador10</VoiceFile>
           <Content>Y ese hábito de hacer preguntas retóricas… Dios mío, eso era molesto.</Content>
         </Dialog>
         <Dialog ID="18" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador11</VoiceFile>
           <Content>Aunque supongo que en verdad si tenía talento, viendo como logro quedarse en la Sección 6 sin ser degradado más. Tal vez era su savoir-faire, o mera suerte.</Content>
         </Dialog>
@@ -2564,13 +2564,13 @@
         </Dialog>
         <Dialog ID="22" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador12</VoiceFile>
           <Content>Ciertamente lo hace. Philip es un experto con respecto a preparar ssanghwa-cha.</Content>
         </Dialog>
         <Dialog ID="23" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador13</VoiceFile>
           <Content>Tal vez debería aprender de él para poder hacer un poco para a mi esposa.</Content>
         </Dialog>
@@ -2588,25 +2588,25 @@
         </Dialog>
         <Dialog ID="26" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador14</VoiceFile>
           <Content>Espera, Yuna. Philip ha mostrado excelente resultados en batalla también. Ya se ha vuelto un honorable Fixer de Grado 5.</Content>
         </Dialog>
         <Dialog ID="27" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador15</VoiceFile>
           <Content>Si su pericia para hacer ssanghwa-cha contara para las evaluaciones de grado, facilmente se hubiera convertido en un Grado 1 y obtenido un color, también.</Content>
         </Dialog>
         <Dialog ID="28" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador16</VoiceFile>
           <Content>Si, si el fuera recibir un color… Tal vez sería un amarillo brillante, parecido al matiz de esta yema de huevo flotando encima de mí té.</Content>
         </Dialog>
         <Dialog ID="29" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador17</VoiceFile>
           <Content>Jojo, es también el color de la forsitia, mi flor favorita…</Content>
         </Dialog>
@@ -2648,7 +2648,7 @@
         </Dialog>
         <Dialog ID="36" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador18</VoiceFile>
           <Content>¿Fue la Promesa del Ayer como esperábamos?</Content>
         </Dialog>
@@ -2678,7 +2678,7 @@
         </Dialog>
         <Dialog ID="41" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador19</VoiceFile>
           <Content>Aun así, lograste lidiar con ello y volver con viva. Eres el orgullo de nuestra Oficina, Yuna.</Content>
         </Dialog>
@@ -2696,7 +2696,7 @@
         </Dialog>
         <Dialog ID="44" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador20</VoiceFile>
           <Content>Ah, no hay necesidad de preocuparse por nuestra situación financiera. He recibido una petición que podría mantenernos a flote por tres meses.</Content>
         </Dialog>
@@ -2708,7 +2708,7 @@
         </Dialog>
         <Dialog ID="46" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador21-01</VoiceFile>
           <Content>De hecho lo es.</Content>
         </Dialog>
@@ -2726,25 +2726,25 @@
         </Dialog>
         <Dialog ID="49" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador22</VoiceFile>
           <Content>Es ‘La Biblioteca’. He intentado contactar la Oficina de Baston, pero parecen estar ocupados con su propio trabajo.</Content>
         </Dialog>
         <Dialog ID="50" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador23</VoiceFile>
           <Content>Por lo tanto, por ahora nos haremos cargo nosotros mismos.</Content>
         </Dialog>
         <Dialog ID="51" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador24</VoiceFile>
           <Content>Aún más, esta petición fue asignada directamente a nosotros por la Asociacion Zwei.</Content>
         </Dialog>
         <Dialog ID="52" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador25</VoiceFile>
           <Content>Puede ser que hayan considerado necesario una Ofician capacitada en combate para este trabajo.</Content>
         </Dialog>
@@ -2756,7 +2756,7 @@
         </Dialog>
         <Dialog ID="54" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador26</VoiceFile>
           <Content>Por favor, Yuna.</Content>
         </Dialog>
@@ -2768,19 +2768,19 @@
         </Dialog>
         <Dialog ID="56" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador27</VoiceFile>
           <Content>Estás en lo correcto, Philip.</Content>
         </Dialog>
         <Dialog ID="57" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador28</VoiceFile>
           <Content>Comprendo que es tu primera vez con una petición de clase Plaga Urbana, pero intenta relajarte un poco.</Content>
         </Dialog>
         <Dialog ID="58" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador29</VoiceFile>
           <Content>Piensa en ello como una experiencia para aprender. Observa como yo o Yuna actuamos en combate.</Content>
         </Dialog>
@@ -2792,7 +2792,7 @@
         </Dialog>
         <Dialog ID="60" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador30</VoiceFile>
           <Content>De verdad tienes formas de hacer que te alimente, Yuna.</Content>
         </Dialog>
@@ -2828,7 +2828,7 @@
         </Dialog>
         <Dialog ID="66" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador31</VoiceFile>
           <Content>…Philip. ¿Qué tal si tenemos una pequeña conversación los dos una vez hemos terminado con este trabajo?</Content>
         </Dialog>
@@ -2840,7 +2840,7 @@
         </Dialog>
         <Dialog ID="68" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador32</VoiceFile>
           <Content>Parece como si tuvieras dudas en tu mente.</Content>
         </Dialog>
@@ -2936,13 +2936,13 @@
         </Dialog>
         <Dialog ID="83" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador33</VoiceFile>
           <Content>Jojojo… ¿Philip?</Content>
         </Dialog>
         <Dialog ID="84" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador34-01</VoiceFile>
           <Content>Casi llego a sentir de nuevo el sabor del ssanghwa-cha que bebí hace poco.</Content>
         </Dialog>
@@ -2960,7 +2960,7 @@
         </Dialog>
         <Dialog ID="87" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador35</VoiceFile>
           <Content>Un placer conocerla. Usted debe ser Angela.</Content>
         </Dialog>
@@ -2972,7 +2972,7 @@
         </Dialog>
         <Dialog ID="89" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador36</VoiceFile>
           <Content>Dígame, ¿qué tenemos que hacer para matarla?</Content>
         </Dialog>
@@ -2984,7 +2984,7 @@
         </Dialog>
         <Dialog ID="91" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador37</VoiceFile>
           <Content>Ya veo, ya veo. Tiene la capacidad para bromear casualmente, hmm.</Content>
         </Dialog>
@@ -2996,7 +2996,7 @@
         </Dialog>
         <Dialog ID="93" Model="살바도르">
           <Teller>Salvador</Teller>
-          <Title>Dawn Operator</Title>
+          <Title>Operador del Amanecer</Title>
           <VoiceFile>ch4_Dawn_ep1_salvador38</VoiceFile>
           <Content>Entonces, Angela, no espere tener un final pacífico después de empapar sus manos con tanta sangre.</Content>
         </Dialog>
