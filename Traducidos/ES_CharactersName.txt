@@ -43,7 +43,7 @@
 	<Name ID="45">Netzach</Name>
 	<Name ID="46">Tiphereth</Name>
 	<Name ID="47">Miembro de Zwei</Name>
-	<Name ID="999">Disconocido</Name>
+	<Name ID="999">Desconocido</Name>
 	<Name ID="48">Pierre</Name>
 	<Name ID="49">Amigo de Lulu</Name>
 	<Name ID="50">Fixer de Grado 9 de Yun</Name>
@@ -55,7 +55,7 @@
 	<Name ID="56">Fixer de Grado 7 Ordinario</Name>
 	<Name ID="57">Fixer de Grado 7 Capaz</Name>
 	<Name ID="58">Maleantes de la Pandilla Hacha</Name>
-	<Name ID="59">Executivo de la Pandilla Hacha</Name>
+	<Name ID="59">Ejecutivo de la Pandilla Hacha</Name>
 	<Name ID="60">Perro Errante</Name>
 
   <Name ID="61">Alpha</Name>
@@ -74,9 +74,9 @@
   <Name ID="71">Dalloc</Name>
   <Name ID="72">Bono</Name>
 
-  <Name ID="73">Habitante de la Cuidad del Amor</Name>
-  <Name ID="74">Habitante de la Cuidad del Amor</Name>
-  <Name ID="75">Habitante de la Cuidad del Amor</Name>
+  <Name ID="73">Habitante de la Ciudad del Amor</Name>
+  <Name ID="74">Habitante de la Ciudad del Amor</Name>
+  <Name ID="75">Habitante de la Ciudad del Amor</Name>
   <Name ID="76">Tomerry</Name>
   <Name ID="77">Tomerry</Name>
 
@@ -106,7 +106,7 @@
   <Name ID="95">Emma &amp; Noah</Name>
   <Name ID="96">Emma</Name>
   <Name ID="97">Noah</Name>
-  <Name ID="98">Leon</Name>
+  <Name ID="98">León</Name>
   <Name ID="99">Mono</Name>
   <Name ID="100">Elefante</Name>
 
@@ -124,7 +124,7 @@
   <Name ID="110">Wang</Name>
   <Name ID="111">Jin</Name>
   <Name ID="112">Mi</Name>
-  <Name ID="113">Cara sonriente</Name>
+  <Name ID="113">Cara Sonriente</Name>
   
   <Name ID="114">Los Niños que Lloran</Name>
   <Name ID="115">Niño Ciego</Name>
@@ -190,7 +190,7 @@
   <Name ID="160">Martillo</Name>
   <Name ID="161">Mazo y Hacha</Name>
   <Name ID="162">Daga</Name>
-  <Name ID="163">Guanteletes y Revolver</Name>
+  <Name ID="163">Guanteletes y Revólver</Name>
   <Name ID="164">Lanza</Name>
   <Name ID="165">Espada Larga</Name>
   <Name ID="166">Dagas Gemelas</Name>
@@ -222,7 +222,7 @@
   <Name ID="272">Títere de Angelica</Name>
 
   <Name ID="281">Elena</Name>
-  <Name ID="282">La Cruz de Bermellón</Name>
+  <Name ID="282">La Cruz Bermellón</Name>
   
   <Name ID="291">Pluto</Name>
   <Name ID="292">Sombra</Name>
