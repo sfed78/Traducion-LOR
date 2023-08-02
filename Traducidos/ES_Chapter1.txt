@@ -805,7 +805,7 @@
           <Teller>Mang-chi</Teller>
           <Title>Rata</Title>
           <VoiceFile>ch1_rat_ep1_mangchi6</VoiceFile>
-          <Content>Tenemos que preparar suficiente dinero para ofrecer a los Perros Callejeros.</Content>
+          <Content>Tenemos que preparar suficiente dinero para ofrecer a los Perros Errantes.</Content>
         </Dialog>
         <Dialog ID="20" Model="피트">
           <Teller>Pete</Teller>
