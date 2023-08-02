@@ -3,71 +3,71 @@
   <GroupName>Bremen</GroupName>
   <Character ID="Meow">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Alright~ I’ll show you how sharp a cat’s claws are!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Hey, we’re being met with pretty passionate cheers?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Oink, MuMu! Ready to perform?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Muy bien~ ¡Les mostrare lo afiladas que pueden ser las garras de un gato!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Oye, ¿nos están dando aplausos muy apasionados?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Oink, MuMu! ¿Listos para tocar?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">That was a pretty satisfying performance~</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I don’t think these will make any pretty sounds even if we tried playing them?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Esa fue una interpretación muy satisfactoria~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿No creo que estos vayan a hacer ningún sonido lindo aún si intentamos tocar con ellos?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Aah… This is it. The exact sound… I’ve been looking for…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Aah… Este era. El sonido preciso… que he estado buscando…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">It stings to lose my bandmates.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Don’t feel so bad. You created your best music in your last moments!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Arde perder a mis compañeros de banda.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No te sientas mal. ¡Creaste tu mejor música en tus últimos momentos!</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I was hoping for a more charming sound…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Did you just hear that? That made a sound that made me go “This is it!”</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Haha! You’re full of different tunes!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Ansiaba un sonido más encantador…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Oíste eso? Eso hizo un sonido que me hizo pensar “¡Este era!”</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Jaja! ¡Estás lleno de diferentes tonadas!</BattleDialog>
     </Type>
   </Character>
   <Character ID="Mumu">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Fly like a rabbit, sting like a bee~</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Those guys look like they’ll make unusual sounds, huh?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Ready when you are~ Okay, time for a bit of creative exercise.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Volar como un conejo, picar como una abeja~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Esos sujetos se ven como que harán sonidos inusuales, ¿huh?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estoy listo cuando lo estén~ Bien, es hora de un poco de ejercicio creativo.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">That wasn’t a perfect harmony, but~ It had its own personality.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Huu-cha. Today’s performance was a success~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Eso no fue una armonía perfecta, pero~ Tuvo su propia personalidad.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Huu-cha. La tocada de hoy fue un éxito~</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">That’s the sound… You guys heard it too, right? The melody that penetrates me…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Ese era el sonido… Ustedes chicos también lo escucharon, ¿verdad? La melodía que me penetra…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Thanks for being passionate about making music until the end.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">I’ll say your last sound was pretty soft.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Gracias por tener tanta pasión sobre hacer música hasta el final.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Diría que tu último sonido fue bastante suave.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">This isn’t it, either… I just can’t seem to recreate that sound.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Ah, that sounded pretty alright, I think~?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Heehaw was a big fan of this kind of sound.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Este tampoco era… Simplemente no parece que pueda recrear ese sonido.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Ah, eso sonó bastante bien, ¿creo~?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Heehaw era un gran fan de este tipo de sonido.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Oink">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Can we really perform more later…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">MuMu and Meow cheered me up… I can do it.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I’m ready. Can we start right away?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Realmente podemos tocar más despues…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">MuMu y Meow me animaron… Puedo hacerlo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Estoy listo. ¿Podemos empezar de una vez?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Now we can go to the supermarket, my favorite place.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Didn’t I do okay this performance?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Ahora podemos ir al supermercado, mi lugar favorito.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿No lo hice bien en esta tocada?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I finally nailed it… In my dying breath…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Por fin lo conseguí… En mi último aliento…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">…I didn’t want to hear the last performance of a fellow musician.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">We won’t be able to perform together anymore…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…No quería escuchar la última interpretación de un compañero músico.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No podremos tocar juntos otra vez…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">What if I added a bit more… bone-grinding noises to that sound?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Hmm… This technique won’t cut it.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Be honored that you can be an instrument for making beautiful sounds.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Qué tal si agregara un poco más de… ruidos de huesos triturados a ese sonido? </BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Hmm… Esta técnica no servirá.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Siéntete honrado de que puedes ser un instrumento para hacer sonidos hermosos.</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
