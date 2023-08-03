@@ -3,7 +3,7 @@
   <GroupName>Bremen</GroupName>
   <Character ID="Meow">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Muy bien~ ¡Les mostrare lo afiladas que pueden ser las garras de un gato!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Muy bien~ ¡Les mostraré lo afiladas que pueden ser las garras de un gato!</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">Oye, ¿nos están dando aplausos muy apasionados?</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">¡Oink, MuMu! ¿Listos para tocar?</BattleDialog>
     </Type>
