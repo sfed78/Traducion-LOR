@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GroupName>Dawn Office</GroupName>
+  <GroupName>Oficina del Amanecer</GroupName>
   <Character ID="Salvador">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Don’t expect to get away scot free.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Those fellows seem to have rather frail bodies.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">An old man’s body holds as much experience as it has aged.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">No esperen salir de aquí impunes.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Esos individuos parecen tener cuerpos bastante frágiles.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">El cuerpo de un viejo contiene tanta experiencia como ha envejecido.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I pay much respect to your courage.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">It must have been a bad day for these fellows.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Le doy mis respetos a tu coraje.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Debe de haber sido un mal día para estos individuos.</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Thank you for your service, Yuna. You can rest easy—our Office will be fine.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">I have no attachment to life, however… I’m simply worried about that young fellow.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">Oh dear… Philip, I believe you should save your strength and retreat.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_3">…To feel more sadness at such an old age.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_4">I suppose it was still too much…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">Gracias por tu servicio, Yuna. Puedes descansar tranquila - nuestra Oficina estará bien.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">No le tengo apego a la vida, sin embargo… Simplemente me preocupa aquel jovenzuelo.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Oh vaya… Philip, considero que deberías guardar tus fuerzas y retirarte.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">…Sentir más tristeza a tan mayor edad.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Supongo que todavía fue demasiado…</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">There’s no need for all of us to share the same fate.</BattleDialog>
+      <BattleDialog ID="DEATH_0">No hay necesidad de que todos nosotros compartamos el mismo destino.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">You must’ve gotten tired, seeing as your attacks became more predictable as time went by.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Victory is at hand.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">One can predict their opponent’s next play by observing their movements.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Debes de haberte cansado, viendo que tus ataques se hicieron más predecibles conforme pasaba el tiempo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">La victoria está al alcance.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Uno puede predecir la siguiente maniobra de su oponente al observar sus movimientos.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Yuna">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">They might seem like easy targets, but they’re still an Urban Plague… Let’s be careful.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">No need to overdo it, Philip. You can stay behind and support us.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Let’s strike first before the opponents start attacking.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Pueden parecer objetivos fáciles, pero siguen siendo una Plaga Urbana… Seamos cuidadosos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No necesitas excederte, Philip. Puedes quedarte atrás y apoyarnos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Golpeemos primero antes de que los oponentes empiecen a atacar.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">That ended smoothly. Philip did a pretty good job, although he got scared.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Eso acabó sin complicación. Philip hizo un muy buen trabajo, aunque se asustó.</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">I’ll take care of Philip and the Office for you… Rest in peace, gramps.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">I hope he can do fine by himself…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">…Watch for the right timing and run away. The situation isn’t looking good.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_3">I will fight till the end even if the tide is against us…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_4">I’ll be fine, don’t worry about us and just run.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">Me haré cargo de Philip y la Oficina por ti… Descansa en paz, abue.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Espero que pueda hacerlo bien por su cuenta…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">…Espera por el momento correcto y huye. La situación no se ve bien.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Lucharé hasta el final incluso si la marea está en nuestra contra…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Estaré bien, no te preocupes por nosotros y sólo corre.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">It’s the fault of my ineptitude.</BattleDialog>
+      <BattleDialog ID="DEATH_0">Es la culpa de mi ineptitud.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">You weren’t too bad, but you couldn’t capitalize on your skills.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Forecasting what happens after can make or break the battle.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">That won’t stand a chance against me.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">No estuviste nada mal, pero no pudiste capitalizar tus habilidades.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Anticipar lo que pasa después puede llevar al éxito o fracaso en la batalla.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eso no tenía oportunidad contra mí.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Philip">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I’ll end up being a burden to others if I don’t try…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Acabare siendo una carga para otros si no lo intento…</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">I can’t hide behind my seniors all the time.</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">With my skills… I suppose I can impede them at least.</BattleDialog>
     </Type>
