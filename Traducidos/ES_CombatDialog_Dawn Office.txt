@@ -54,27 +54,27 @@
   </Character>
   <Character ID="Philip">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Acabare siendo una carga para otros si no lo intento…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">I can’t hide behind my seniors all the time.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">With my skills… I suppose I can impede them at least.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Acabaré siendo una carga para otros si no lo intento…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No puedo esconderme detrás de mis superiores todo el tiempo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Con mis habilidades… Supongo que puedo ser un obstáculo por lo menos.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">We’ve suffered some damage as well… But I suppose it’s the results that matter the most.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Nosotros sufrimos daño tambien… Pero supongo que son los resultados lo que importa más.</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">……What will be the point of winning now.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">I’m sorry… I’m not strong enough. I can’t take any more of this…</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">I’m too much of a coward to get anything done…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">……Qué punto tiene ganar ahora.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Lo siento… No soy lo suficientemente fuerte. No puedo aguantar más de esto.…</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Soy demasiado cobarde para conseguir acabar algo…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">No… It can’t be… This is unexpected.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">There’s no way I can hold out in a situation like this…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">I wouldn’t have come here if I had known that it would be this dangerous…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No… No puede ser… Esto es inesperado.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No hay forma en que pueda aguantar en una situación como esta…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No hubiera venido aquí de haber sabido que sería tan peligroso…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I’m glad to be of help somehow.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Striking without hesitation is the answer in situations like this, right…?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Nothing will change if I don’t make a move.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Me alegra poder ayudar de alguna forma.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Golpear sin dudar es la respuesta en situaciones como esta, ¿verdad…?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Nada cambiará si no hago un movimiento.</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
