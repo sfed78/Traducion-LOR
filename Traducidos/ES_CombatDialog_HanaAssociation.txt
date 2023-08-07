@@ -78,7 +78,7 @@
   <Character ID="Hana_Mirinae">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">Concentración. Todavía no sabemos de lo que son capaces.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Intentemos mostrar resultados.Let’s try to show some results.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Intentemos mostrar resultados.</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">Espero que sean capaces de demonstrar sus habilidades en su plenitud.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
