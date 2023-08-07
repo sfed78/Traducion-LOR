@@ -1,76 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GroupName>Gaze Office</GroupName>
+  <GroupName>Oficina de la Mirada</GroupName>
   <Character ID="Alloc">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Time for this expensive procedure to prove its worth.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Certainly… It’s trickier to analyze the things here.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">We shouldn’t be rash, and figure out the foe’s behavior before we move…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Hora de que este caro procedimiento demuestre su valor.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Ciertamente… Es más difícil analizar las cosas aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No deberíamos ser imprudentes, y averiguar el comportamiento del rival antes de movernos…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">That felt more honest than how we usually gather intel.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Anyone got badly damaged? Check your bodies.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Eso se sintió más honesto que cómo solemos reunir intel.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Alguien fue gravemente herido? Revisen sus cuerpos.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I didn’t mean to hold others back like this.</BattleDialog>
-      <BattleDialog ID="DEATH_1">I got blinded by money and drove ourselves to hell. What a pathetic twit I’ve become…</BattleDialog>
+      <BattleDialog ID="DEATH_0">No era mi intención retener a otros así.</BattleDialog>
+      <BattleDialog ID="DEATH_1">Fui cegado por dinero y nos conduje al infierno. En qué patético imbécil me he convertido…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I can’t stop here, we have a goal to achieve.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">It’s not good to suffer losses like this.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No puedo para aquí, tenemos una meta que conseguir.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">No es bueno sufrir pérdidas como esta.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Such attacks are only a waste of time.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">You’re in my attack range.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Don’t worry about over here. I just shot down this one.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Tales ataques sólo son un desperdicio de tiempo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estás en mi rango de ataque.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No se preocupen por este lado. Acabo de derribar a este.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Dalloc">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Careful. I can’t make an estimate of their power level.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Look straight ahead if you have time to complain.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Watch for the enemy’s movement.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Con cuidado. No puedo hacer una estimación de su nivel de poder.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Mira hacia el frente si tienen el tiempo de quejarte.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Cuídense del movimiento del enemigo.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I hope this can help us find some leads on the Singularity.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I did sustain a bit of damage… But I have no problem moving.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Espero que esto pueda ayudarnos a encontrar unas pistas sobre la Singularidad.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Sí que recibí algo de daño… Pero no tengo problema moviéndome.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">No… The damage is too severe. I’m at my limit…</BattleDialog>
-      <BattleDialog ID="DEATH_1">My sight is choppy. Something might be wrong with my cam…</BattleDialog>
+      <BattleDialog ID="DEATH_0">No… El daño es demasiado severo. Estoy en mi límite…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Mi vista se entrecorta. Algo debe de estar mal con mi cámara…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">This is bad… More of my parts are being damaged, too.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">We might suffer a serious loss.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Esto es malo… Más de mis partes están siendo dañadas, además.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Puede que suframos una gran pérdida.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Enemy terminated. But the battle isn’t over yet.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">The enemy is in front of me. Must be swift to attack…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">You’re a hindrance… Out of my way.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Enemigo eliminado. Pero la batalla aún no acaba.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">El enemigo está frente a mí. Debo ser rápida en atacar…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Eres un obstáculo… Fuera de mi camino.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Bono">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">We really gotta rethink if this job is worth it…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">You sure we can get the info the Molar Fixers had this way?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Fine, I got it… I’ll take it seriously.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Realmente tenemos que volver a pensar si este trabajo lo vale…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Están seguros de que podemos conseguir la info que los Fixers Molar tenían de esta forma?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Está bien, ye entendí… Lo tomaré con seriedad.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I dunno how valuable these bunches of paper might be, but… Was it really worth fighting tooth and nail for…?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Can we get our two hundred million Ahn now? Not a bad result.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">No sé qué tan valiosos estos montones de papel puedan ser, pero… ¿Realmente valía la pena luchar con uñas y dientes por por ellos…?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Podemos recibir nuestros dos millones de Ahn ahora? No es un mal resultado.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I just wanna get outta this hellhole!!!</BattleDialog>
-      <BattleDialog ID="DEATH_1">Curses. Shouldn’t have come to an outrageous place like this…</BattleDialog>
+      <BattleDialog ID="DEATH_0">¡¡¡Sólo quiero salir de este infiero!!!</BattleDialog>
+      <BattleDialog ID="DEATH_1">Maldición. No debería de haber venido a un lugar ultrajante como este…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">You can’t spread yourself thin and then just pass away…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">You’re all mad… This was a dumb idea in every way imaginable.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No pueden dispersarse y sólo morir…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Están todos locos… Esta era una idea tonta en toda forma imaginable.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">That was way too close… This ain’t good.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I chose the more expensive surgery for a reason.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">We did take some heavy damage… How long can I hold out?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Eso estuvo muy cerca… Esto no es bueno..</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Elegí la cirugía más cara por una razón.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Sí recibimos algo de daño pesado… ¿Cuánto puedo aguantar?</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
